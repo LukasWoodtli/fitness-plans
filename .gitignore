@@ -1,0 +1,6 @@
+.idea/
+.venv/
+dfmf.txt
+__pycache__/
+*.pyc
+fitness.ics

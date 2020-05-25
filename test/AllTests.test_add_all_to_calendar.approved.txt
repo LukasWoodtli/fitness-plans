@@ -1,0 +1,1439 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Fitness
+BEGIN:VEVENT
+SUMMARY:1. TAG: THREE-TIMES START-UP WORKOUT I (circa 11 Minuten)
+DTSTART;VALUE=DATE:20200526
+DTEND;VALUE=DATE:20200526
+DESCRIPTION:1. TAG: THREE-TIMES START-UP WORKOUT I (circa 11 Minuten)\n\nK
+ urz vorweg: Vergiss das regelmäßige Atmen nicht\, dann hältst du länge
+ r durch\, weil der Körper mit ausreichend Sauerstoff versorgt wird. Das s
+ oll kein Scherz sein. Tatsächlich vergessen Anfänger oder Wiedereinsteig
+ er und selbst Profis bei neuen\, herausfordernden Übungen zu atmen\, weil
+  sie sich auf die Ausführung der Übung konzentrieren.\n\nERFOLG IST EINE
+  LAWINE\, ES KOMMT NUR AUF DEN ERSTEN SCHNEEBALL AN.\n\nClint Eastwood\n\n
+ 2 Minuten Rope Skipping: so gut\, wie du kannst\n\n1 Minute Push-up auf Kn
+ ien: zügiges Tempo\, dann 1 Minute Pause\n\nWiederhole Übung 1 und 2 ink
+ lusive Pause insgesamt 3-mal.\n\nDEIN KÖRPER BRAUCHT MAGNESIUM\n\nDu trai
+ nierst viel und die Umbaumaßnahmen des Stoffwechsels verbrauchen viel Mag
+ nesium. Um Wadenkrämpfe und Augenlidzucken zu vermeiden und vor allem um 
+ den Körper mit dem zu versorgen\, was er jetzt braucht\, würde ich magne
+ siumreiches Mineralwasser empfehlen. Generell sind alle Mineralwässer\, d
+ ie 180 und mehr Milligramm pro Liter Magnesium enthalten\, für Sportler g
+ ut geeignet. Trinke zwei bis drei Liter am Tag. Nicht mehr\, denn übersch
+ üssige Mineralstoffe werden ohnehin wieder ausgeschwemmt.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. TAG: THREE-TIMES START-UP WORKOUT II (circa 15 Minuten)
+DTSTART;VALUE=DATE:20200527
+DTEND;VALUE=DATE:20200527
+DESCRIPTION:2. TAG: THREE-TIMES START-UP WORKOUT II (circa 15 Minuten)\n\n
+ Muskelkater? So fühlt sich Erfolg an. Nichts schmerzt schöner als positi
+ ve Veränderung. Aus medizinischer Sicht spricht nichts dagegen\, trotz Mu
+ skelkater zu trainieren\, sofern du nicht den betreffenden Muskel trainier
+ st. Da die Übungsauswahl bei meinem Programm ausgewogen ist\, sollte das 
+ nicht der Fall sein.\n\n1 Minute Squat: Wenn du nach 1 Minute noch Power h
+ ast\, verlängere auf 1\,5 Minuten.\n\n50 x Dynamic Handplank\n\n20 Sekund
+ en Rope Skipping\n\n20 Sekunden Sprint\n\nWiederhole das Workout insgesamt
+  3-mal.\n\nKraft versus Weiblichkeit?\n\nDie oft bestehende Angst vor mask
+ ulinen Muskeln durch Krafttraining ist in der Regel unbegründet. Oft hör
+ e ich\, dass Frauen Angst haben\, Arme wie Madonna zu bekommen und nicht m
+ ehr weiblich auszusehen. Keine Angst\, bevor das passiert\, gibt es ein pa
+ ar Vorstufen: Arme werden fest\, Arme werden noch fester\, haben mehr Kraf
+ t\, werden schließlich athletisch und dann definiert. Bis hierher könnt 
+ ihr bedenkenlos trainieren. Der dicke Bizeps und der Madonna-Arm sind das 
+ Resultat eines wirklich harten\, intensiven und mehrfachen täglichen Trai
+ nings. Die Testosteronwerte im weiblichen Körper sind zu gering\, um unte
+ r normalen Umständen und mehrmaligem Training pro Woche eine außergewöh
+ nliche Muskelmasse aufzubauen.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. TAG: BASIC RUN I (circa 23 Minuten)
+DTSTART;VALUE=DATE:20200528
+DTEND;VALUE=DATE:20200528
+DESCRIPTION:3. TAG: BASIC RUN I (circa 23 Minuten)\n\nAufgabe Nummer drei:
+  Bleibe am Ball und halte durch\, denn Phase eins ist die Aufbauphase und 
+ damit die schwierigste. Nachher geht’s viel einfacher. Meine Erfahrungen
+  zeigen\, dass Einsteiger\, die in dieser Phase abbrechen\, lange brauchen
+ \, um wieder in ein Trainingsprogramm einzusteigen\, da sie im Geiste kein
+ e Erfolgserlebnisse verbucht haben\, die mit Training in Verbindung stehen
+ . Wer durchhält\, setzt das Rad der Bewegung und damit den Trainingserfol
+ g in Gang. Es lohnt sich.\n\nIndoor oder outdoor: 23 Minuten laufen\n\nWar
+ m-up: 5 Minuten normales Tempo\n\n15 Minuten Intervall: 30 Sekunden schnel
+ les Tempo und 2\,5 Minuten normales Tempo im Wechsel\n\nCool-down: 3 Minut
+ en gehen\, normales Tempo\n\nSeitenstechen durch falsches Atmen?\n\nDas Ge
+ rücht hält sich hartnäckig\, dass Seitenstechen beim Sport durch falsch
+ es Atmen ausgelöst wird. Die Ursache ist wissenschaftlich nicht eindeutig
+  geklärt. Ich persönlich bekomme Seitenstechen\, wenn ich zeitnah vor de
+ m Sport zu viel gegessen oder getrunken habe. Manchmal hilft es\, das Temp
+ o zu verlangsamen und zu einer erschütterungsarmen\, weichen Lauftechnik 
+ überzugehen. Sollte das nichts bringen: Verlege das Training auf einen an
+ deren Zeitpunkt des Tages.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. TAG: FOUR-PARTS TRAINING (circa 15 Minuten)
+DTSTART;VALUE=DATE:20200529
+DTEND;VALUE=DATE:20200529
+DESCRIPTION:4. TAG: FOUR-PARTS TRAINING (circa 15 Minuten)\n\nWer nach dem
+  Lauf gestern unter der Dusche stand\, weiß jetzt\, was mit der Komfortzo
+ ne gemeint war: Zone\, where the magic happens. Veränderung passiert erst
+ \, wenn wir unsere bequemen\, bekannten Pfade verlassen und uns auf neue\,
+  effektive Herausforderungen einlassen.\n\n30 x Dynamic Elbow Anchor recht
+ s\n\n30 x Butterfly Reverse in Bauchlage\n\n30 x Dynamic Elbow Anchor link
+ s\n\n30 x Upper Crunch: Lege dir zur Kontrolle einen Tischtennisball oder 
+ etwas Ähnliches unter die Schulterblätter. Der Ball darf nicht berührt 
+ werden.\n\n1\,5 Minuten Box Skipping: mäßiges Tempo\n\nWiederhole das Wo
+ rkout noch einmal.\n\nDer Sixpack-Mythos\n\nWer regelmäßig Crunches mach
+ t\, nimmt deshalb nicht hauptsächlich am Bauch ab. Crunches dienen dazu\,
+  die Muskeln am Bauch zwar schön zu definieren\, Fett wird aber am ganzen
+  Körper verbrannt\, denn der sucht sich selbst aus\, wo er das Fett verbr
+ ennen möchte. Es ist deshalb auch wichtig\, dass du deinen Gegenspieler z
+ um Bauch\, den Rücken\, ebenso regelmäßig trainierst. Tust du das nicht
+ \, leidet deine aufrechte Haltung und dein Rücken wird krumm\, weil ihm d
+ er Halt gegenüber den starken Bauchmuskeln fehlt.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. TAG: ALL YOU CAN DO (circa 19 Minuten)
+DTSTART;VALUE=DATE:20200530
+DTEND;VALUE=DATE:20200530
+DESCRIPTION:5. TAG: ALL YOU CAN DO (circa 19 Minuten)\n\nWenn du bis hierh
+ er alle Aufgaben erledigt hast\, wirst du merken\, dass es immer schwierig
+ er wird auszusteigen. Du willst das\, was du dir bis hierher erarbeitet ha
+ st\, auf keinen Fall aufgeben.\n\nAlle Übungen sind zeitlich begrenzt. Te
+ ile dir deine Intervalle gut ein\, lasse die Pausen nicht zu lang werden. 
+ Wenn deine Kraft nachlässt\, senke die Wiederholungszahl oder erhöhe die
+  Pausenzeit.\n\nWarm-up: 1 Minute lockeres Rope Skipping\, dann 30 Sekunde
+ n Pause\n\n2 Minuten Rope Skipping: so viele Sprünge wie möglich\, dann 
+ 2 Minuten Pause\n\n5 Minuten Dynamic Handplank: so viele wie möglich. Ges
+ talte deine Pausen während der Übung selbst. Mache anschließend 2 Minut
+ en Pause.\n\n6 Minuten Push-up: so viele wie möglich\n\nHALTUNG\, BITTE!\
+ n\nZiehe bei ALLEN Übungen die Schultern nach unten und lasse den Nacken 
+ lang. So trainierst du dir nicht nur eine gesunde Haltung an\, die das Ske
+ lettsystem optimal stützt\, sondern verleihst deinem Körper gleichzeitig
+  eine würdevolle Ausstrahlung. Studien haben übrigens ergeben\, dass sic
+ h die Körperhaltung auch auf das Gemüt überträgt.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6. TAG: INTERVAL BASIC WORKOUT (circa 25 Minuten)
+DTSTART;VALUE=DATE:20200531
+DTEND;VALUE=DATE:20200531
+DESCRIPTION:6. TAG: INTERVAL BASIC WORKOUT (circa 25 Minuten)\n\nMögliche
+ rweise bist du bislang noch nie so sehr an deine sportlichen Grenzen gegan
+ gen wie bei den Push-ups gestern. Wenn du das nächste Mal keine Kraft meh
+ r hast\, wandle diese Erschöpfung gedanklich in Kraft um. Glaube mir\, es
+  funktioniert.\n\nWarm-up: 2 Minuten Rope Skipping\,Tempo im Sekundentakt\
+ n\nSquat (Übung in Sek./Pause in Sek.) 105/60\n\n➜ 90/30 ➜ 75/0\n\nPu
+ sh-up auf Knien (Übung in Sek./Pause in Sek.)\n\n75/60 ➜ 60/45 ➜ 45/3
+ 0\n\nSprint (Übung in Sek./Pause in Sek.)\n\n75/60 ➜ 60/30 ➜ 45/0\n\n
+ Butterfly Reverse in Bauchlage (Übung in Sek./Pause in Sek.)\n\n75/60 ➜
+  60/45 ➜ 45/30\n\nUpper Crunch (Übung in Sek./Pause in Sek.)\n\n75/30 
+ ➜ 60/30 ➜ 45/0\n\nBox Skipping (maximales Tempo in Sek./zügiges Tempo
+  in Sek.)\n\n10/20 ➜ 10/20 ➜ 10/20\n\nCool-down: 1 Minute schnelles Ge
+ hen auf der Stelle\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:7. TAG: TWELVE-HOURS WORKOUT (12 STUNDEN)
+DTSTART;VALUE=DATE:20200601
+DTEND;VALUE=DATE:20200601
+DESCRIPTION:7. TAG: TWELVE-HOURS WORKOUT (12 STUNDEN)\n\nMit diesem Tag en
+ det unsere erste Trainingswoche. Übrigens kannst du ganz nebenbei auch no
+ ch etwas Gutes für dein Umfeld tun: Gib deine Erfahrungen weiter\, erzäh
+ le\, was du bisher über dich gelernt hast\, und zeige\, dass ein starker 
+ Wille ein Leben verändern kann. Ich hoffe\, dass so viele Menschen wie m
+ öglich von diesem Buch erfahren und diesen Weg in ein gesünderes und fit
+ teres Leben wählen. Denn dieses Projekt hat Erfolgsgarantie. Wer mich ken
+ nt\, weiß\, dass ich gnadenlos ehrlich bin. Das hat zwar schon so manchen
+  Kunden in die Flucht geschlagen\, aber die\, die geblieben sind – wie a
+ uch meine Freunde\, Familie und Arbeitskollegen –\, vertrauen mir\, denn
+  das\, was ich sage\, funktioniert. Glaube auch du mir\, halte dich an das
+ \, was ich dir rate\, und du wirst in Kürze einen neuen Freund im Spiegel
+  begrüßen können: dich in deinem neuen Körper.\n\nHeute erwartet dich 
+ die härteste Probe der Woche. Der Wochen-Showdown\, denn es ist Sixpack-F
+ eeling angesagt. Spanne den ganzen Tag deinen Bauch an. Egal\, ob du gerad
+ e im Auto sitzt\, im Büro bist oder Fahrrad fährst.\n\nZiehe den Bauchna
+ bel ein\, spanne dabei deine Bauchmuskeln an\, atme aber trotzdem ruhig un
+ d gleichmäßig weiter.\n\nBewahre Haltung! Zeige eine stolze Brust\, inde
+ m du die Schultern nach hinten unten absenkst und den Nacken lang lässt.\
+ n\nDiese Übung kannst du dir auch für die Zeit nach dem Buch merken. Nat
+ ürlich ersetzt sie kein Training. Es handelt sich hierbei lediglich um ei
+ n kleines Zusatztraining. Wie viele Momente am Tag lassen wir ungenutzt ve
+ rstreichen\, dabei könnten wir sie wunderbar für eine kleine Trainingsei
+ nheit verwenden. Dafür soll dich diese Übung sensibilisieren. Spüre die
+  Trainingslücken des Tages auf und spanne die Bauchmuskeln an. Je länger
+  und öfter du es schaffst\, umso besser.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8. TAG: PAUSENTAG
+DTSTART;VALUE=DATE:20200602
+DTEND;VALUE=DATE:20200602
+DESCRIPTION:8. TAG: PAUSENTAG\n\nDeine erste große Herausforderung hast d
+ u bestanden. Du bist mit den Aufgaben gewachsen\, vielleicht sogar bereits
+  über dich hinaus. Du hast dich ein gutes Stück vom Aufgeben entfernt un
+ d kannst stolz auf dich sein. Aber bitte cool bleiben und hart weitertrain
+ ieren. Nur wer sich bis zum Ende durchbeißt und jede einzelne Trainingsei
+ nheit nach bestem Gewissen ausführt\, hat wirklich Grund zur Euphorie. Vo
+ rher heißt es: Zähne zusammenbeißen und weitermachen.\n\nDeine Muskeln 
+ haben sich die erste wohlverdiente Pause erarbeitet. Heute findet kein Tra
+ ining statt. Lege dein Augenmerk auf gutes Essen. Bitte keine übermotivie
+ rten Sportaktionen. Dieser Tag dient der Regeneration und ist dringend ein
+ zuhalten. Denn wer richtig trainiert\, braucht auch Pausen. Überprüfe no
+ ch einmal\, ob du wirklich dein Bestes gegeben hast.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9. TAG: AS LONG AS YOU CAN (circa 18 Minuten)
+DTSTART;VALUE=DATE:20200603
+DTEND;VALUE=DATE:20200603
+DESCRIPTION:9. TAG: AS LONG AS YOU CAN (circa 18 Minuten)\n\nSeit einer Wo
+ che lebst du nun so vorbildlich\, wie du kannst. Du weißt alles über Ern
+ ährung\, was du wissen musst\, um effektiv abzunehmen\, und trainierst je
+ den Tag. Training und Ernährung sind nur eine Frage der Einstellung – a
+ lle Menschen haben dasselbe Grundbedürfnis: von Mama und Papa\, unseren K
+ indern\, Freunden und Kollegen geliebt zu werden. Als wir auf die Welt kam
+ en\, wurde dieses Bedürfnis nach Liebe oft mit Nahrung befriedigt: Baby w
+ eint und Mama lüpft ihr Shirt. Und auch später noch: ein Schokoriegel al
+ s Trost nach dem Fahrradunfall\, das Lieblingsessen wird gekocht\, weil di
+ e Freundin weggezogen ist … Nahrungsaufnahme wurde auf diesem Weg schon 
+ immer eng mit Emotionen verknüpft.\n\nAber nun sind wir erwachsen und wis
+ sen\, wie wir es uns gut gehen lassen können und dass Liebe nicht im Scho
+ koriegel steckt. Wir entkoppeln das Gespann\, indem wir uns bewusst machen
+ \, dass wir uns und unseren Körper mehr lieben werden\, wenn wir auf den 
+ Schokoriegel verzichten. Und wir lernen noch etwas: gelassen zu sein! Denn
+  kein anderer Gemütszustand bremst die Fettverbrennung mehr als Stress. B
+ efinden wir uns in einer Stresssituation\, produziert der Körper vermehrt
+  die Hormone Cortisol und Ghrelin. Ghrelin regt den Appetit an\, denn bei 
+ Stress denkt der Körper unter anderem an Hungersnot und will Vorräte anl
+ egen. Cortisol führt dazu\, dass die überschüssigen Kalorien als Bauchf
+ ett eingelagert werden. Das macht keinen Traumkörper. Also ran an den Spe
+ ck!\n\n3 Minuten Box Skipping: So schnell\, wie du willst\, so viele\, wie
+  du schaffst.\n\nSetze die Pausen bei den folgenden Übungen selbst\, maxi
+ mal 10 Sekunden.\n\n5 Minuten Squat\n\n6 Minuten Dynamic Elbow Anchor\, re
+ chts und links jeweils 3 Minuten\n\n4 Minuten Upper Crunch\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. TAG: BOXER'S WORKOUT (circa 18 Minuten)
+DTSTART;VALUE=DATE:20200604
+DTEND;VALUE=DATE:20200604
+DESCRIPTION:10. TAG: BOXER'S WORKOUT (circa 18 Minuten)\n\nHeute hast du e
+ in Sechstel des Programms absolviert. Vielleicht hast du es bereits gescha
+ fft\, dem Training einen festen Platz in deiner Morgenroutine zu geben: au
+ fstehen und direkt wieder hinlegen – auf die Trainingsmatte\, schwitzen\
+ , duschen\, frühstücken und rein in den Tag. Wir starten oft mit Rope Sk
+ ipping als Warm-up. Wer sich zwischendurch denkt: „Boah\, wie langweilig
+ !” – Achtung! Seilspringen verbrennt deutlich mehr Kalorien als Crosst
+ rainer\, Fahrrad-Ergometer oder sogar Joggen.\n\nWarm up: 5 Minuten Rope S
+ kipping\, so fehlerfrei wie möglich\n\nEIN DIAMANT IST EIN STÜCK KOHLE\,
+  DAS MEHR AUSDAUER HATTE ALS DIE ANDEREN.\n\nHerkunft unbekannt\n\n1\,5 Mi
+ nuten Lunge rechts\n\n1 Minute Jumping Jab rechts: schnelles Tempo\n\n1\,5
+  Minuten Lunge links\n\n1 Minute Jumping Jab links: schnelles Tempo\n\nUpp
+ er Crunch und Lower Crunch im Wechsel ohne Pause (Übungen in Sek.)\n\n60/
+ 60 ➜ 45/45 ➜ 45/45\n\nCool-down: 3 Minuten Rope Skipping in langsamem 
+ Tempo\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11. TAG: BASIC RUN PLUS (circa 25 Minuten)
+DTSTART;VALUE=DATE:20200605
+DTEND;VALUE=DATE:20200605
+DESCRIPTION:11. TAG: BASIC RUN PLUS (circa 25 Minuten)\n\nHeute geht es wi
+ eder an die frische Luft. Es gibt kein schlechtes Wetter\, es gibt nur sch
+ lechte Kleidung. Diese Extraportion Sauerstoff macht nicht nur wach\, sond
+ ern auch schön. Im Sommer gibt’s einen Hauch Farbe ins Gesicht\, bei Re
+ gen einen Feuchtigkeitskick. Ein günstigeres Lifting\, als durch winterka
+ lte Luft zu rennen\, habe ich noch nicht entdeckt. Raus mit dir!\n\nOutdoo
+ r: 20 Minuten laufen\n\n5 Minuten normales Tempo ➜ 1 Minute schnelles Te
+ mpo ➜ 3 Minuten normales Tempo ➜ 1 Minute schnelles Tempo ➜ 3 Minute
+ n normales Tempo ➜ 1 Minute schnelles Tempo ➜ 3 Minuten normales Tempo
+ \n\nCool-down: 3 Minuten gehen\, normales Tempo\n\nAnschließend zu Hause 
+ oder auch draußen:\n\n45 Sekunden Push-up auf Knien: so viele wie möglic
+ h\n\n1 Minute Snow Angel in Bauchlage\n\nWiederhole die Übungen jeweils 3
+ -mal im Wechsel.\n\nBESORGE DIR LAUFSCHUHE\n\nAbsolviere bitte die Laufein
+ heiten nicht in flachen Sommerschuhen\, Chucks oder ähnlichem Schuhwerk. 
+ Besorge dir ein paar Laufschuhe – deinen Gelenken zuliebe.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12. TAG: BALANCE CORE (circa 18 Minuten)
+DTSTART;VALUE=DATE:20200606
+DTEND;VALUE=DATE:20200606
+DESCRIPTION:12. TAG: BALANCE CORE (circa 18 Minuten)\n\nEin Wort zu den za
+ hlreichen Boxfitness-Elementen. Ich hoffe\, du findest Gefallen daran\, de
+ nn die Kampfsport-Workouts gehören zu den effektivsten sportlichen Aktivi
+ täten. Sie machen schnell und athletisch\, kräftigen\, sind ausdauernd u
+ nd auspowernd zugleich. Zudem ist der Kalorienverbrauch enorm hoch und die
+  Übungen machen obendrein noch großen Spaß.\n\nWarm-up: 1 Minute Rope S
+ kipping\, möglichst gleichmäßig und flach\n\n3 Minuten Jumping Jack\n\n
+ 1\,5 Minuten Lunge mit Knee Lift rechts (ziehe das hintere Knie nach vorn 
+ hoch – ohne Sprung): ohne Schuhe mit einem Kissen oder etwas ähnlich Wa
+ ckeligem unter dem vorderen Fuß. Wenn dein Knie oben ist\, halte jeweils 
+ 1 Sekunde die Balance.\n\n50 x Dynamic Elbow Anchor rechts\n\n1\,5 Minuten
+  Lunge mit Knee Lift links (ziehe das hintere Knie nach vorn hoch – ohne
+  Sprung): ohne Schuhe mit einem Kissen oder etwas ähnlich Wackeligem unte
+ r dem vorderen Fuß. Wenn dein Knie oben ist\, halte jeweils 1 Sekunde die
+  Balance.\n\n50 x Dynamic Elbow Anchor links\n\nCool-down: 3 Minuten Rope 
+ Skipping in langsamem Tempo\n\nROPE SKIPPING OHNE SEIL\n\nProbleme mit den
+  Nachbarn wegen des Seilspringens? Lass das Seil einfach weg und tue so\, 
+ als ob du es noch in den Händen halten würdest. Lege eine Matte unter. F
+ ühre dann aber bitte schnelle kleine Sprünge aus\, denn ohne Seil ist de
+ r Trainingseffekt deutlich geringer.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:13. TAG: POWER COMBO (circa 21 Minuten)
+DTSTART;VALUE=DATE:20200607
+DTEND;VALUE=DATE:20200607
+DESCRIPTION:13. TAG: POWER COMBO (circa 21 Minuten)\n\nNur noch ein Tag\, 
+ dann hast du die ersten zwei Wochen geschafft. Du hast mehr Power\, denn S
+ toffwechsel\, Muskeln\, Bänder und Sehnen passen sich an das neue Leben a
+ n und schätzen die neuen Herausforderungen. Du wirst leichter\, verbrenns
+ t Kalorien und weißt die bessere\, gesündere Ernährung und die Energie\
+ , die sie dir liefert\, zu schätzen.\n\nEINE MÄCHTIGE FLAMME ENTSTEHT AU
+ S EINEM WINZIGEN FUNKEN.\n\nDante Alighieri\n\n8 x Jumping Jab rechts\n\n8
+  x Rope Skipping ohne Seil\n\n8 x Jumping Jab links\n\n8 x Squat\n\nWieder
+ hole die Cardioeinheit (1. bis 4.) in 7 Minuten so oft wie möglich. Mache
+  dann 2 Minuten Pause.\n\n6 Minuten Push-up auf Knien: Gestalte deine Paus
+ en selbst\, maximal 10 Sekunden.\n\nUpper Crunch und Lower Crunch im Wechs
+ el ohne Pause (Übungen in Sek.)\n\n75/75 ➜ 60/60 ➜ 45/45\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:14. TAG: NO EXCUSES (8 MINUTEN)
+DTSTART;VALUE=DATE:20200608
+DTEND;VALUE=DATE:20200608
+DESCRIPTION:14. TAG: NO EXCUSES (8 MINUTEN)\n\nSechs Wochen noch. Vielleic
+ ht hast du nun eine Ahnung\, was dich am Ende erwartet. Vergiss nicht\, di
+ ch jede Woche zu fotografieren. Pinne deine Fotoserie an die Wand\, damit 
+ du siehst\, welche Sprünge du gemacht hast.\n\n2 Minuten Box Skipping: so
+  schnell du kannst\n\n2 Minuten Squat: im tiefen Sitz haltend\, ohne Pause
+ \n\n2 Minuten Butterfly Reverse in Bauchlage: ohne die kleinste Pause\n\n2
+  Minuten Upper Crunch: ohne Pause\n\nDIE AUSFÜHRUNG MACHT DEN UNTERSCHIED
+ \n\nSchnell kann jeder. Wichtig bei der Ausführung der Übungen ist eine 
+ andere Sache: Bestleistung statt Bestzeit\, also WIE du die Übungen machs
+ t. Bei falscher Ausführung kann der Effekt um bis zu 80 Prozent verpuffen
+ . Falsche Crunches beispielsweise bringen so viel für den Trainingserfolg
+ \, wie eine halbe Stunde länger zu schlafen\, wenn man nicht bei jedem An
+ heben an seine Grenze geht.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15. TAG: PAUSENTAG
+DTSTART;VALUE=DATE:20200609
+DTEND;VALUE=DATE:20200609
+DESCRIPTION:15. TAG: PAUSENTAG\n\nWer die letzten Tage nach meinem Trainin
+ gsplan gearbeitet hat\, wird seinen Körper deutlich spüren. Aus diesem G
+ rund gibt es heute wieder einen Pausentag. Bitte nutze diesen Tag wirklich
+  für eine sportliche Pause. Du wirst sie brauchen. Wenn möglich\, gehe i
+ n die Sauna\, ins Schwimmbad oder ins Kino\, triff dich mit Freunden\, kur
+ z: Tue dir etwas Gutes\, etwas\, das dir wirklich Spaß macht\, sodass du 
+ bestmöglich entspannen kannst. Und noch einmal zur Erinnerung: Bleibe dei
+ nen neuen Ernährungsgewohnheiten treu.\n\nSCHLAFEN!\n\nWer hart trainiert
+  und einen strengen Trainingsplan verfolgt\, sollte auch darauf achten\, e
+ inen Schlafplan einzuhalten\, um dem Körper die nötige Menge an Regenera
+ tionszeit zur Verfügung zu stellen. Mindestens sieben Stunden Schlaf pro 
+ Nacht empfehlen Experten. Und: zwei Stunden vor dem Zubettgehen kein Train
+ ing mehr. So viel Zeit braucht der Stoffwechsel\, um wieder auf den Normal
+ modus herunterzufahren.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16. TAG: INTERVAL ATTACK (circa 18 Minuten)
+DTSTART;VALUE=DATE:20200610
+DTEND;VALUE=DATE:20200610
+DESCRIPTION:16. TAG: INTERVAL ATTACK (circa 18 Minuten)\n\nGestern Ruhe\, 
+ heute Sturm. Wir wollen nicht viele Worte\, sondern lieber Kilos verlieren
+ ! Heute wiederholen sich fast alle Übungen aus den letzten zwei Wochen. S
+ chau dir das Workout genau an\, präge es dir ein und lege los. Verliere k
+ eine Zeit zwischen den Übungen.\n\n3 Minuten Sprint: schnelles Tempo\n\n1
+ \,5 Minuten Squat: zügiges Tempo\n\n1 Minute Box Skipping\n\n1 Minute Pus
+ h-up auf Knien: so viele wie möglich\n\n1\,5 Minuten Jumping Jab links\n\
+ n1 Minute Dynamic Elbow Anchor rechts\n\n1\,5 Minuten Jumping Jab rechts\n
+ \n1 Minute Dynamic Elbow Anchor links\n\n1\,5 Minuten Dynamic Handplank: i
+ n schnellem Tempo\n\n1 Minute Jumped Knee Lift rechts: leicht mit dem vord
+ eren Bein gesprungen\n\n1\,5 Minuten Box Skipping: schnelles Tempo\n\n1 Mi
+ nute Jumped Knee Lift links: leicht mit dem vorderen Bein gesprungen\n\n1 
+ Minute Snow Angel in Bauchlage\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:17. TAG: LEG AND ARM KILLER (circa 11 Minuten)
+DTSTART;VALUE=DATE:20200611
+DTEND;VALUE=DATE:20200611
+DESCRIPTION:17. TAG: LEG AND ARM KILLER (circa 11 Minuten)\n\nMan könnte 
+ unsere Fitnessreise mit einer Flussmündung vergleichen. Hier\, an diesem 
+ Punkt des Trainings\, vereinen sich zwei Flüsse und bilden einen größer
+ en\, stärkeren Strom: Die ersten Erfolge der Low-Carb-Ernährung und die 
+ des Muskeltrainings treffen aufeinander. Lass dich von diesem Strom mitrei
+ ßen bis ans Ziel – dorthin\, wo dein Körper an eine Lebensführung gew
+ öhnt sein wird\, die dich dauerhaft fit und schlank sein lässt.\n\nWarm-
+ up: 4 Minuten\n\n1 Minute Joggen auf der Stelle\n\n1 Minute Jumping Jab re
+ chts\n\n1 Minute Sprint\n\n1 Minute Jumping Jab links\n\nEs geht ohne Paus
+ e weiter:\n\n45 Sekunden Push-up\n\n45 Sekunden Trizeps Dip\n\n45 Sekunden
+  Push-up auf Knien\n\n30 Sekunden Trizeps Dip\, dann 10 Sekunden Pause\n\n
+ 1 Minute Jumped Knee Lift rechts\n\n45 Sekunden Deep Tap links\n\n1 Minute
+  Jumped Knee Lift links\n\n45 Sekunden Deep Tap rechts\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18. TAG: CORE CHECK (circa 17 Minuten)
+DTSTART;VALUE=DATE:20200612
+DTEND;VALUE=DATE:20200612
+DESCRIPTION:18. TAG: CORE CHECK (circa 17 Minuten)\n\nUnd wieder ein Train
+ ing mit Crunches. Gemein? Nicht\, wenn du lernst\, sie zu lieben. Ich werd
+ e dir kein Werkzeug an die Hand geben\, wie die kleinen fiesen Dinger leic
+ hter zu meistern sind\, aber ich habe eine gute Idee\, wie du sie intensiv
+ ieren könntest: Atme aus\, wenn du den Oberkörper anhebst. Je intensiver
+  du ausatmest\, desto größer ist die Anspannung in den Bauchmuskeln. Pro
+ biere es im Sitzen oder im Stehen einmal aus: Atme so lange aus\, bis kein
+  Hauch mehr zu hören ist. Stimmt's? Und jetzt ran an deine neue Lieblings
+ übung.\n\nWarm-up: 3 Minuten Rope Skipping\n\nTeil 1\n\n1 Minute Dynamic 
+ Elbow Anchor rechts\n\n2 Minuten Upper Crunch\n\n1 Minute Dynamic Elbow An
+ chor links\n\n2 Minuten Lower Crunch\n\n3 Minuten Rope Skipping\, dann 1 M
+ inute Pause\n\nTeil 2\n\n45 Sekunden Block and Punch\n\n1 Minute Anchor re
+ chts\n\n45 Sekunden Block and Punch\n\n1 Minute Anchor links\n\nTeil 1\n\n
+ Teil 2\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:19. TAG: ADVANCED RUN (30 MINUTEN)
+DTSTART;VALUE=DATE:20200613
+DTEND;VALUE=DATE:20200613
+DESCRIPTION:19. TAG: ADVANCED RUN (30 MINUTEN)\n\nHeute ist wieder ein Lau
+ ftraining angesagt. Nach einem fünfminütigen Warm-up-Lauf gibst du für 
+ 25 Minuten etwas mehr Gas. Von der sechsten bis zur 22. Minute erhöhst du
+  dein Tempo über dein normales Lauftempo hinaus\, sodass du keine normale
+  Unterhaltung mehr führen kannst. Deine Atemfrequenz ist zwar hoch\, aber
+  nicht so hoch\, dass du abbrechen müsstest. Passe dein Tempo immer wiede
+ r an. Wenn es sich leicht anfühlt\, ziehe ein wenig an\, und wenn du das 
+ Gefühl hast\, du müsstest aufhören\, drossle das Tempo etwas. Gehe für
+  die letzten drei Minuten in ein lockeres Auslaufen über.\n\nEs gibt übr
+ igens außer deinem Unterbewusstsein noch eine andere große Motivationsbr
+ emse. Vielleicht hast du damit bereits Erfahrungen gemacht. Gibt es\, wenn
+  du von deinem Projekt erzählst\, eher selten Anerkennung\, sondern meist
+  negative oder sogar abfällige Bemerkungen? In etwa so: „Wieso machst d
+ u dir so einen Stress?“\,„Es gibt doch Wichtigeres“ oder „Das funk
+ tioniert sowieso nicht“. Da spricht der blanke Neid. Der Mensch ist ein 
+ soziales Wesen und kann nicht überleben\, ohne mit anderen in Interaktion
+  zu treten. Deshalb fällt es uns auch so schwer\, uns nicht mit anderen z
+ u vergleichen. Jetzt ist da plötzlich jemand\, der alles richtig macht. D
+ as nervt natürlich ungemein. Mache dir keine Gedanken darüber. Das ist r
+ eine Energieverschwendung. Glaube mir: JEDER Mensch wäre gern zufrieden m
+ it seinem Körper. Neid ist – in einem Metier\, das so von Konkurrenzkam
+ pf geprägt ist wie der Sport – eine Selbstverständlichkeit. Konzentrie
+ re dich auf dein Ziel\, nutze den Zweifel von außen als Antrieb und gehe 
+ deinen Weg unbeirrt weiter.\n\nWENN ICH ÜBERS WASSER LAUFE\, SAGEN MEINE 
+ KRITIKER: "NICHT MAL SCHWIMMEN KANN DER."\n\nBerti Vogts\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:20. TAG: PIZZA BOY COMBO (circa 27 Minuten)
+DTSTART;VALUE=DATE:20200614
+DTEND;VALUE=DATE:20200614
+DESCRIPTION:20. TAG: PIZZA BOY COMBO (circa 27 Minuten)\n\nHerzlichen Glü
+ ckwunsch! Du bist am Ende des ersten Drittels deiner Route angelangt. Bitt
+ e während der Fahrt nicht mehr aussteigen! Phase eins ist mit dem heutige
+ n Tag abgeschlossen und damit verlagern sich die Schwerpunkte von den Basi
+ cs ein wenig zu den anspruchsvolleren Aufgaben.\n\n10 x Jumping Jab rechts
+ \n\n10 x Jumping Jack\n\n10 x Jumping Jab links\n\n10 x Jumping Jack\n\n45
+  Sekunden Deep Knee rechts: Der Oberkörper liegt am Oberschenkel an\, der
+  Oberschenkel des Standbeins ist fast parallel zum Boden.\n\n45 Sekunden S
+ tatic T-Stance rechts mit Snow Angel\n\n45 Sekunden Push-up auf Knien\, da
+ nn 30 Sekunden Pause\n\n45 Sekunden Deep Knee links: Der Oberkörper liegt
+  am Oberschenkel an\, der Oberschenkel des Standbeins ist fast parallel zu
+ m Boden:\n\n45 Sekunden Static T-Stance links mit Snow Angel\n\n1 Minute P
+ izza Boy: normale Kreise\, dann 30 Sekunden Pause\n\n45 Sekunden Pizza Boy
+ : kleine Kreise\, maximales Tempo\, dann 30 Sekunden Pause\n\n45 Sekunden 
+ Pizza Boy: kleine Kreise\, maximales Tempo\n\nWiederhole das Workout insge
+ samt 3-mal.\n\nNUTZE JEDE SPORTLICHE CHANCE FÜR DICH\n\nEin Drittel unser
+ es 60-Tage-Programms liegt jetzt hinter uns. Diese ersten 20 Tage sind von
+  entscheidender Bedeutung für dein Durchhaltevermögen. Das Grundgerüst 
+ für dein neues sportliches Leben ist hiermit gebaut. Denn in jedem von un
+ s steckt ein Sportler. Ich möchte dir dazu etwas aus meiner Kindheit erz
+ ählen:\n\nEs gibt Babys\, die sind wie ein Laib Brot: Weiß gepudert lieg
+ en sie den ganzen Tag herum\, als wären sie nur zum Essen da. Dann sind d
+ a Babys\, die schon sehr früh zu zappeln und zu plappern beginnen und ins
+ gesamt aktiver sind. Und schließlich gibt es Babys wie mich: Ich habe dre
+ i Kinderwagen zerschlissen\, musste in freier Wildbahn an die Laufleine un
+ d mein Kinderbettchen glich einem Minihochsicherheitstrakt\, nachdem ich m
+ ir bei einem Fluchtversuch den Arm gebrochen hatte. Nein\, ich war nicht h
+ yperaktiv\, das hatte man meiner Mutter attestiert.\n\nEs gibt eben unters
+ chiedliche Typen\, und das ist gut so. Wenn alle als Jäger auf die Welt k
+ ämen\, wer würde dann Beeren sammeln? Ich unterscheide gern zwischen den
+  Genießern\, den aktiven Genießern und den Aktiven. Eine Tatsache\, die 
+ den Erstgenannten allerdings einen willkommenen Nährboden für Ausreden l
+ iefert: „Ich bin kein sportlicher Typ“\, „Ich war schon als Baby ehe
+ r ruhig“ und so weiter. Aber man wird nicht als Sportler geboren – das
+  ist ein Mythos. Als aktiver Mensch findet man nur schneller zum Sport. Ob
+ wohl von Natur aus unterschiedliche Wesensarten und Körpertypen existiere
+ n\, haben sie doch alle etwas gemeinsam – und das ist die Reaktion des K
+ örpers auf Sport. Die Fähigkeit\, sich zu bewegen\, ist\, wie atmen und 
+ essen\, eine lebenswichtige Notwendigkeit. Alle Menschen profitieren gleic
+ h davon\, unabhängig von unserem Naturell\, unserer Erziehung oder Herkun
+ ft. Sport ist ein entscheidender\, wenn nicht DER entscheidende Weg zu ein
+ em besseren Selbst. Und wer jetzt sagt\, das sei übertrieben\, hat nicht 
+ wie ich miterlebt\, wie sich Menschen durch Sport verändern können: vom 
+ vorsichtigen Zauderer zum selbstsicheren Winner. Das erlebe ich immer wied
+ er bei meinen Kunden und in meinen Kursen. Nutze die Chance\, die der Spor
+ t dir für dein Leben bietet.\n\nMIT PHASE ZWEI KOMMST DU DEINEM ZIEL IMME
+ R NÄHER. 60 TAGE! DAS IST ZU SCHAFFEN. STELLE DIR GANZ BEWUSST VOR DURCHZ
+ UHALTEN. DAS STÄRKT DEINEN WILLEN. DER KÖRPER BRAUCHT LAUT STUDIEN AUS D
+ ER REHABILITATIONSMEDIZIN ETWA 21 TAGE\, UM PSYCHE UND PHYSIS ZU VERÄNDER
+ N. AB JETZT HAT SICH DEIN KÖRPER AN DIE NEUE SITUATION – EINEN ALLTAG M
+ IT SPORT – GEWÖHNT. LEGE DIESE GEWOHNHEIT BITTE NICHT MEHR AB!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:21. TAG: POWER BLOCK (circa 15 Minuten)
+DTSTART;VALUE=DATE:20200615
+DTEND;VALUE=DATE:20200615
+DESCRIPTION:21. TAG: POWER BLOCK (circa 15 Minuten)\n\nAb jetzt kannst du 
+ den Fokus noch etwas mehr auf die Intensität der Übungen legen. Deshalb 
+ starten wir diese Phase mit einer Trainingskombination\, die deine Konzent
+ rationsfähigkeit steigert\, und das können am besten Übungen\, die Bala
+ nce erfordern.\n\n2 Minuten Dynamic T-Stance: pro Seite 1 Minute. Standbei
+ n beugen und strecken\; die Arme sind dabei angewinkelt und führen den Bu
+ tterfly Reverse aus.\n\n45 Sekunden Deep Knee rechts\n\n1 Minute Push-up: 
+ wenn nichts mehr geht\, auf den Knien abstützen\n\n45 Sekunden Deep Knee 
+ links\n\n1 Minute Push-up\n\n2\,5 Minuten Block (ohne Punch)\, das heißt\
+ , du bist nur auf den Unterarmen abgestützt. Wenn der Rücken schmerzt\, 
+ lege einfach die Knie ab.\n\nCardioeinheit: Rope Skipping/Sprint in maxima
+ lem Tempo (Übungen in Sek.)\n\n120/20 ➜ 90/20 ➜ 60/20 ➜ 20/20 ➜ 2
+ 0/20 ➜ 20/0\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22. TAG: PAUSENTAG
+DTSTART;VALUE=DATE:20200616
+DTEND;VALUE=DATE:20200616
+DESCRIPTION:22. TAG: PAUSENTAG\n\nEs ist wieder so weit: Dein Körper brau
+ cht eine Erholungspause. Die Pause ist ein wichtiger Teil des Trainings\, 
+ der deinen Körper voranbringt. Es ist keine Pause\, in der nichts geschie
+ ht. Kleinste Muskelrisse werden geflickt\, die Nährstofftanks aufgefüllt
+ \, das ganze System wird auf sein neues Trainingsniveau hin überprüft\, 
+ angepasst und neu justiert. Deshalb ist es so wichtig\, an diesem Tag ganz
+  gezielt die Ernährung zu überprüfen. Nimm deshalb noch einmal das Kapi
+ tel über die Ernährung zur Hand. Mein Training hat neben seiner hohen Ef
+ fektivität noch zwei weitere Pluspunkte: Es macht Spaß UND schmeckt! Wie
+  gesagt: Es gibt keine Ausrede mehr\, nicht zu trainieren.\n\nDAS RAD DREH
+ T SICH\n\nMit den vergangenen Tagen hast du es geschafft. Du hast das Rad 
+ der Energie in Bewegung gesetzt. Das Glücksrad der Veränderung\, das nic
+ ht nur deinen Körper fitter macht\, sondern auch andere Elemente deines L
+ ebens verbessert. Du hast bis hierhin so viel geleistet\, dass dein Körpe
+ r jetzt weiß\, dass alles möglich ist\, und nicht mehr umkehren will. Du
+  hast mehr Power\, denn Stoffwechsel\, Muskeln\, Bänder und Sehnen passen
+  sich an das veränderte Leben an und schätzen die neuen Herausforderunge
+ n. Jetzt schaust du nicht mehr weg\, wenn es anstrengend wird\, sondern gi
+ bst alles. Du wirst leichter\, verbrennst Kalorien und weißt die gesünde
+ re Ernährung und die Energie\, die sie dir liefert\, zu schätzen. All da
+ s ist das Rad der Energie\, das Zeichen deines starken Willens. Dieses Rad
+  hat gerade erst angefangen\, sich zu drehen – nach knapp zwei Wochen. E
+ s wird jeden Tag schneller\, die Erfolge\, die du verbuchen wirst\, werden
+  nun sichtbar. Jeden Tag dreht sich dieses Rad weiter und die Kraft\, mit 
+ der es dich schlank und fit macht\, potenziert sich.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:23. TAG: POWER OF THANKFULNESS (circa 18 Minuten)
+DTSTART;VALUE=DATE:20200617
+DTEND;VALUE=DATE:20200617
+DESCRIPTION:23. TAG: POWER OF THANKFULNESS (circa 18 Minuten)\n\nHeute mal
+  etwas zum Thema „Geht nicht – gibt’s nicht“. Etwas abgedroschen\,
+  aber dahinter steckt eine wichtige Trainingsweisheit: Es gibt „neu”\,
+  „ungewohnt”\, „anspruchsvoll”\, „anstrengend” …\, aber nich
+ t „geht nicht“. Sei froh\, dass du gesund bist und die Möglichkeit ha
+ st\, dieses Training überhaupt machen zu können. Ich wünsche mir\, dass
+  du dich eine Minute lang hinsetzt und dir all das\, was du hast – und d
+ amit ist nicht „mein Haus\, mein Auto\, mein Boot“ gemeint\, sondern d
+ ie wahren Güter wie Gesundheit\, Freunde\, Familie oder Freiheit –\, vo
+ r Augen führst und dankbar bist. Empfinde diese Dankbarkeit und nutze sie
+  beim Training als positive Energie.\n\nUpper Crunch (Übung in Sek./Pause
+  in Sek.)\n\n90/30 ➜ 75/30 ➜ 60/30 ➜ 45/20 ➜ 30/10 ➜ 15/5 ➜ 15
+ /0\n\n2 Minuten Trizeps Dip Advanced: pro Seite 1 Minute\n\n30 Sekunden Tr
+ izeps Dip: so viele wie möglich\n\nLower Crunch (Übung in Sek./Pause in 
+ Sek.)\n\n90/30 ➜ 75/30 ➜ 60/30 ➜ 45/20 ➜ 30/10 ➜ 15/5 ➜ 15/0\n
+ \nWas ist dran am Eiweißshake?\n\nViele Sportler schwören auf die süße
+ n Shakes\, die angeblich all das\, was der Körper während des Trainings 
+ verloren hat\, wiederauffüllen. Mein Rat: Finger weg von den Billigvarian
+ ten aus dem Drogeriemarkt! In den Dingern steckt meist jede Menge Zucker. 
+ Mache dir entweder selbst einen Shake aus Milch und Frucht. Dann weißt du
+  definitiv\, was drin ist. Und lecker ist er obendrein. Oder lasse dich in
+  Fachgeschäften beraten.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:24. TAG: DOUBLE POWER (circa 16 Minuten)
+DTSTART;VALUE=DATE:20200618
+DTEND;VALUE=DATE:20200618
+DESCRIPTION:24. TAG: DOUBLE POWER (circa 16 Minuten)\n\nHeute gehst du bei
+  den Übungen – auch wenn sie dann nicht mehr vollkommen aussehen – an
+  deine Grenze. Schlucke den positiven Schmerz hinunter und erreiche das Zi
+ el. Wenn du das Gefühl hast\, dich beispielsweise beim Push-up kaum noch 
+ auf und ab zu bewegen\, sieh auf deinen Ellenbogen. Dir wird bewusst\, das
+ s du noch ganz gut dabei bist\, und du wirst weitermachen. Ein Trost: Fün
+ f Sekunden nach Ablauf der Zeit ist der Schmerz schon wieder weg.\n\nWarm-
+ up: 4 Minuten Rope Skipping\, so flach wie möglich über dem Boden\, auch
+  wenn du viele Fehler machst\n\nTeil 1\n\n1 Minute: 4 x Dynamic Handplank\
+ , dann 1 x Push-up\, möglichst oft wiederholen\; Hände etwas weiter als 
+ schulterbreit aufsetzen\n\n20 x Squat: die letzte Wiederholung 8 Sekunden 
+ unten halten\n\n20 x Deep Tap rechts\n\n20 x Squat: die letzte Wiederholun
+ g 8 Sekunden unten halten\n\n20 x Deep Tap links\n\n1 Minute Dynamic T-Sta
+ nce rechts\n\nTeil 2\n\nWie Teil 1\, jedoch bei Übung 1 statt des Push-up
+ s 1 x Block and Punch\, Übung 3 und 5 Deep Knee\, Übung 6 Dynamic T-Stan
+ ce links.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:25. TAG: CLIFF YOUNG'S ENERGY WORKOUT (circa 20 Minuten)
+DTSTART;VALUE=DATE:20200619
+DTEND;VALUE=DATE:20200619
+DESCRIPTION:25. TAG: CLIFF YOUNG'S ENERGY WORKOUT (circa 20 Minuten)\n\nIc
+ h möchte dir heute die Geschichte von Cliff Young erzählen. Cliff ist ei
+ n australischer Bauer. Im Alter von 61 Jahren startete er beim Ultramarath
+ on von Sidney nach Melbourne (875 Kilometer). Nur die Besten der besten Sp
+ itzenathleten der Welt wagen sich an den Fünf-Tage-Marathon heran. Die be
+ sten der Welt – und Cliff. In Overall und Gummistiefeln holte er sich se
+ ine Startnummer ab. Presse\, Ärzte und Athleten versuchten\, ihn von sein
+ em Vorhaben abzubringen\, aber er ging an den Start. Wer bei einem Rennen 
+ dieses Kalibers irgendetwas erreichen will\, muss Kräfte und Etappen peni
+ bel planen\, um auch nur ansatzweise eine Chance zu haben. Üblicherweise 
+ laufen die Athleten 18 Stunden und schlafen dann sechs Stunden. Cliff wuss
+ te nichts von dieser Einteilung. Er lief Tag und Nacht durch – und gewan
+ n. Das Preisgeld von 10 000 Dollar verschenkte er an die Mitläufer. Als i
+ hn später ein Journalist fragte\, wie er sich auf das Rennen vorbereitet 
+ habe\, sagte er: „Ich wuchs auf einer Farm auf\, wir hatten weder Pferde
+  noch Traktoren\, also musste ich unsere 2000 Schafe zu Fuß eintreiben. U
+ nser Land war 2000 Morgen groß. Ich wusste\, ich würde das Rennen schaff
+ en.“ Egal ob Mythos\, Legende oder Wahrheit: Was sind nach dieser Geschi
+ chte 20 Minuten Workout?\n\n2 Minuten Rope Skipping\, 1 Minute Jumping Jab
+  rechts: Einheiten noch einmal wiederholen\, dann 1 Minute Pause\n\n4 Minu
+ ten: 20 Sekunden Joggen auf der Stelle\, 10 Sekunden schnelle Sprints\, in
+ sgesamt 8 x im Wechsel wiederholen\n\n1 Minute Jumping Jack\, 30 Sekunden 
+ schnelle Box Skippings: Einheiten noch einmal wiederholen\n\n2 Minuten Rop
+ e Skipping\, 1 Minute Jumping Jab links: Einheiten noch einmal wiederholen
+ \n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:26. TAG: PAUSENTAG
+DTSTART;VALUE=DATE:20200620
+DTEND;VALUE=DATE:20200620
+DESCRIPTION:26. TAG: PAUSENTAG\n\nHeute ist Pausentag. Noch ein paar Worte
+  zum Thema „Erkältung und Co.“. Natürlich geht es bei diesem Trainin
+ g auch ums Durchhalten. Aber wer krank ist\, trainiert nicht\, sondern ble
+ ibt im Bett oder schont sich. Krank zu trainieren\, kann lebensgefährlich
+  sein. Wer seinem Körper bei einer Erkältung nicht die entsprechende Ruh
+ e gönnt\, riskiert\, die Erkältung zu verschleppen. Die Entzündung kann
+  – vor allem bei Halsentzündungen – andere Organe wie beispielsweise 
+ das Herz befallen. Sport beansprucht den Körper. Und da der Stoffwechsel 
+ nur bedingt multitaskingfähig ist\, kann er sich nicht um beides kümmern
+ : Entweder er erholt sich oder er setzt seine Kräfte für das Training ei
+ n. Keine Angst – die Muskelmasse\, die du während deiner Krankheitsphas
+ e eventuell verlierst\, auch wenn es zwei Wochen sind\, baust du schnell w
+ ieder auf. Wenn du gründlich auskuriert bist\, kannst du einfach da weite
+ rmachen\, wo du aufgehört hast. Dein Körper wird dir signalisieren\, wan
+ n er wieder fit ist fürs Training. Höre auf ihn!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:27. TAG: CANDY WORKOUT (circa 20 Minuten)
+DTSTART;VALUE=DATE:20200621
+DTEND;VALUE=DATE:20200621
+DESCRIPTION:27. TAG: CANDY WORKOUT (circa 20 Minuten)\n\nBald ist Bergfest
+  – die Hälfte ist fast geschafft. Ich würde mich freuen\, wenn so viel
+ e Leser wie möglich die Inhalte dieses Konzepts auch nach Tag 60 weitestg
+ ehend in ihren Alltag integrieren. Und seien es nur die Ernährungstipps\,
+  vor allem wenn es um den Zucker geht. Denn Zucker verklebt das Eiweiß im
+  Körper\, sodass beispielsweise die Haut unelastisch wird und Falten wirf
+ t. Ihn einfach wegzulassen\, ist aber gar nicht so leicht. Oft ist er in d
+ en Nahrungsmitteln gut versteckt. Wer sich die Inhaltsstoffe auf den Verpa
+ ckungen durchliest\, findet selten noch den Hinweis „Zucker“. Doch all
+ es\, was auf „-ose“ endet\, ist Zucker: Dextrose\, Maltose\, Glukose. 
+ Der Mensch braucht nicht viel davon und in den meisten Nahrungsmitteln ist
+  Zucker bereits enthalten. Wenn wir zusätzlich noch Industriezucker (Scho
+ kolade\, Kuchen\, Zucker im Kaffee …) zu uns nehmen\, wandelt der Körpe
+ r die überschüssige Energie in Fett um. Doch keine Sorge: Der Körper ge
+ wöhnt sich schnell an den neuen Zuckerpegel. Nach einer Woche schmeckt be
+ reits alles\, was gesüßt ist\, viel zu süß. Wenn du Lust auf Naschkram
+  hast: Verfeinere Obst oder einen Naturjoghurt mit etwas Honig oder iss ei
+ nfach ein paar Nüsse und Rosinen.\n\nWarm up: 3 Minuten Diagonal Knee Cru
+ nch\, 1\,5 Minuten pro Seite\n\nDeep Tap rechts/Deep Tap links/Push-up/Upp
+ er Crunch (Übungen in Min.) 2\n\n➜ 2 ➜ 1 ➜ 1\n\nDeep Knee rechts/De
+ ep Knee links/Push-up auf Knien/Lower Crunch (Übungen in Min.) 2\n\n➜ 2
+  ➜ 1 ➜ 1\n\nSnow Angel/Trizeps Dip/Dynamic Handplank/Butterfly Reverse
+  in Bauchlage (Übungen in Min.) 1\n\n➜ 1\,5 ➜ 1 ➜ 1\n\nMache zwisch
+ en den Übungsblöcken jeweils 30 Sekunden Pause.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:28. TAG: 60-SECONDS CHALLENGE (circa 16 Minuten)
+DTSTART;VALUE=DATE:20200622
+DTEND;VALUE=DATE:20200622
+DESCRIPTION:28. TAG: 60-SECONDS CHALLENGE (circa 16 Minuten)\n\nHeute steh
+ t wieder eine meiner Lieblingsübungen auf dem Programm: der Jumping Jab. 
+ Übungen aus dem Bereich Boxfitness lassen mich immer an einen der größt
+ en Sportler der Welt denken: Muhammad Ali. In diesem Sinne heute ein Tipp 
+ von ihm zur perfekten Ausführung eines Jumping Jabs:\n\nGemeint ist\, die
+  Bewegungen des Körpers fließend auszuführen (float like a butterfly)\,
+  aber die Schlaghand schnell und kraftvoll zustechen zu lassen wie den Sta
+ chel einer Biene (sting like a bee).\n\nJede Übung 1 Minute ohne Pause\n\
+ nFLOAT LIKE A BUTTERFLY\, STING LIKE A BEE.\n\nMuhammad Ali\n\nDynamic T-S
+ tance links\n\nJumping Jab rechts\n\nDynamic T-Stance rechts\n\nJumping Ja
+ b links\n\nBox Skipping\n\nJumping Jack\n\nBox Skipping\n\nJumping Jack\n\
+ nJumped Knee Lift links\n\nJumping Jab links\n\nJumped Knee Lift rechts\n\
+ nJumping Jab rechts\n\nBox Skipping\n\nDiagonal Knee Crunch links\n\nBox S
+ kipping\n\nDiagonal Knee Crunch rechts\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:29. TAG: 30-SECONDS CHALLENGE (circa 16 Minuten)
+DTSTART;VALUE=DATE:20200623
+DTEND;VALUE=DATE:20200623
+DESCRIPTION:29. TAG: 30-SECONDS CHALLENGE (circa 16 Minuten)\n\nWahrschein
+ lich bemerkst du zunehmend\, wie sich dein Körper zum Guten verändert. W
+ er regelmäßig leichte Rückenbeschwerden hatte\, dürfte eine deutliche 
+ Linderung verspüren. Übrigens sind mehr als die Hälfte der rund 160 000
+  Bandscheibenoperationen in Deutschland pro Jahr völlig überflüssig. Of
+ tmals leiden die Puffer zwischen den Wirbeln einfach nur zu lange unter N
+ ährstoffmangel\, verursacht durch zu wenig Bewegung. Auch Rückenschmerze
+ n sind also keine Ausrede\, um nicht Sport zu treiben. Im Gegenteil: Jetzt
+  erst recht! Aber bitte vorher mit dem Arzt sprechen.\n\nWarm-up: 3 Minute
+ n Diagonal Knee Crunch\, 1\,5 Minuten pro Seite\n\n30 Sekunden Push-up auf
+  Knien\n\n30 Sekunden Pizza Boy\n\n30 Sekunden Trizeps Dip\n\n30 Sekunden 
+ Butterfly Reverse\n\n30 Sekunden Block and Punch\n\nWiederhole das Workout
+  insgesamt 4-mal\, dazwischen jeweils 1 Minute Pause.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30. TAG: DEEP POWER (circa 15 Minuten)
+DTSTART;VALUE=DATE:20200624
+DTEND;VALUE=DATE:20200624
+DESCRIPTION:30. TAG: DEEP POWER (circa 15 Minuten)\n\nHerzlichen Glückwun
+ sch! Du hast das Basiscamp auf halber Strecke zum Gipfel erreicht. Was fü
+ r ein wundervoller Ausblick\, wenn du an deinem Körper hinunterschaust\, 
+ oder? Es wird noch viel besser. Dieses Konzept lässt dem inneren Schweine
+ hund ohnehin kaum eine Chance. Für alle\, die dennoch ab und an Diskussio
+ nen mit ihm führen: Ignoriere ihn\, ziehe deine Sportklamotten an\, währ
+ end er vor dir herumhopst und versucht\, dich von deinem Glück abzubringe
+ n. Sobald du den ersten Schritt gemacht hast\, ist er still. Er wird aufge
+ ben. Vertraue mir. Je mehr du dich ernst nimmst\, desto mehr nimmt auch er
+  dich ernst\, respektiert dein Vorhaben und lässt dich trainieren.\n\nWar
+ m-up: 3 Minuten 4 x Jumping Jab rechts\, 4 x Jumping Jab links im Wechsel\
+ n\n10 x Squat\n\n20 x Deep Tap rechts\n\n10 x Squat\n\n20 x Deep Tap links
+ \n\n10 x Squat\n\n20 x Deep Knee rechts\n\n10 x Squat\n\n20 x Deep Knee li
+ nks\n\n1\,5 Minuten Trizeps Dip Advanced links\n\n1\,25 Minuten Dynamic T-
+ Stance rechts\n\n1\,5 Minuten Trizeps Dip Advanced rechts\n\n1\,25 Minuten
+  Dynamic T-Stance links\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:31. TAG: TWIN TRAINING (circa 18 Minuten)
+DTSTART;VALUE=DATE:20200625
+DTEND;VALUE=DATE:20200625
+DESCRIPTION:31. TAG: TWIN TRAINING (circa 18 Minuten)\n\nBevor du dich ans
+  Training machst\, noch eine Sache: Ich werde oft gefragt\, wie wichtig ei
+ ne zusätzliche Portion Vitamin C ist. Auch hier gilt: Viel hilft nicht vi
+ el. Bei all den überflüssigen Vitaminen\, die von Brausetablettenschlür
+ fern tagtäglich über den Toilettengang in die städtische Kanalisation g
+ espült werden\, können wir davon ausgehen\, dass wir uns um die Gesundhe
+ it unserer Ratten keine Sorgen machen müssen. Im Klartext: Wer sich ausge
+ wogen ernährt\, braucht keine zusätzliche Dosis Vitamin C.\n\nDynamic Ha
+ ndplank/Butterfly Reverse in Bauchlage (Übungen in Sek.)\n\n60/90 ➜ 60/
+ 90 ➜ 45/75\n\n2 Minuten: 10 x Deep Knee rechts\, 10 x Dynamic T-Stance r
+ echts\, im zügigen Wechsel wiederholen\n\nBlock and Punch/Snow Angel in B
+ auchlage (Übungen in Sek.)\n\n60/90 ➜ 60/90 ➜ 45/75\n\n2 Minuten: 10 
+ x Deep Knee links\, 10 x Dynamic T-Stance links\, im zügigen Wechsel wied
+ erholen\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:32. TAG: BASIC RUN II (circa 35 Minuten)
+DTSTART;VALUE=DATE:20200626
+DTEND;VALUE=DATE:20200626
+DESCRIPTION:32. TAG: BASIC RUN II (circa 35 Minuten)\n\nEin großes Lob an
+  dich. Sport gehört zu deinem Alltag. Du hast es bis hierhin geschafft. A
+ ber mein Training ist umfassender und betrifft nicht nur den Körper\, son
+ dern auch den Kopf. Heute ist in der Sportwissenschaft bekannt\, dass die 
+ Psyche eine mächtige Komponente beim Training ausmacht. Wenn dein Kopf ni
+ cht will\, wollen deine Muskeln auch nicht. Es gibt jedoch ganz einfache T
+ ricks\, wie du deine Psyche dahin bringen kannst\, dass sie deine Muskeln 
+ dennoch zu Höchstleistungen antreibt: Schließe die Augen und stelle dir 
+ vor\, wie du dich in knapp 28 Tagen fühlen wirst. Lass das Gefühl einen 
+ Augenblick wirken. Dann öffne die Augen. Glaube an dich! Es gibt Tage\, d
+ a möchte man aufgeben\, weil einem das Vorhaben plötzlich nicht mehr wic
+ htig erscheint. Deine Prioritätenliste verschiebt sich heimlich zurück i
+ n die gewohnte Ausgangsposition. Sport muss Überstunden im Job oder einem
+  familiären Problem weichen. STOPP! Lasse nicht zu\, dass du dein Ziel au
+ s den Augen verlierst. Du hast dir doch alles genauestens überlegt. Warum
+  sollten deine Überlegungen und dein Ziel wegen ein paar starker Böen im
+  Alltag ihren Wert verlieren? Man kann seinen Tagesplan IMMER so umbauen\,
+  dass sich Zeit für ein paar Minuten Training findet. Notfalls hängst du
+  die versäumte Einheit nach 60 Tagen hintendran. Oft sind es die fehlende
+ n sichtbaren Erfolge\, die uns mutlos machen. Die Problematik des Durchhal
+ tens hat ein italienischer Philosoph einmal sehr schön dargestellt:\n\nAL
+ LES WAHRHAFT GROSSE VOLLZIEHT SICH DURCH UNMERKLICHES\, LANGSAMES WACHSEN.
+ \n\nLucius Annaeus Seneca\n\nOutdoor: 35 Minuten laufen\n\nWarm-up: 5 Minu
+ ten laufen\, langsames Tempo\n\nDu kennst nun dein Limit. Reguliere dein T
+ empo so\, dass du 25 Minuten durchhältst. Wer nicht laufen darf oder kann
+ \, kann auch schnell walken.\n\nCool-down: 5 Minuten auslaufen oder gehen\
+ , normales Tempo\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33. TAG: MY OWN TRAINING (circa 15 Minuten)
+DTSTART;VALUE=DATE:20200627
+DTEND;VALUE=DATE:20200627
+DESCRIPTION:33. TAG: MY OWN TRAINING (circa 15 Minuten)\n\nUm deinem Ziel 
+ näherzukommen\, ist es wichtig\, Ehrgeiz\, Durchhaltevermögen und Kampfg
+ eist zu zeigen. Du erinnerst dich? WILLE! Du hast nun sehr viele Übungen 
+ kennengelernt und bist imstande\, dir dein eigenes Workout zusammenzustell
+ en. Eine Vorbereitung für die Zeit nach dem Buch. Eigene Workouts zu bast
+ eln\, um das Trainingsniveau zu halten\, wird zu deinem Alltag dazugehöre
+ n wie frühstücken oder fernsehen.\n\nMache deinen Feind zum Freund – d
+ ein erstes eigenes Workout. Baue dir aus drei oder mehr Übungen deinen er
+ sten Trainingsplan zusammen. Er sollte mindestens 15 Minuten dauern. Suche
+  dir die Übungen heraus\, die dir am wenigsten liegen\, die du am wenigst
+ ens kannst und die du am meisten hasst. Das können drei Übungen aus dem 
+ Kraft- oder Ausdauerbereich sein. Wenn du Kraft wählst\, wärme dich vorh
+ er mit einer kleinen Cardioeinheit auf\, etwa mit Rope Skippings oder Spri
+ nts. Achte bei den Kraftübungen darauf\, dass du unterschiedliche Muskelg
+ ruppen trainierst. Absolviere das Workout heute 3-mal\, am besten morgens\
+ , mittags und abends. Los geht’s: Schnappe dir Papier und Stift und wäh
+ le Übungen aus\, die du nicht magst.\n\nDEIN TRAINING – DEIN ERFOLG\n\n
+ Versuche immer wieder\, das Training als etwas Positives zu sehen. Diese S
+ porteinheiten gehören dir allein. Du tust dir damit etwas Gutes. Wenn du 
+ Lust hast\, kannst du dich gern für bestimmte Einheiten mit Freunden vera
+ breden. Vor allem die Lauftage sind dafür geeignet.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:34. TAG: PAUSENTAG
+DTSTART;VALUE=DATE:20200628
+DTEND;VALUE=DATE:20200628
+DESCRIPTION:34. TAG: PAUSENTAG\n\nEs ist mal wieder so weit: ein Tag Pause
+ . Ich will nicht sagen wohlverdient\, sondern selbstverständlich. Der Kö
+ rper braucht wie gesagt Zeit\, um zu regenerieren – und auch die Gedanke
+ n müssen mal schweifen dürfen. So kannst du morgen noch mehr Einsatz zei
+ gen und hoch konzentriert an deinem Vorhaben weiterarbeiten.\n\nSchwitz di
+ ch schlank?\n\nWenn du an einem Pausentag gern in die Sauna gehen möchtes
+ t\, ist das eine gute Idee\, um zu entspannen. Doch wer glaubt\, dass bei 
+ den Temperaturen in der Sauna auch das Fett schmilzt\, hat sich getäuscht
+ . Zwar zeigt die Waage nach dem Saunagang ein paar Gramm weniger an\, aber
+  leider ist es nicht Fett\, das wir hier verloren haben\, sondern Wasser. 
+ Die Menge an Kilokalorien\, die in der Sauna durch den erhöhten Stoffwech
+ sel verbrannt wird\, ist leider unbedeutend gering.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:35. TAG: REACH THE STARS (circa 17 Minuten)
+DTSTART;VALUE=DATE:20200629
+DTEND;VALUE=DATE:20200629
+DESCRIPTION:35. TAG: REACH THE STARS (circa 17 Minuten)\n\nDie Pause wird 
+ dir gutgetan haben\, doch jetzt geht es weiter: Schauen wir in Richtung Zi
+ el und greifen nach den Sternen – zumindest in der zweiten Phase\, die n
+ ur noch wenige Tage dauert.\n\nWarm-up: 3 Minuten Rope Skipping\, so viele
+  Sprünge wie möglich\n\n5 Minuten Push-up auf Knien: Absolviere so viele
+  wie möglich und bestimme deine Pausen selbst. Halte die Pausen kurz und 
+ sei ehrlich zu dir selbst.\n\n3 Minuten Deep Tap rechts: Absolviere so vie
+ le wie möglich. Lege dir ein circa 50 Zentimeter breites Handtuch zwische
+ n die Beine. Du darfst es mit den Füßen nicht berühren. Gestalte deine 
+ Pausen selbst.\n\n3 Minuten Upper Crunch: keine Pause\n\n3 Minuten Deep Ta
+ p links: Absolviere so viele wie möglich. Lege dir ein circa 50 Zentimete
+ r breites Handtuch zwischen die Beine. Du darfst es mit den Füßen nicht 
+ berühren. Gestalte deine Pausen selbst.\n\nKALIUMBOOSTER FÜR STARKE MUSK
+ ELN\n\nBist du morgens immer müde\, abends aber hellwach? Vielleicht hast
+  du zu wenig Kalium. Wir befinden uns in einem Stadium des Trainings\, in 
+ dem die Leistung durchaus aufgrund von Kaliummangel stagnieren kann. Der K
+ örper braucht diesen Mineralstoff\, um die Energietanks der Muskeln zu f
+ üllen\, und er hilft außerdem bei der Fettverbrennung. Aber das Problem 
+ kann leicht behoben werden: mit Obst! Zum Beispiel mit einem Fruchtshake: 
+ einen Apfel\, eine Karotte\, eine Orange schälen und in den Mixer geben. 
+ Fertig ist das perfekte Frühstücksgetränk. Natürlich darfst du dazu no
+ ch etwas essen.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:36. TAG: ROCKY’S GOOD MORNING WORKOUT (circa 21 Minuten)
+DTSTART;VALUE=DATE:20200630
+DTEND;VALUE=DATE:20200630
+DESCRIPTION:36. TAG: ROCKY’S GOOD MORNING WORKOUT (circa 21 Minuten)\n\n
+ Effektives Training ist immer zeitintensiv. Also muss es täglich oder\, w
+ enn nicht täglich\, in größeren Zeitblöcken an weniger Tagen absolvier
+ t werden. Die Zeiteinheiten bei meinem Training sind relativ kurz\, doch f
+ ür manchen straff organisierten Lebensplan immer noch ein kleines logisti
+ sches Problem. Wo und wie kannst du also noch etwas Zeit abzwacken? Vielle
+ icht kannst du ein bisschen früher aufstehen? Oder statt 3-mal die Woche 
+ Kleinkram einzukaufen\, einen gut organisierten Großeinkauf auf den Samst
+ ag legen? So bleibt während der Woche Zeit fürs Training.\n\nAbsolviere 
+ zwei Runden des folgenden Workouts\, mache dazwischen 1 Minute Pause:\n\n	
+  	 	 Runde 1 (in Min.)\n\n	 	 	 Runde 2 (in Min.)\n\n	 	 	 1. Rope Skippin
+ g\n\n	 	 	 1\n\n	 	 	 2\n\n	 	 	 2. Box Skipping\n\n	 	 	 1\n\n	 	 	 1\n\n
+ 	 	 	 3. Jumping Jack\n\n	 	 	 1\n\n	 	 	 2\n\n	 	 	 4. Rope Skipping\n\n	
+  	 	 2\n\n	 	 	 2\n\n	 	 	 5. Jumping Jab rechts\n\n	 	 	 1\n\n	 	 	 2\n\n
+ 	 	 	 6. Jumping Jack\n\n	 	 	 1\n\n	 	 	 1\n\n	 	 	 7. Jumping Jab links\
+ n\n	 	 	 1\n\n	 	 	 2\n\nDEHNEN: JA ODER NEIN?\n\nDie Antwort: ein klares 
+ Jein. Wer die Übungen richtig ausführt\, braucht eigentlich nicht zu deh
+ nen\, denn das Training ist so aufgebaut\, dass die muskuläre Balance gew
+ ährleistet ist. Alltagsunübliche Übungen finden hier auch nicht statt\,
+  was ein Argument für das Dehnen wäre. Trotzdem empfehle ich regelmäßi
+ ge Dehneinheiten zur Steigerung der Flexibilität\, wie zum Beispiel beim 
+ Yoga oder Pilates.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:37. TAG: DO IT AGAIN I (circa 21 Minuten)
+DTSTART;VALUE=DATE:20200701
+DTEND;VALUE=DATE:20200701
+DESCRIPTION:37. TAG: DO IT AGAIN I (circa 21 Minuten)\n\nDas Gleiche wie g
+ estern PLUS Sprints. Der Hintergrund von „Do it again" – also der Wied
+ erholung des Trainings vom Vortag – ist der\, dass du die Übungsabfolge
+ n verinnerlicht hast und nun gezielt an einer Leistungssteigerung und Ausf
+ ührungsperfektionierung arbeiten kannst. Gib alles und noch mehr: Der Unt
+ erschied zu gestern ist\, dass du am Ende des zweiten Blocks bei jeder Üb
+ ung die letzten 10 Sekunden wirklich VOLLGAS gibst. Go!\n\nAbsolviere zwei
+  Runden des folgenden Workouts\, mache dazwischen 1 Minute Pause:\n\n	 	 	
+  Runde 1 (in Min.)\n\n	 	 	 Runde 2 (in Min.)\n\n	 	 	 1. Rope Skipping\n\
+ n	 	 	 1\n\n	 	 	 2\, die letzten 10 Sekunden Vollgas\n\n	 	 	 2. Box Skip
+ ping\n\n	 	 	 1\n\n	 	 	 1\, die letzten 10 Sekunden Vollgas\n\n	 	 	 3. J
+ umping Jack\n\n	 	 	 1\n\n	 	 	 2\, die letzten 10 Sekunden Vollgas\n\n	 	
+  	 4. Rope Skipping\n\n	 	 	 2\n\n	 	 	 2\, die letzten 10 Sekunden Vollga
+ s\n\n	 	 	 5. Jumping Jab rechts\n\n	 	 	 1\n\n	 	 	 2\, die letzten 10 Se
+ kunden Vollgas\n\n	 	 	 6. Jumping Jack\n\n	 	 	 1\n\n	 	 	 1\, die letzte
+ n 10 Sekunden Vollgas\n\n	 	 	 7. Jumping Jab links\n\n	 	 	 1\n\n	 	 	 2\
+ , die letzten 10 Sekunden Vollgas\n\nDIE BALANCE HALTEN\n\nBei allen Übun
+ gen\, die Gleichgewichtssinn erfordern\, wie zum Beispiel der T-Stance ode
+ r Deep Knee\, hilft es\, sich auf einen Punkt im Raum zu konzentrieren. Be
+ im T-Stance sollte er in Blickrichtung direkt vor dir auf dem Boden liegen
+ \, bedingt durch deine Kopfhaltung\, da der Nacken lang bleiben soll. Beim
+  Deep Knee schaust du etwa 20 Zentimeter vor den Füßen zum Boden.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:38. TAG: SEXY ARMS (circa 20 Minuten)
+DTSTART;VALUE=DATE:20200702
+DTEND;VALUE=DATE:20200702
+DESCRIPTION:38. TAG: SEXY ARMS (circa 20 Minuten)\n\nEine meiner Kundinnen
+  berichtete mir\, als sie zum ersten Mal eine Einheit Personal Training be
+ i mir buchte\, wie unglücklich sie über ihre „Wackelarme“ sei. Eines
+  kann ich dir versprechen: Mehr als dieses Training durchzuziehen\, kannst
+  du gegen schlaffe Oberarme nicht tun. Da das Konzept sehr viele Elemente 
+ aus dem Boxsport beinhaltet\, die sich auf Armarbeit konzentrieren\, und d
+ azu viele Stützübungen dabei sind\, werden deine Arme maximal trainiert.
+ \n\n3 Minuten Snow Angel: Mache dazwischen maximal drei Pausen zu je 15 Se
+ kunden.\n\n20 x Block and Punch\n\n5 Minuten Box Skipping\n\nDynamic Handp
+ lank/Push-up (Übungen in Min.) 1\,5/1\,5\n\n➜ 1/1 ➜ 1/1\n\nEnergierie
+ gel und Co.\n\nMehr Kraft durch Energieriegel? Weg damit. Wir bereiten uns
+  nicht auf Olympia vor\, sondern machen uns fit. Leistungssportler\, die t
+ äglich mehr als 90 Minuten trainieren\, sind auf zusätzliche Energie ang
+ ewiesen. Wenn du nach den Vorgaben zu Beginn des Buches isst\, hat dein K
+ örper trotz des Trainings alles\, was er braucht.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:39. TAG: BASIC RUN III (circa 40 Minuten)
+DTSTART;VALUE=DATE:20200703
+DTEND;VALUE=DATE:20200703
+DESCRIPTION:39. TAG: BASIC RUN III (circa 40 Minuten)\n\nNoch knapp 20 Tag
+ e – Zähne zusammenbeißen. Heute wird wieder gelaufen. Grundsätzlich t
+ eilt sich die Riege der Läufer in zwei Lager: Morgenläufer und Abendläu
+ fer. Es ist ganz einfach eine Frage der Vorliebe und der körperlichen Ver
+ fassung. Bei manchen Menschen kommt der Kreislauf morgens nur sehr schwer 
+ auf Touren\, andere wiederum sind um 8 Uhr früh so fit\, dass sie schon B
+ äume ausreißen könnten. Wer spät (nachmittags oder abends) läuft\, ka
+ nn aber die Gelegenheit direkt nutzen\, um Stress abzubauen. Das hilft bei
+ m Abnehmen\, denn Stresshormone bremsen die Fettverbrennung.\n\nOutdoor: G
+ ehe raus und bestreite deine bisher längste Ausdauereinheit. Laufe mindes
+ tens 35 Minuten.\n\nCool-down: 5 Minuten auslaufen oder gehen\, normales T
+ empo\n\nSCHLUSSSPURT: JA ODER NEIN?\n\nHier wieder ein klares Jein. Für a
+ lle Laufeinsteiger: Wenn ihr knapp 30 Minuten gelaufen seid\, sind eure Ge
+ lenke\, Knochen und Sehnen müde. Der kleinste Stein kann dazu führen\, d
+ ass ihr umknickt\, weil auch euer Reaktionsvermögen verlangsamt ist und i
+ hr Stolpereien nicht mehr abfangen könnt. Ein Sprint erübrigt sich desha
+ lb für diejenigen. Bei geübten Läufern ist gegen einen Sprint nichts ei
+ nzuwenden. Übrigens: Für Nachtläufer gibt es in großen Sportbekleidung
+ släden praktische Fußlämpchen.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40. TAG: PAUSENTAG
+DTSTART;VALUE=DATE:20200704
+DTEND;VALUE=DATE:20200704
+DESCRIPTION:40. TAG: PAUSENTAG\n\nHerzlich willkommen auf der Seite der Er
+ folgreichen! Es liegen zwei harte Trainingsphasen hinter dir\, in denen du
+  deinen Körper intensiv auf mehr Leistung vorbereitet hast. Deine Muskeln
+  sind deutlich athletischer und auch dein Kalorienverbrauch ist angestiege
+ n. Freue dich nun auf die letzte Phase. Nimm dir deshalb bitte ein bissche
+ n Zeit\, um darüber nachzudenken\, wie du Phase drei für dich am effekti
+ vsten gestalten kannst. Jetzt heißt es noch einmal\, alles und mehr zu ge
+ ben. Stichwort: positiver Schmerz. Du hast es bis hierhin geschafft. Versp
+ rich mir\, dass du für die letzten Tage dein Bestes gibst. Ohne zu fragen
+  und zu denken. ICH WILL\, DASS DU DEIN BESTES GIBST. Denke auch an deine 
+ Ernährung und daran\, dir heute etwas Gutes zu tun.\n\nOB DU GLAUBST\, DU
+  SCHAFFST ES\, ODER OB DU GLAUBST\, DU SCHAFFST ES NICHT\, DU WIRST IN JED
+ EM FALL RECHT BEHALTEN.\n\nHenry Ford\n\nAUCH DU KANNST EIN HELD SEIN\n\nB
+ ereits in der Grundschule hatte ich eine ganz besondere Beziehung zum Spor
+ t – ich war der Schlechteste in der Klasse. Erst kurz vor dem Schulwechs
+ el erreichte ich eine Note\, mit der ich zufrieden war. Grund für das Zah
+ lendesaster in meinem Zeugnis war eine völlig natürliche Tatsache: Ich h
+ atte noch keinen wirklichen Bezug zu meinem Körper und insofern keine Ahn
+ ung\, wie gut es sich anfühlen würde\, der Schnellste zu sein\, die meis
+ ten Tore zu schießen\, eine Technik bis zur Perfektion zu verbessern oder
+  wie im Rausch zu trainieren.\n\nEine Ahnung von dem\, welche Glücksgefü
+ hle sportliche Erfolgserlebnisse freisetzen können und was sie für mich 
+ in Zukunft bedeuten würden\, schob sich erst mit der Zeit in homöopathis
+ chen Dosen in mein Bewusstsein. Bis aus der Ahnung Gewissheit und damit me
+ in Beruf wurde\, dauerte es eine Weile.\n\nHeute will ich nichts anderes m
+ ehr tun. Ich bin dankbar dafür\, dass ich die Chance der freien Berufswah
+ l hatte\, denn ein Beruf sollte eine Berufung sein – schließlich verbri
+ ngt man mit dieser Tätigkeit einen Großteil seines Lebens. Warum erzähl
+ e ich das? Mit der Berufswahl verhält es sich ähnlich wie mit fast allen
+  anderen Situationen im Leben: Wenn du mit etwas unzufrieden bist\, sieh g
+ enau hin – es gibt immer eine Alternative! Und zwar eine bessere! In gew
+ isser Weise kannst du dazu sogar eine Parallele zu deinem Körper ziehen: 
+ Du hast zwei Drittel des Programms hinter dich gebracht und siehst jetzt d
+ eutlich\, welche Erfolge du bisher erzielt hast. Vielleicht warst du in de
+ inem Leben noch nie so fit und bist endlich mit dir und deinem Körper zuf
+ rieden. Doch das ist nur ein Teilerfolg. Wenn du so weit gekommen bist\, w
+ arum heimlich und ehrenlos von der Tartanbahn verschwinden\, anstatt noch 
+ eine letzte Runde zu drehen\, dir die Medaille zu holen und dir selbst und
+  allen anderen zu beweisen\, dass du alles schaffen kannst\, was du willst
+ ? Wenn du hier aufhörst\, bist du nur zufrieden\, wenn du weitermachst\, 
+ bist du ein Held.\n\nVERSUCHE IN PHASE DREI\, DER FINALEN LEISTUNGSPHASE\,
+  DEINEN KOPF AUSZUSCHALTEN. DIE MUSIK UNTERSTÜTZT DICH DABEI: SIE ÜBERT
+ ÖNT UNTER ANDEREM DEIN LAUTES KEUCHEN UND VERHINDERT SO JEDEN ANFLUG VON 
+ SELBSTMITLEID\, DAS ZUM ABBRUCH FÜHREN KÖNNTE. SIEH NICHT IN DER GEGEND 
+ UMHER\, WENN DU TRAINIERST\, KONZENTRIERE DICH AUF EINEN PUNKT IM RAUM. DU
+  WIRST LEISTUNGSFÄHIGER SEIN\, WEIL DU SCHMERZ\, ANSTRENGUNG UND KRAFTVER
+ LUST AUSBLENDEST.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:41. TAG: DO YOUR BEST (circa 19 Minuten)
+DTSTART;VALUE=DATE:20200705
+DTEND;VALUE=DATE:20200705
+DESCRIPTION:41. TAG: DO YOUR BEST (circa 19 Minuten)\n\nJetzt heißt es 
+ „so schnell du kannst“. Die Muskulatur wird über einen Zeitraum von b
+ eispielsweise einer Minute natürlich an Tempo verlieren. Das macht aber n
+ ichts\, denn wichtig ist nur\, dass du wirklich an deinem persönlichen Ma
+ ximum bist. Vielleicht hast du noch nie an deinem absoluten Limit trainier
+ t und es kostet dich Überwindung\, bis ans Äußerste zu gehen. Setze dir
+  Kopfhörer auf\, drehe die Musik so laut\, wie du sie gerade noch ertrage
+ n kannst\, schreie dir die Seele aus dem Leib\, kämpfe\, gib ALLES!\n\nWa
+ rm-up: 3 Minuten Rope Skipping\, normales Tempo\n\n1\,5 Minuten Squat: max
+ imales Tempo\, dann 1 Minute Pause\n\n1\,5 Minuten Deep Tap rechts: maxima
+ les Tempo\, dann 30 Sekunden Pause\n\n1 Minute Squat: maximales Tempo\, da
+ nn 1 Minute Pause\n\n1\,5 Minuten Deep Tap links: maximales Tempo\, dann 3
+ 0 Sekunden Pause\n\n1\,5 Minuten L-Jump: maximales Tempo\, dann 1 Minute P
+ ause\n\n1\,5 Minuten Squat: maximales Tempo\n\nCool-down: 3 Minuten Rope S
+ kipping\, normales Tempo\n\nÜbrigens: Wer meint\, er müsste die Hände b
+ eim Deep Tap auf das Knie stützen\, tut sich damit keinen Gefallen. Deutl
+ ich effektiver ist es\, wenn du mit den Händen ans Sprunggelenk fasst.\n\
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:42. TAG: DO IT AGAIN II (circa 19 Minuten)
+DTSTART;VALUE=DATE:20200706
+DTEND;VALUE=DATE:20200706
+DESCRIPTION:42. TAG: DO IT AGAIN II (circa 19 Minuten)\n\nJede der Übunge
+ n von gestern endete mit einem absoluten Muskel-K.-o. War das der Fall? We
+ nn du am Ende noch Reserven hattest\, kannst du unmöglich im richtigen Mo
+ dus gewesen sein – aber hier wird Training erst effektiv. Bei den Deep T
+ aps kannst du zum Beispiel tiefer in die Hocke gehen\, um die Übung zu in
+ tensivieren. Wenn du zwischendurch Pause machen musst\, dann nur für zwei
+  bis drei Sekunden. Wiederhole das Work-out noch einmal und erreiche den M
+ odus der Superlative. Wie schon oft erwähnt\, geht es beim Training\, ins
+ besondere in Phase drei\, nicht darum\, WAS du tust\, sondern WIE du es tu
+ st. Das Workout von gestern wird heute wiederholt. Verbessere dich in jede
+ r Übung. Hole alles aus deinen Muskeln heraus. Du wirst staunen\, was noc
+ h in dir steckt. Konzentriere dich vorher eine Minute. Denke an dein Limit
+  und dass du nicht aufgibst. Glaube an dich. Stell dir vor\, die Übungen 
+ wollten dich erledigen. Coach Marco will dich erledigen. Aber du kämpfst 
+ bis zum Ende. Du lässt dich nicht unterkriegen!\n\nVisualisierung ist üb
+ rigens ein gängiges Mittel von Leistungssportlern\, um Ziele zu erreichen
+ . Stelle dir\, so oft es geht\, das Ziel vor\, das du erreichen willst. Wa
+ s wirst du empfinden\, wenn du in den Spiegel blickst?\n\nWarm-up: 3 Minut
+ en Rope Skipping\, normales Tempo\n\n1\,5 Minuten Squat: maximales Tempo\,
+  dann 1 Minute Pause\n\n1\,5 Minuten Deep Tap rechts: maximales Tempo\, da
+ nn 30 Sekunden Pause\n\n1 Minute Squat: maximales Tempo\, dann 1 Minute Pa
+ use\n\n1\,5 Minuten Deep Tap links: maximales Tempo\, dann 30 Sekunden Pau
+ se\n\n1\,5 Minuten L-Jump: maximales Tempo\, dann 1 Minute Pause\n\n1\,5 M
+ inuten Squat: maximales Tempo\n\nCool-down: 3 Minuten Rope Skipping\, norm
+ ales Tempo\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:43. TAG: BE STRONG (circa 23 Minuten)
+DTSTART;VALUE=DATE:20200707
+DTEND;VALUE=DATE:20200707
+DESCRIPTION:43. TAG: BE STRONG (circa 23 Minuten)\n\nHeute ist Mentaltag. 
+ Erlaube dir keine destruktiven Gedanken. Alles\, was du erlebst und fühls
+ t – nimm es bewusst wahr und versuche\, es positiv zu sehen\, zu ändern
+  oder zu ignorieren. Wir alle werden als Optimisten geboren. Erst unsere E
+ rziehung und unser Umfeld haben uns das Zweifeln an uns selbst gelehrt. Ab
+ er es besteht überhaupt kein Grund\, an dir zu zweifeln: Du bist stark 
+ – vor allem dein Wille – und du kannst erreichen\, was du willst.\n\nW
+ arm-up: Dynamic Handplank (Übungen in Sek./Pause in Sek.)\n\n30/15 ➜ 30
+ /15 ➜ 30/15 ➜ 30/15 ➜ 30/15\n\n1 Minute Jumped Knee Lift rechts\n\n1
+  Minute Dynamic Handplank\n\n1 Minute Jumped Knee Lift links\n\n1 Minute J
+ umped Squat\n\n100 x Upper Crunch\n\nRope Skipping/Jumping Jab rechts/Rope
+  Skipping/Jumping Jab links. (Übungen in Minuten)\n\n3 ➜ 3 ➜ 3 ➜ 3\
+ n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:44. TAG: AS YOU LIKE IT (circa 30 Minuten)
+DTSTART;VALUE=DATE:20200708
+DTEND;VALUE=DATE:20200708
+DESCRIPTION:44. TAG: AS YOU LIKE IT (circa 30 Minuten)\n\nDu hast ein hart
+ es Training absolviert. Möglicherweise hast du dich zwischendurch gefragt
+ \, warum du dir das antust\, und überlegt aufzuhören. Sei dir bewusst\, 
+ dass du an das Level\, das du bisher geschafft hast\, nicht so schnell wie
+ der herankommst. Du bist auf dem besten Weg\, den sportlichsten Zustand de
+ ines Lebens zu erreichen. Willst du wirklich so kurz vor dem Ziel aufgeben
+ ? Nur wegen der 30 Minuten\, in denen du am Tag dafür schwitzen musst? Tu
+  es nicht! Mach weiter\, arbeite an deinem Trainingserfolg.\n\nGestalte he
+ ute wieder dein eigenes Training\, und zwar ein 30-Minuten-Ausdauerworkout
+ . Ob draußen laufen\, schwimmen oder boxen – suche dir etwas aus\, das 
+ dir Spaß macht\, intensiv ist\, und sei dabei gut gelaunt.\n\nSCHENKE DIR
+  ENTSPANNUNG\n\nDie Trainingseinheiten werden immer intensiver. Bevor du n
+ ach einer Session zurück in den Alltag kommst\, kannst du\, um den Überg
+ ang etwas geschmeidiger zu gestalten\, eine einfache Entspannungsübung ma
+ chen. Somit hast du noch eine zusätzliche Einheit Mentaltraining absolvie
+ rt und bist frisch für den Tag: Schließe die Augen\, stelle dir den Tag 
+ vor und was du von ihm erwartest. Visualisiere die Situationen mit Wohlwol
+ len. Entspanne dich\, bis dein Atem zur Ruhe gekommen ist. Danke dir selbs
+ t für das\, was du bisher im Leben und im Training erreicht hast. Und los
+  geht’s! Ich wünsche dir einen schönen Tag!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:45. TAG: PAUSENTAG
+DTSTART;VALUE=DATE:20200709
+DTEND;VALUE=DATE:20200709
+DESCRIPTION:45. TAG: PAUSENTAG\n\nDer gestrige Tag war wichtig für deine 
+ Selbstständigkeit. Das Zusammenstellen eigener Workouts ist eine Vorausse
+ tzung für das Weitermachen nach dem Buch. Ruhe dich einen Tag aus. Entspa
+ nne die Muskeln\, fülle deine Nährstofftanks mit den besten Nahrungsmitt
+ eln auf und lasse es dir in deiner freien Zeit gut gehen. Vielleicht nimms
+ t du dir den Schmöker vor\, den du schon seit Langem lesen wolltest\, pla
+ nst deine nächste Reise oder suchst dir ein Event aus\, an dem du gern te
+ ilnehmen möchtest. Beschäftige dich mit schönen Dingen – das macht gl
+ ücklich und beruhigt. Du wirst die Entspannung brauchen. Morgen geht’s 
+ mit Power weiter.\n\nÜbrigens ist Sport nur die wildere Form der Entspann
+ ung. Neurobiologisch betrachtet\, passiert bei einer Meditation das Gleich
+ e wie beim Fitnesstraining: Zunächst werden stimulierende\, später beruh
+ igende Hormone ausgeschüttet. Zudem machen Entspannung und Sport schlau. 
+ Wissenschaftler haben herausgefunden\, dass im selben Areal des Gehirns Wa
+ chstum registriert wurde.\n\nSTÄRKE DEINEN WILLEN\n\nWenn du deine Konzen
+ tration und damit deinen Willen noch zusätzlich stärken willst\, befesti
+ ge in deinem Schlafzimmer irgendwo einen Punkt\, den du ansiehst\, kurz be
+ vor du einschläfst. Fokussiere den Punkt ein paar Minuten lang\, bis du e
+ ine deutliche Entspannung spürst – sowohl körperlich als auch gedankli
+ ch. Wenn du bei dieser Übung dabei noch etwas lächelst\, hast du gleich 
+ noch ein kleines Optimismus-Workout absolviert. Studien haben ergeben\, da
+ ss ein Lächeln – egal ob echt oder künstlich – Glückshormone produz
+ iert.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:46. TAG: RUN AND PUMP (circa 38 Minuten)
+DTSTART;VALUE=DATE:20200710
+DTEND;VALUE=DATE:20200710
+DESCRIPTION:46. TAG: RUN AND PUMP (circa 38 Minuten)\n\nMittlerweile hast 
+ du deinen inneren Schweinehund bestimmt ganz gut im Griff. Wie sieht es mi
+ t Heißhungerattacken aus? Hungern soll hier zwar niemand\, aber wir fahre
+ n die Kohlenhydrataufnahme stark herunter\, was abends oft zu großer Lust
+  auf Snacks führt. So eine Attacke kann man entweder aussitzen (dauert et
+ wa 15 Minuten) oder einen Eiweißshake trinken oder: Fruchtkaugummi ohne Z
+ ucker kauen. Angeblich trickst man mit den Kaubewegungen die Hormone aus u
+ nd stellt so das Hungergefühl ein.\n\nOutdoor: 25 Minuten laufen\n\nWarm-
+ up: 5 Minuten laufen\, normales Tempo\n\n20 Minuten laufen\, so schnell\, 
+ dass du gerade noch reden könntest. Wenn du nicht laufen kannst oder darf
+ st\, kannst du auch walken.\n\nDynamic Handplank (Übung in Sek./Pause in 
+ Sek.)\n\n45/15 ➜ 45/15 ➜ 45/0\n\nDynamic Elbow Anchor rechts (Übung i
+ n Sek./Pause in Sek.)\n\n60/15 ➜ 45/15 ➜ 45/15\n\nDynamic Elbow Anchor
+  links (Übung in Sek./Pause in Sek.)\n\n60/15 ➜ 45/15 ➜ 45/15\n\nUppe
+ r Crunch (Übung in Sek./Pause in Sek.)\n\n60/15 ➜ 60/15 ➜ 60/0\n\nDYN
+ AMIC ELBOW ANCHOR FÜR FORTGESCHRITTENE\n\nDeine Muskulatur sollte jetzt b
+ ereit sein\, beim Dynamic Elbow Anchor einen Schritt weiterzugehen: Versuc
+ he\, das obere Bein während der Übung anzuheben\, aber nur so weit\, das
+ s es gerade keinen Kontakt mehr zu dem unteren Bein hat. Die Haltung ähne
+ lt einem Stern – be a star!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:47. TAG: JUMP AND FLY (circa 18 Minuten)
+DTSTART;VALUE=DATE:20200711
+DTEND;VALUE=DATE:20200711
+DESCRIPTION:47. TAG: JUMP AND FLY (circa 18 Minuten)\n\nDu machst das gro
+ ßartig. Du hast so lange so gut durchgehalten. Noch zwei Wochen Vollgas\,
+  und du bist am Ziel. Es lohnt sich. Der Körper ist nun gut vorbereitet. 
+ Bleib am Ball und habe Spaß dabei.\n\nWarm-up: 5 Minuten Rope Skipping in
+  normalem Tempo\n\n1\,5 Minuten Push-up und Anchor rechts und links im dir
+ ekten Wechsel\n\n20 x Jumped Squat\n\n1 Minute Jumping Jab rechts: maximal
+ es Tempo\n\n1 Minute Jumping Jab links: maximales Tempo\n\n1\,5 Minuten Pu
+ sh-up und Anchor rechts und links im Wechsel\n\n20 x Jumped Squat\n\n3 Min
+ uten Rope Skipping in normalem Tempo\n\nSALZ REDUZIEREN\n\nWie kannst du d
+ ie Effizienz des Ernährungsplans noch steigern? Indem du wenig Industries
+ alz verwendest. Zu viel Salz macht nämlich müde\, weil es das Wachmacher
+ mineral Kalium ausschwemmt und die Nieren\, unser heimliches Energiezentru
+ m\, schwächt.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:48. TAG: PUSH AND JUMP (circa 25 Minuten)
+DTSTART;VALUE=DATE:20200712
+DTEND;VALUE=DATE:20200712
+DESCRIPTION:48. TAG: PUSH AND JUMP (circa 25 Minuten)\n\nWeiter so! Wer t
+ äglich trainiert\, sollte übrigens mindestens zwei paar Trainingsschuhe 
+ zum Wechseln haben\, denn Schuhe brauchen etwa 24 Stunden\, um ganz auszut
+ rocknen.\n\nWarm-up: 5 Minuten Rope Skipping in schnellem Tempo\n\n2 x Dee
+ p Knee rechts\, 1 x Jumped Knee Lift rechts: Das Standbein ist dein Sprung
+ bein\, mit dem du dich vom Boden abdrückst\, sodass das linke Bein nach o
+ ben zieht. Wiederhole die Übungseinheit insgesamt 10-mal.\n\n2 x Deep Kne
+ e links\, 1 x Jumped Knee Lift links: Das Standbein ist dein Sprungbein\, 
+ mit dem du dich vom Boden abdrückst\, sodass das rechte Bein nach oben zi
+ eht. Wiederhole die Übungseinheit insgesamt 10-mal.\n\n10 x Dynamic Handp
+ lank\, 1 x Push-up: Wiederhole die Übungseinheit insgesamt 10-mal.\n\nBox
+  Skipping: 20 Schritte\, dann 1 x Squat\, wiederhole die Übungseinheit in
+ sgesamt 50-mal. Wiederhole die Übungen 1 bis 4 noch einmal.\n\n3 Minuten 
+ Upper Crunch ohne Pause\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:49. TAG: PAUSENTAG
+DTSTART;VALUE=DATE:20200713
+DTEND;VALUE=DATE:20200713
+DESCRIPTION:49. TAG: PAUSENTAG\n\nNutze den Pausentag\, um dir etwas Gutes
+  zu tun. Wahrscheinlich hast du mittlerweile herausgefunden\, wie du dir d
+ iese Trainingspause am liebsten gestaltest. Vielleicht hast du sogar Zeit\
+ , in den Wald zu fahren oder einen Spaziergang im Park zu machen. In der F
+ arbtherapie heißt es nämlich\, dass der menschliche Körper bei Wahrnehm
+ ung der Farbe Grün zwangsläufig entspannt. Und frische Luft tut immer gu
+ t.\n\nEine andere Sache\, die laut fernöstlicher Heillehre ebenso entspan
+ nt wie Meditation oder Sport\, ist Aufräumen. Wer außen aufräumt\, räu
+ mt auch innen auf\, heißt es: Müssen die Schubladen deines Schreibtischs
+  dringend aussortiert werden? Dein Kleiderschrank gleicht eher einem Museu
+ m? Weg mit den alten Klamotten. Wer Altes aussortiert\, schafft Platz für
+  Neues – auch im Geiste. Ein Friseurbesuch könnte für frischen Wind so
+ rgen und das Kunstmuseum oder der Bummel durch die Innenstadt Inspiration 
+ verschaffen. Probiere es aus. Fülle dein Leben mit Unternehmungen\, die d
+ ir guttun. Oder gönne dir zwischendurch einfach mal eine wohltuende Massa
+ ge für deine Füße. Egal ob nach einem Workout oder am Pausentag – auc
+ h deine Füße brauchen Entspannung.\n\nENTSPANNUNG FÜR DEINE FÜßE\n\nD
+ u brauchst ein Handtuch zum Unterlegen\, etwas Massageöl und gewaschene F
+ üße. Umfasse mit beiden Händen zuerst den rechten Fuß. Streiche mit de
+ n Daumen den Spann zu den Zehen hin aus. Dann streiche mit etwas Druck an 
+ der Fußaußenkante entlang bis zu den Zehen. Umrunde jetzt die Ferse mit 
+ dem Daumen\, lasse den Kreis dabei immer kleiner werden. Massiere die Fuß
+ sohle mit den Daumen zu den Zehen hin in kreisenden Bewegungen. Durchfahre
+  mit dem Zeigefinger die Zehenzwischenräume. Ziehe zum Schluss jeden einz
+ elnen Zeh\, beginnend mit dem großen Zeh\, leicht mit Daumen und Zeigefin
+ ger lang und drehe ihn dabei leicht hin und her. Kreise das Fußgelenk\, s
+ chüttle Fuß und Wade aus. Massiere jetzt den anderen Fuß.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:50. TAG: 100-PERCENT TRAINING (circa 25 Minuten)
+DTSTART;VALUE=DATE:20200714
+DTEND;VALUE=DATE:20200714
+DESCRIPTION:50. TAG: 100-PERCENT TRAINING (circa 25 Minuten)\n\nNoch zehn 
+ Tage. Du bist fast am Ziel. Optimiere immer wieder deine Ernährung. Sie m
+ acht meiner Meinung nach etwa 70 Prozent des Trainingserfolgs aus. Denn wa
+ s nützen zum Beispiel die schönsten Bauchmuskeln\, wenn sie unter Speckr
+ öllchen versteckt sind? Wenn du die Regeln zu 100 Prozent einhältst\, we
+ rden deine Mühen viel schneller sichtbar.\n\nWarm-up: 2 Minuten Jumping J
+ ack\n\n1 Minute L-Jump\n\n1 Minute Jumping Jab rechts. Wiederhole die Übu
+ ngen 1 und 2 noch einmal mit Jumping Jab auf links.\n\nTrizeps Dip (Übung
+  in Sek./Pause in Sek.)\n\n60/15 ➜ 30/15 ➜ 20/10 ➜ 20/0\n\nUpper Cru
+ nch/Lower Crunch im Wechsel (Übungen in Min.)\n\n1/1 ➜ 1/1 ➜ 1/1\n\nB
+ utterfly Reverse in Bauchlage (Übung in Sek./Pause in Sek.)\n\n60/15 ➜ 
+ 60/15 ➜ 60/15\n\nBox Skipping/Sprint im Wechsel (Übungen in Sek.)\n\n20
+ /20 ➜ 20/20 ➜ 20/30 ➜ 10/10 ➜ 10/30\n\nCool-down: 3 bis 5 Minuten 
+ lockeres Gehen am Platz\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:51. TAG: RESPONSIBILITY WORKOUT (circa 17 Minuten)
+DTSTART;VALUE=DATE:20200715
+DTEND;VALUE=DATE:20200715
+DESCRIPTION:51. TAG: RESPONSIBILITY WORKOUT (circa 17 Minuten)\n\nDu bist 
+ auf der Zielgeraden. Die letzten Tage dieses Trainingsprogramms sind angeb
+ rochen. Falls du dich zwischendurch fragst\, warum du das tust\, helfe ich
+  dir bei der Sinnsuche gern weiter: Sport ist nicht nur eine der schönste
+ n Nebensachen der Welt\, Sport ist unsere gesellschaftliche Pflicht. Jeder
+  Mensch hat einen Beitrag für die Gesellschaft zu leisten\, und der ist u
+ nter anderem\, sich – so gut wie jeder kann – um sich selbst und seine
+  Gesundheit zu kümmern. Wer faul und träge herumsitzt\, gefährdet damit
+  nicht nur seine Gesundheit\, sondern strapaziert damit langfristig\, näm
+ lich wenn er krank wird\, unnötig unser soziales Netz. Du trainierst also
+  nicht nur für dich\, sondern auch für alle anderen.\n\nWarm-up: 3 Minut
+ en Rope Skipping\n\n2 x Deep Knee rechts\, 1 x Jumped Knee Lift rechts: in
+ sgesamt 15 Wiederholungen\n\nDynamic Handplank: Die Knie müssen nicht die
+  Ellenbogen berühren. Absolviere insgesamt 50 laufende Schritte im Wechse
+ l.\n\n50 x Snow Angel in Bauchlage\n\n2 x Deep Knee links\, 1 x Jumped Kne
+ e Lift links: insgesamt 15 Wiederholungen\n\n20 x Block and Punch\n\n35 x 
+ Deep Tap rechts\, 35 x Deep Tap links: ohne Pause. Wiederhole die Übungen
+  1 bis 4 noch einmal.\n\n3 Minuten Block: Halte die Position auf den Unter
+ armen\, lege notfalls die Knie ab.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:52. TAG: RUN AND PUSH (circa 60 Minuten)
+DTSTART;VALUE=DATE:20200716
+DTEND;VALUE=DATE:20200716
+DESCRIPTION:52. TAG: RUN AND PUSH (circa 60 Minuten)\n\n2012 habe ich mir 
+ den Fuß gebrochen. Das schmerzvollste Erlebnis war nicht der Bruch selbst
+ . Der tat nicht mehr weh als eine Prellung. Nein\, es war das Erlebnis\, w
+ ie man sich als übergewichtiger\, unfitter Mensch im Alltag fühlt. Ich w
+ ünschte\, alle Menschen\, die unzufrieden mit ihrem Körper sind\, wüsst
+ en\, wie es sich anfühlt\, fit zu sein. Ich bin mir sicher\, keiner würd
+ e mehr zögern\, dieses Buch zu lesen. Ich bin sehr dankbar\, dass ich nor
+ malerweise sehr fit bin\, und hoffe täglich\, noch mehr Menschen auf mein
+ e Seite holen zu können.\n\nOutdoor: Laufe so lange\, wie es geht. Gehe s
+ chnell\, wenn du nicht mehr laufen kannst. Wenn du normalerweise eine Stun
+ de problemlos durchlaufen könntest\, laufe jetzt so schnell\, wie du kann
+ st. Am Ende der Einheit führe folgendes Übungsintervall durch:\n\n15 x P
+ ush-up\, 10 Sekunden Pause\, 14 x Push-up\, 10 Sekunden Pause\, 13 x Push-
+ up\, 10 Sekunden Pause … Am Ende führst du nur noch einen Push-up aus.\
+ n\nWER IMMER TUT\, WAS ER SCHON KANN\, BLEIBT IMMER DAS\, WAS ER SCHON IST
+ .\n\nHenry Ford\n\nÜbrigens: Absolviere den Push-up auf Knien bitte nur n
+ och\, wenn er so vorgegeben ist. Ansonsten gilt der Push-up mit gestreckte
+ n Beinen. Gehe an dein Limit. Wenn die Arme sich keinen Zentimeter mehr be
+ wegen\, halte die Position und zähle im Sekundentakt\, bis die Übung bee
+ ndet wäre.\n\nTRINKST DU GENUG?\n\nZwei bis drei Liter am Tag sollten es 
+ sein\, wenn du intensiv Sport treibst! Am besten ist Wasser. Wenn dir gesc
+ hmackloses Wasser zu langweilig ist\, kannst du mit Minzeblättern\, Limet
+ ten- oder Orangenscheiben ganz einfach deine eigene Limo herstellen: Gib e
+ in paar Fruchtscheiben oder Minzeblätter in eine Karaffe und fülle mit M
+ ineralwasser oder stillem Wasser auf. Damit Kräuter ihr Aroma verbreiten\
+ , zerreiße oder zerstoße die Blätter vorher.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:53. TAG: GO AND GET IT! (circa 30 Minuten)
+DTSTART;VALUE=DATE:20200717
+DTEND;VALUE=DATE:20200717
+DESCRIPTION:53. TAG: GO AND GET IT! (circa 30 Minuten)\n\nBald bist du am 
+ Ziel – und gleichzeitig am Start in ein Leben\, das du zukünftig selbst
+ ständig so gestalten kannst\, dass du fit bleibst. Ich möchte dich noch 
+ einmal daran erinnern\, jede Übung perfekt auszuführen\, auf deine Atmun
+ g und einen konzentrierten Blick zu achten. Gib alles in den letzten Tagen
+  des Programms.\n\nRope Skipping/Deep Tap rechts (Übungen in Sek.)\n\n120
+ /60 ➜ 60/45 ➜ 60/45\n\nDynamic Handplank/Jumped Squat (Übungen in Sek
+ .)\n\n60/60 ➜ 60/60 ➜ 60/60\n\nRope Skipping/Deep Tap links (Übungen 
+ in Sek.)\n\n120/60 ➜ 60/45 ➜ 60/45\n\nDynamic Elbow Anchor rechts/Lowe
+ r Crunch (Übungen in Sek.)\n\n60/60 ➜ 60/45 ➜ 60/45\n\nDynamic Elbow 
+ Anchor links/Upper Crunch (Übungen in Sek.)\n\n60/60 ➜ 60/45 ➜ 60/45\
+ n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:54. TAG: PAUSENTAG
+DTSTART;VALUE=DATE:20200718
+DTEND;VALUE=DATE:20200718
+DESCRIPTION:54. TAG: PAUSENTAG\n\nDenke in den letzten Tagen noch einmal d
+ aran\, nur dann zu essen\, wenn du wirklich Hunger hast. Vor allem abends 
+ essen wir oft aus Langeweile. Eine Empfehlung\, die ich meinen Kunden imme
+ r mitgebe: Überlege dir\, wenn du Appetit auf etwas Süßes bekommst oder
+  merkst\, dass du aus reiner Langeweile etwas essen möchtest\, zwei Dinge
+ :\n\nEssen aus reiner Langeweile hat nicht einen einzigen Vorteil. Ein Sch
+ okoriegel kann schließlich keine Witze erzählen. Er macht einfach nur di
+ ck.\n\nNutze die Zeit\, in der du rumsitzen und naschen würdest\, lieber\
+ , um Dinge zu tun\, die du schon lange erledigen wolltest: Schrank aufräu
+ men\, Tagebuch schreiben\, bügeln\, mal wieder malen. Du fühlst dich hin
+ terher mit Sicherheit besser\, als wenn du etwas gegessen hättest. Aber: 
+ Wenn du wirklich Hunger hast – iss!\n\nVORSICHT BEI LIGHT-PRODUKTEN\n\nW
+ enn du deine Ernährung nun langfristig umstellst\, sei bitte wachsam\, wa
+ s Light-Produkte anbelangt. Sie enthalten zwar weniger Fett\, damit sie ab
+ er trotzdem schmecken\, sind sie oft gesüßt und enthalten teilweise noch
+  eine Vielzahl an Geschmacksverstärkern. Achte deshalb genau auf die Inha
+ ltsstoffe.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:55. TAG: BODYFIGHT WORKOUT (circa 25 Minuten)
+DTSTART;VALUE=DATE:20200719
+DTEND;VALUE=DATE:20200719
+DESCRIPTION:55. TAG: BODYFIGHT WORKOUT (circa 25 Minuten)\n\nWie geht es d
+ einen Füßen? Ich weiß\, in meinen Workouts kommen Rope Skippings\, Jump
+ ing Jabs oder Sprints häufig vor – das fordert deine Füße enorm. Aber
+  mit guten Trainingsschuhen sollte das kein Problem sein. Gönne dir trotz
+ dem zwischendurch eine Fußmassage. Am besten geeignet sind hierfür die A
+ bendstunden nach dem Training oder vor dem Zubettgehen.\n\nWarm-up: 2 Minu
+ ten Rope Skipping in mittlerem Tempo\n\n1 Minute Dynamic Elbow Anchor rech
+ ts\n\nSprint/Box Skipping (Übungen in Sek.)\n\n15/15 ➜ 15/15 ➜ 15/15 
+ ➜ 15/15\n\n1\,5 Minuten Dynamic T-Stance rechts\n\nSprint/Box Skipping (
+ Übungen in Sek.)\n\n10/5 ➜ 10/5 ➜ 10/5 ➜ 10/5\n\n1 Minute Dynamic E
+ lbow Anchor links\n\nSprint/Box Skipping (Übungen in Sek.)\n\n30/15 ➜ 3
+ 0/15 ➜ 30/15\n\nPush-up auf Knien: 1 Minute Push-up so schnell du kannst
+ \, 15 Sekunden Pause und weiter\, bis keiner mehr geht\, dann 15 Sekunden 
+ Pause und ein letztes Mal bis zum bitteren Ende\n\nSprint/Box Skipping (Ü
+ bungen in Sek.)\n\n5/5 ➜ 5/5 ➜ 5/5 ➜ 5/5 ➜ 5/5 ➜ 5/5\n\n1\,5 Min
+ uten Dynamic T-Stance links\n\nPush-up auf Knien: 45 Sekunden Push-up\, 15
+  Sekunden Pause und weiter\, bis keiner mehr geht\, dann 15 Sekunden Pause
+  und ein letztes Mal bis zum bitteren Ende\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:56. TAG: CLOSE TO FINAL SESSION (circa 25 Minuten)
+DTSTART;VALUE=DATE:20200720
+DTEND;VALUE=DATE:20200720
+DESCRIPTION:56. TAG: CLOSE TO FINAL SESSION (circa 25 Minuten)\n\nDu bist 
+ auf der Zielgeraden. Jetzt\, auf den letzten 100 Metern\, muss ich dich ni
+ cht mehr motivieren. Dein innerer Schweinehund ist zum Meerschweinchen ges
+ chrumpft und alles\, was du brauchst\, ist ein wenig Abwechslung. Gönne d
+ ir doch mal neue Sportklamotten oder ein paar schöne Laufschuhe. Vielleic
+ ht hat ein neues Fitnesscenter in deiner Nähe eröffnet\, bei dem du Mitg
+ lied werden möchtest\, oder du rekrutierst im Freundeskreis Mädels und J
+ ungs\, die mit dir eine kleine Sportgemeinschaft bilden wollen. Gestalte d
+ eine Tage immer wieder aufregend neu und voller Freude.\n\nWarm-up: 3 Minu
+ ten Diagonal Knee Crunch\, pro Seite 1\,5 Minuten\n\nPush-up/Box Skipping:
+  1 x Push-up\, 10 schnelle gerade Punches (Anzahl der Wiederholungen)\n\n2
+ /20 ➜ 3/30 ➜ 4/40 ➜ 5/50 ➜ 6/60 ➜ 7/70 ➜ 8/80 ➜ 9/90 ➜ 10/
+ 100\n\nJumped Squat/Jumping Jack: 1 x Sprung\, 10 x Jumping Jack (Anzahl d
+ er Wiederholungen)\n\n2/20 ➜ 3/30 ➜ 4/40 ➜ 5/50 ➜ 6/60 ➜ 7/70 
+ ➜ 8/80 ➜ 9/90 ➜ 10/100\n\n1 Minute Dynamic Handplank\n\nJumped Knee 
+ Lift rechts/Lunge rechts/Jumped Knee Lift links/Lunge links (Anzahl der Wi
+ ederholungen)\n\n15 ➜ 20 ➜ 15 ➜ 20\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:57. TAG: FLY LIKE AN EAGLE WORKOUT (circa 47 Minuten)
+DTSTART;VALUE=DATE:20200721
+DTEND;VALUE=DATE:20200721
+DESCRIPTION:57. TAG: FLY LIKE AN EAGLE WORKOUT (circa 47 Minuten)\n\nKenns
+ t du die Geschichte von dem kleinen Vogel\, der aus dem Nest gefallen ist 
+ und von Hühnern großgezogen wird? Eines Abends sitzen Mama und Papa Huhn
+  mit dem kleinen Vogel zusammen und gucken in die Luft. Da kreist ein Adle
+ r über dem Bauernhof. Bewundernd sieht der kleine Vogel zu: „Wäre das 
+ nicht wundervoll\, so fliegen zu können?“ So geht es vielen von uns. Wi
+ r wissen gar nicht\, was wir alles können\, weil wir es noch nie im Leben
+  ausprobiert haben.\n\n1 Minute Jumping Jab rechts\n\n1 Minute Anchor rech
+ ts\n\n1 Minute Deep Knee rechts\n\nWiederhole die Übungen 1 bis 3 insgesa
+ mt 3-mal auf rechts und 3-mal auf links ohne Pause\, dann 1 Minute Pause.\
+ n\n1 Minute Deep Tap rechts\n\n1 Minute Dynamic Handplank\n\n1 Minute Uppe
+ r Crunch: Strecke wie beim Lower Crunch die Beine nach oben\, aber hebe de
+ n Oberkörper\, nicht den Po an.\n\nWiederhole die Übungen 4 bis 6 insges
+ amt 3-mal mit Deep Tap auf rechts und 3-mal mit Deep Tap auf links ohne Pa
+ use\, dann 1 Minute Pause.\n\n1 Minute Butterfly Reverse\n\n1 Minute Jumpe
+ d Squat\n\n1 Minute Push-up\n\nWiederhole die Übungen 7 bis 9 insgesamt 3
+ -mal ohne Pause.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:58. TAG: HAPPINESS TRAINING (circa 30 Minuten)
+DTSTART;VALUE=DATE:20200722
+DTEND;VALUE=DATE:20200722
+DESCRIPTION:58. TAG: HAPPINESS TRAINING (circa 30 Minuten)\n\nBald bist du
+  ein Winner\, ein Sieger. Natürlich machst du jetzt nicht mehr schlapp\, 
+ sondern ziehst das Programm durch. Du schaffst das wahrscheinlich mittlerw
+ eile ganz nebenbei. Denke einmal darüber nach\, was du bis hierher geleis
+ tet hast. Blättere in diesem Buch noch einmal zurück – das Tagebuch de
+ ines Erfolgs – und nutze die Freude darüber als Energie für das heutig
+ e Training.\n\nStelle dir eine Trainingseinheit zusammen\, die etwa 25 bis
+  30 Minuten dauert. Da die letzten Tage sehr viele Kraftübungen beinhalte
+ t haben\, wäre heute wieder ein Lauftraining ideal. Du kannst dieses Trai
+ ning allerdings mit dynamischen Ausdauereinheiten kombinieren. Zum Beispie
+ l: 10 Minuten laufen\, 2\,5 Minuten Box Skipping\, 10 Minuten laufen\, 2\,
+ 5 Minuten Jumping Jack\, 3 Minuten lockeres Auslaufen. Selbstverständlich
+  steht es dir frei\, entweder eine reine Laufeinheit zu absolvieren oder d
+ iese mit anderen Box- oder Ausdauerelementen zu kombinieren.\n\nMEHR EFFEK
+ T\n\nWenn du den Effekt des Jumping Jacks für Bauch\, Beine und Po intens
+ ivieren möchtest\, versuche\, breiter und tiefer zu springen. Die Bauchmu
+ skeln werden zur Stabilisation eingesetzt\, die Beinmuskeln zum Abfedern u
+ nd Halten. Das Gleiche gilt für Sprints\, Jumping Jabs oder Box Skippings
+ : Für einen Zusatzeffekt spanne gezielt deine Bauchmuskeln an.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:59. TAG: ENJOY THE NEW SPIRIT (circa 25 Minuten)
+DTSTART;VALUE=DATE:20200723
+DTEND;VALUE=DATE:20200723
+DESCRIPTION:59. TAG: ENJOY THE NEW SPIRIT (circa 25 Minuten)\n\n„Vorfreu
+ de ist die schönste Freude“\, heißt es so oft. Wie ich darauf komme? W
+ eil morgen der letzte Tag ist? Falsch! Weil es nach dem morgigen Tag erst 
+ losgeht! Dein Leben als dein eigener Personal Trainer. Du hast alles\, was
+  du brauchst\, um das Niveau\, das du morgen erreicht hast\, für immer zu
+  halten oder zu verbessern. Freue dich darauf. Auf deine Unabhängigkeit\,
+  auf dein neues Leben als fitter Mensch mit mehr Motivation\, mehr Lebensf
+ reude und mehr Ausstrahlung.\n\n4 x Jumping Jab rechts\, 4 x Jumping Jab l
+ inks\n\n8 x Jumping Jack\n\nWiederhole die Übungen 1 und 2 insgesamt 10-m
+ al ohne Pause.\n\n4 x L-Jump\n\n20 x Upper Crunch\n\n10 x Snow Angel in Ba
+ uchlage\n\nWiederhole die Übungen 3 bis 5 insgesamt 5-mal ohne Pause.\n\n
+ 30 x Dynamic Handplank\n\n5 x Jumped Knee Lift rechts\, 5 x Jumped Knee Li
+ ft links\n\nWiederhole die Übungen 6 und 7 insgesamt 3-mal ohne Pause.\n\
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:60. TAG: HAPPY END WORKOUT (circa 56 Minuten)
+DTSTART;VALUE=DATE:20200724
+DTEND;VALUE=DATE:20200724
+DESCRIPTION:60. TAG: HAPPY END WORKOUT (circa 56 Minuten)\n\nSo\, liebe Le
+ serin\, lieber Leser\, es ist so weit. Du bist so weit. Du hast es geschaf
+ ft\, 60 Tage lang konsequent an dir zu arbeiten. Trotz innerem Schweinehun
+ d und schlechten Wetters\, trotz Bedenkenträger im Umfeld\, trotz Muskelk
+ ater\, übler Laune und Stress im Job. Herzlichen Glückwunsch! Du hast de
+ n Bogen raus und weißt jetzt\, was du tun musst\, um so auszusehen\, wie 
+ du jetzt aussiehst\, denn dein Traumkörper klingelt nicht plötzlich an d
+ er Tür. Also: Feiere dein Abschlusstraining mit mir und gib noch einmal A
+ LLES.\n\nTeil 1\n\n3 Minuten Rope Skipping\n\n1 Minute Push-up auf Knien: 
+ schnelles Tempo\, dann 1 Minute Pause\n\nWiederhole die Übungen 1 und 2 m
+ it Pause insgesamt 3-mal.\n\nTeil 2\n\n1\,5 Minuten Squat\n\n50 x Dynamic 
+ Handplank: 25 x rechts\, 25 x links\n\nRope Skipping/Sprint im Wechsel (Ü
+ bungen in Sek.)\n\n20/20 ➜ 20/20 ➜ 20/20\n\nTeil 3\n\nIndoor oder outd
+ oor: 35 Minuten laufen\n\n5 Minuten normales Tempo ➜ 30 Sekunden schnell
+ es Tempo ➜ 2\,5 Minuten normales Tempo (insgesamt 4-mal wiederholen)\n\n
+ Cool-down: 3 Minuten lockeres Auslaufen\n\nUnd jetzt die letzte Aufgabe: e
+ in Schlussfoto mit Siegerlächeln!\n\n
+END:VEVENT
+END:VCALENDAR
