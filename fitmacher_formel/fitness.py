@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from icalendar import Calendar, Event
-from datetime import date, datetime, timedelta
+from datetime import date, timedelta
 import re
 import os
+
+from fitmacher_formel.calendar import CalendarEvent, add_to_calender
 
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 INPUT_FILE = os.path.join(SCRIPT_DIR, '../dfmf.txt')
@@ -19,25 +20,6 @@ END_TEXT = "RIM TIM MUART NENIEM EBEL"  # just a bit obfuscated
 END_TEXT = END_TEXT[::-1]
 
 SPLIT_DAY_RE = re.compile(r"([0-9]{1,2}\. TAG[^\n]*)", flags=re.M)
-
-
-class iEvent:
-    def __init__(self, summary, date, description=""):
-        self.summary = summary
-        self.date = date
-        self.description = description
-
-    def get_event(self):
-        event = Event()
-        event.add('summary', self.summary)
-        event.add('dtstart', self.date)
-        event.add('dtend', self.date)
-        event.add('dtstamp', datetime.now())
-        event.add('description', self.description)
-        return event
-
-    def add_to_cal(self, cal):
-        cal.add_component(self.get_event())
 
 
 def read_input_file():
@@ -58,20 +40,10 @@ def split_workouts(data):
         title = sections[s*2]
         description = title + sections[s * 2 + 1]
         description = re.sub("\n\n+", "\n\n", description)
-        event = iEvent(title, workout_date, description)
+        event = CalendarEvent(title, workout_date, description)
         all_workouts.append(event)
         workout_date = workout_date + timedelta(days=1)
     return all_workouts
-
-
-def add_to_calender(workout_events):
-    cal = Calendar()
-
-    cal.add('prodid', "Fitness")
-    cal.add('version', '2.0')
-    [event.add_to_cal(cal) for event in workout_events]
-
-    return cal
 
 
 def get_all_as_ical():
