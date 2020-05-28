@@ -1,7 +1,7 @@
 from datetime import datetime
 
-from icalendar import Event, Calendar
-
+from icalendar import Event
+from icalendar import Calendar as iCal
 
 class CalendarEvent:
     def __init__(self, summary, date, description=""):
@@ -22,11 +22,16 @@ class CalendarEvent:
         cal.add_component(self.get_event())
 
 
-def add_to_calender(workout_events):
-    cal = Calendar()
+class Calendar:
+    def __init__(self, workouts):
+        super().__init__()
+        self.cal = iCal()
+        self._add_to_calender(workouts)
 
-    cal.add('prodid', "Fitness")
-    cal.add('version', '2.0')
-    [event.add_to_cal(cal) for event in workout_events]
+    def _add_to_calender(self, workout_events):
+        self.cal.add('prodid', "Fitness")
+        self.cal.add('version', '2.0')
+        [event.add_to_cal(self.cal) for event in workout_events]
 
-    return cal
+    def get_all_as_ical(self):
+        return self.cal.to_ical().decode('utf-8')

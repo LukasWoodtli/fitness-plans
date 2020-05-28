@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:Fitness
 BEGIN:VEVENT
 SUMMARY:1. TAG: THREE-TIMES START-UP WORKOUT I (circa 11 Minuten)
-DTSTART;VALUE=DATE:20200528
-DTEND;VALUE=DATE:20200528
+DTSTART;VALUE=DATE:20200529
+DTEND;VALUE=DATE:20200529
 DESCRIPTION:1. TAG: THREE-TIMES START-UP WORKOUT I (circa 11 Minuten)\n\nK
  urz vorweg: Vergiss das regelmäßige Atmen nicht\, dann hältst du länge
  r durch\, weil der Körper mit ausreichend Sauerstoff versorgt wird. Das s
@@ -25,8 +25,8 @@ DESCRIPTION:1. TAG: THREE-TIMES START-UP WORKOUT I (circa 11 Minuten)\n\nK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. TAG: THREE-TIMES START-UP WORKOUT II (circa 15 Minuten)
-DTSTART;VALUE=DATE:20200529
-DTEND;VALUE=DATE:20200529
+DTSTART;VALUE=DATE:20200530
+DTEND;VALUE=DATE:20200530
 DESCRIPTION:2. TAG: THREE-TIMES START-UP WORKOUT II (circa 15 Minuten)\n\n
  Muskelkater? So fühlt sich Erfolg an. Nichts schmerzt schöner als positi
  ve Veränderung. Aus medizinischer Sicht spricht nichts dagegen\, trotz Mu
@@ -49,8 +49,8 @@ DESCRIPTION:2. TAG: THREE-TIMES START-UP WORKOUT II (circa 15 Minuten)\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. TAG: BASIC RUN I (circa 23 Minuten)
-DTSTART;VALUE=DATE:20200530
-DTEND;VALUE=DATE:20200530
+DTSTART;VALUE=DATE:20200531
+DTEND;VALUE=DATE:20200531
 DESCRIPTION:3. TAG: BASIC RUN I (circa 23 Minuten)\n\nAufgabe Nummer drei:
   Bleibe am Ball und halte durch\, denn Phase eins ist die Aufbauphase und 
  damit die schwierigste. Nachher geht’s viel einfacher. Meine Erfahrungen
@@ -72,8 +72,8 @@ DESCRIPTION:3. TAG: BASIC RUN I (circa 23 Minuten)\n\nAufgabe Nummer drei:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. TAG: FOUR-PARTS TRAINING (circa 15 Minuten)
-DTSTART;VALUE=DATE:20200531
-DTEND;VALUE=DATE:20200531
+DTSTART;VALUE=DATE:20200601
+DTEND;VALUE=DATE:20200601
 DESCRIPTION:4. TAG: FOUR-PARTS TRAINING (circa 15 Minuten)\n\nWer nach dem
   Lauf gestern unter der Dusche stand\, weiß jetzt\, was mit der Komfortzo
  ne gemeint war: Zone\, where the magic happens. Veränderung passiert erst
@@ -94,8 +94,8 @@ DESCRIPTION:4. TAG: FOUR-PARTS TRAINING (circa 15 Minuten)\n\nWer nach dem
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5. TAG: ALL YOU CAN DO (circa 19 Minuten)
-DTSTART;VALUE=DATE:20200601
-DTEND;VALUE=DATE:20200601
+DTSTART;VALUE=DATE:20200602
+DTEND;VALUE=DATE:20200602
 DESCRIPTION:5. TAG: ALL YOU CAN DO (circa 19 Minuten)\n\nWenn du bis hierh
  er alle Aufgaben erledigt hast\, wirst du merken\, dass es immer schwierig
  er wird auszusteigen. Du willst das\, was du dir bis hierher erarbeitet ha
@@ -115,8 +115,8 @@ DESCRIPTION:5. TAG: ALL YOU CAN DO (circa 19 Minuten)\n\nWenn du bis hierh
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6. TAG: INTERVAL BASIC WORKOUT (circa 25 Minuten)
-DTSTART;VALUE=DATE:20200602
-DTEND;VALUE=DATE:20200602
+DTSTART;VALUE=DATE:20200603
+DTEND;VALUE=DATE:20200603
 DESCRIPTION:6. TAG: INTERVAL BASIC WORKOUT (circa 25 Minuten)\n\nMögliche
  rweise bist du bislang noch nie so sehr an deine sportlichen Grenzen gegan
  gen wie bei den Push-ups gestern. Wenn du das nächste Mal keine Kraft meh
@@ -133,8 +133,8 @@ DESCRIPTION:6. TAG: INTERVAL BASIC WORKOUT (circa 25 Minuten)\n\nMögliche
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7. TAG: TWELVE-HOURS WORKOUT (12 STUNDEN)
-DTSTART;VALUE=DATE:20200603
-DTEND;VALUE=DATE:20200603
+DTSTART;VALUE=DATE:20200604
+DTEND;VALUE=DATE:20200604
 DESCRIPTION:7. TAG: TWELVE-HOURS WORKOUT (12 STUNDEN)\n\nMit diesem Tag en
  det unsere erste Trainingswoche. Übrigens kannst du ganz nebenbei auch no
  ch etwas Gutes für dein Umfeld tun: Gib deine Erfahrungen weiter\, erzäh
@@ -164,8 +164,8 @@ DESCRIPTION:7. TAG: TWELVE-HOURS WORKOUT (12 STUNDEN)\n\nMit diesem Tag en
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8. TAG: PAUSENTAG
-DTSTART;VALUE=DATE:20200604
-DTEND;VALUE=DATE:20200604
+DTSTART;VALUE=DATE:20200605
+DTEND;VALUE=DATE:20200605
 DESCRIPTION:8. TAG: PAUSENTAG\n\nDeine erste große Herausforderung hast d
  u bestanden. Du bist mit den Aufgaben gewachsen\, vielleicht sogar bereits
   über dich hinaus. Du hast dich ein gutes Stück vom Aufgeben entfernt un
@@ -181,8 +181,8 @@ DESCRIPTION:8. TAG: PAUSENTAG\n\nDeine erste große Herausforderung hast d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9. TAG: AS LONG AS YOU CAN (circa 18 Minuten)
-DTSTART;VALUE=DATE:20200605
-DTEND;VALUE=DATE:20200605
+DTSTART;VALUE=DATE:20200606
+DTEND;VALUE=DATE:20200606
 DESCRIPTION:9. TAG: AS LONG AS YOU CAN (circa 18 Minuten)\n\nSeit einer Wo
  che lebst du nun so vorbildlich\, wie du kannst. Du weißt alles über Ern
  ährung\, was du wissen musst\, um effektiv abzunehmen\, und trainierst je
@@ -211,8 +211,8 @@ DESCRIPTION:9. TAG: AS LONG AS YOU CAN (circa 18 Minuten)\n\nSeit einer Wo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10. TAG: BOXER'S WORKOUT (circa 18 Minuten)
-DTSTART;VALUE=DATE:20200606
-DTEND;VALUE=DATE:20200606
+DTSTART;VALUE=DATE:20200607
+DTEND;VALUE=DATE:20200607
 DESCRIPTION:10. TAG: BOXER'S WORKOUT (circa 18 Minuten)\n\nHeute hast du e
  in Sechstel des Programms absolviert. Vielleicht hast du es bereits gescha
  fft\, dem Training einen festen Platz in deiner Morgenroutine zu geben: au
@@ -231,8 +231,8 @@ DESCRIPTION:10. TAG: BOXER'S WORKOUT (circa 18 Minuten)\n\nHeute hast du e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11. TAG: BASIC RUN PLUS (circa 25 Minuten)
-DTSTART;VALUE=DATE:20200607
-DTEND;VALUE=DATE:20200607
+DTSTART;VALUE=DATE:20200608
+DTEND;VALUE=DATE:20200608
 DESCRIPTION:11. TAG: BASIC RUN PLUS (circa 25 Minuten)\n\nHeute geht es wi
  eder an die frische Luft. Es gibt kein schlechtes Wetter\, es gibt nur sch
  lechte Kleidung. Diese Extraportion Sauerstoff macht nicht nur wach\, sond
@@ -251,8 +251,8 @@ DESCRIPTION:11. TAG: BASIC RUN PLUS (circa 25 Minuten)\n\nHeute geht es wi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:12. TAG: BALANCE CORE (circa 18 Minuten)
-DTSTART;VALUE=DATE:20200608
-DTEND;VALUE=DATE:20200608
+DTSTART;VALUE=DATE:20200609
+DTEND;VALUE=DATE:20200609
 DESCRIPTION:12. TAG: BALANCE CORE (circa 18 Minuten)\n\nEin Wort zu den za
  hlreichen Boxfitness-Elementen. Ich hoffe\, du findest Gefallen daran\, de
  nn die Kampfsport-Workouts gehören zu den effektivsten sportlichen Aktivi
@@ -276,8 +276,8 @@ DESCRIPTION:12. TAG: BALANCE CORE (circa 18 Minuten)\n\nEin Wort zu den za
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:13. TAG: POWER COMBO (circa 21 Minuten)
-DTSTART;VALUE=DATE:20200609
-DTEND;VALUE=DATE:20200609
+DTSTART;VALUE=DATE:20200610
+DTEND;VALUE=DATE:20200610
 DESCRIPTION:13. TAG: POWER COMBO (circa 21 Minuten)\n\nNur noch ein Tag\, 
  dann hast du die ersten zwei Wochen geschafft. Du hast mehr Power\, denn S
  toffwechsel\, Muskeln\, Bänder und Sehnen passen sich an das neue Leben a
@@ -293,8 +293,8 @@ DESCRIPTION:13. TAG: POWER COMBO (circa 21 Minuten)\n\nNur noch ein Tag\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:14. TAG: NO EXCUSES (8 MINUTEN)
-DTSTART;VALUE=DATE:20200610
-DTEND;VALUE=DATE:20200610
+DTSTART;VALUE=DATE:20200611
+DTEND;VALUE=DATE:20200611
 DESCRIPTION:14. TAG: NO EXCUSES (8 MINUTEN)\n\nSechs Wochen noch. Vielleic
  ht hast du nun eine Ahnung\, was dich am Ende erwartet. Vergiss nicht\, di
  ch jede Woche zu fotografieren. Pinne deine Fotoserie an die Wand\, damit 
@@ -311,8 +311,8 @@ DESCRIPTION:14. TAG: NO EXCUSES (8 MINUTEN)\n\nSechs Wochen noch. Vielleic
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15. TAG: PAUSENTAG
-DTSTART;VALUE=DATE:20200611
-DTEND;VALUE=DATE:20200611
+DTSTART;VALUE=DATE:20200612
+DTEND;VALUE=DATE:20200612
 DESCRIPTION:15. TAG: PAUSENTAG\n\nWer die letzten Tage nach meinem Trainin
  gsplan gearbeitet hat\, wird seinen Körper deutlich spüren. Aus diesem G
  rund gibt es heute wieder einen Pausentag. Bitte nutze diesen Tag wirklich
@@ -330,8 +330,8 @@ DESCRIPTION:15. TAG: PAUSENTAG\n\nWer die letzten Tage nach meinem Trainin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16. TAG: INTERVAL ATTACK (circa 18 Minuten)
-DTSTART;VALUE=DATE:20200612
-DTEND;VALUE=DATE:20200612
+DTSTART;VALUE=DATE:20200613
+DTEND;VALUE=DATE:20200613
 DESCRIPTION:16. TAG: INTERVAL ATTACK (circa 18 Minuten)\n\nGestern Ruhe\, 
  heute Sturm. Wir wollen nicht viele Worte\, sondern lieber Kilos verlieren
  ! Heute wiederholen sich fast alle Übungen aus den letzten zwei Wochen. S
@@ -348,8 +348,8 @@ DESCRIPTION:16. TAG: INTERVAL ATTACK (circa 18 Minuten)\n\nGestern Ruhe\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17. TAG: LEG AND ARM KILLER (circa 11 Minuten)
-DTSTART;VALUE=DATE:20200613
-DTEND;VALUE=DATE:20200613
+DTSTART;VALUE=DATE:20200614
+DTEND;VALUE=DATE:20200614
 DESCRIPTION:17. TAG: LEG AND ARM KILLER (circa 11 Minuten)\n\nMan könnte 
  unsere Fitnessreise mit einer Flussmündung vergleichen. Hier\, an diesem 
  Punkt des Trainings\, vereinen sich zwei Flüsse und bilden einen größer
@@ -366,8 +366,8 @@ DESCRIPTION:17. TAG: LEG AND ARM KILLER (circa 11 Minuten)\n\nMan könnte
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18. TAG: CORE CHECK (circa 17 Minuten)
-DTSTART;VALUE=DATE:20200614
-DTEND;VALUE=DATE:20200614
+DTSTART;VALUE=DATE:20200615
+DTEND;VALUE=DATE:20200615
 DESCRIPTION:18. TAG: CORE CHECK (circa 17 Minuten)\n\nUnd wieder ein Train
  ing mit Crunches. Gemein? Nicht\, wenn du lernst\, sie zu lieben. Ich werd
  e dir kein Werkzeug an die Hand geben\, wie die kleinen fiesen Dinger leic
@@ -385,8 +385,8 @@ DESCRIPTION:18. TAG: CORE CHECK (circa 17 Minuten)\n\nUnd wieder ein Train
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19. TAG: ADVANCED RUN (30 MINUTEN)
-DTSTART;VALUE=DATE:20200615
-DTEND;VALUE=DATE:20200615
+DTSTART;VALUE=DATE:20200616
+DTEND;VALUE=DATE:20200616
 DESCRIPTION:19. TAG: ADVANCED RUN (30 MINUTEN)\n\nHeute ist wieder ein Lau
  ftraining angesagt. Nach einem fünfminütigen Warm-up-Lauf gibst du für 
  25 Minuten etwas mehr Gas. Von der sechsten bis zur 22. Minute erhöhst du
@@ -415,8 +415,8 @@ DESCRIPTION:19. TAG: ADVANCED RUN (30 MINUTEN)\n\nHeute ist wieder ein Lau
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20. TAG: PIZZA BOY COMBO (circa 27 Minuten)
-DTSTART;VALUE=DATE:20200616
-DTEND;VALUE=DATE:20200616
+DTSTART;VALUE=DATE:20200617
+DTEND;VALUE=DATE:20200617
 DESCRIPTION:20. TAG: PIZZA BOY COMBO (circa 27 Minuten)\n\nHerzlichen Glü
  ckwunsch! Du bist am Ende des ersten Drittels deiner Route angelangt. Bitt
  e während der Fahrt nicht mehr aussteigen! Phase eins ist mit dem heutige
@@ -471,8 +471,8 @@ DESCRIPTION:20. TAG: PIZZA BOY COMBO (circa 27 Minuten)\n\nHerzlichen Glü
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:21. TAG: POWER BLOCK (circa 15 Minuten)
-DTSTART;VALUE=DATE:20200617
-DTEND;VALUE=DATE:20200617
+DTSTART;VALUE=DATE:20200618
+DTEND;VALUE=DATE:20200618
 DESCRIPTION:21. TAG: POWER BLOCK (circa 15 Minuten)\n\nAb jetzt kannst du 
  den Fokus noch etwas mehr auf die Intensität der Übungen legen. Deshalb 
  starten wir diese Phase mit einer Trainingskombination\, die deine Konzent
@@ -489,8 +489,8 @@ DESCRIPTION:21. TAG: POWER BLOCK (circa 15 Minuten)\n\nAb jetzt kannst du
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:22. TAG: PAUSENTAG
-DTSTART;VALUE=DATE:20200618
-DTEND;VALUE=DATE:20200618
+DTSTART;VALUE=DATE:20200619
+DTEND;VALUE=DATE:20200619
 DESCRIPTION:22. TAG: PAUSENTAG\n\nEs ist wieder so weit: Dein Körper brau
  cht eine Erholungspause. Die Pause ist ein wichtiger Teil des Trainings\, 
  der deinen Körper voranbringt. Es ist keine Pause\, in der nichts geschie
@@ -519,8 +519,8 @@ DESCRIPTION:22. TAG: PAUSENTAG\n\nEs ist wieder so weit: Dein Körper brau
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:23. TAG: POWER OF THANKFULNESS (circa 18 Minuten)
-DTSTART;VALUE=DATE:20200619
-DTEND;VALUE=DATE:20200619
+DTSTART;VALUE=DATE:20200620
+DTEND;VALUE=DATE:20200620
 DESCRIPTION:23. TAG: POWER OF THANKFULNESS (circa 18 Minuten)\n\nHeute mal
   etwas zum Thema „Geht nicht – gibt’s nicht“. Etwas abgedroschen\,
   aber dahinter steckt eine wichtige Trainingsweisheit: Es gibt „neu”\,
@@ -546,8 +546,8 @@ DESCRIPTION:23. TAG: POWER OF THANKFULNESS (circa 18 Minuten)\n\nHeute mal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:24. TAG: DOUBLE POWER (circa 16 Minuten)
-DTSTART;VALUE=DATE:20200620
-DTEND;VALUE=DATE:20200620
+DTSTART;VALUE=DATE:20200621
+DTEND;VALUE=DATE:20200621
 DESCRIPTION:24. TAG: DOUBLE POWER (circa 16 Minuten)\n\nHeute gehst du bei
   den Übungen – auch wenn sie dann nicht mehr vollkommen aussehen – an
   deine Grenze. Schlucke den positiven Schmerz hinunter und erreiche das Zi
@@ -567,8 +567,8 @@ DESCRIPTION:24. TAG: DOUBLE POWER (circa 16 Minuten)\n\nHeute gehst du bei
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:25. TAG: CLIFF YOUNG'S ENERGY WORKOUT (circa 20 Minuten)
-DTSTART;VALUE=DATE:20200621
-DTEND;VALUE=DATE:20200621
+DTSTART;VALUE=DATE:20200622
+DTEND;VALUE=DATE:20200622
 DESCRIPTION:25. TAG: CLIFF YOUNG'S ENERGY WORKOUT (circa 20 Minuten)\n\nIc
  h möchte dir heute die Geschichte von Cliff Young erzählen. Cliff ist ei
  n australischer Bauer. Im Alter von 61 Jahren startete er beim Ultramarath
@@ -597,8 +597,8 @@ DESCRIPTION:25. TAG: CLIFF YOUNG'S ENERGY WORKOUT (circa 20 Minuten)\n\nIc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:26. TAG: PAUSENTAG
-DTSTART;VALUE=DATE:20200622
-DTEND;VALUE=DATE:20200622
+DTSTART;VALUE=DATE:20200623
+DTEND;VALUE=DATE:20200623
 DESCRIPTION:26. TAG: PAUSENTAG\n\nHeute ist Pausentag. Noch ein paar Worte
   zum Thema „Erkältung und Co.“. Natürlich geht es bei diesem Trainin
  g auch ums Durchhalten. Aber wer krank ist\, trainiert nicht\, sondern ble
@@ -617,8 +617,8 @@ DESCRIPTION:26. TAG: PAUSENTAG\n\nHeute ist Pausentag. Noch ein paar Worte
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:27. TAG: CANDY WORKOUT (circa 20 Minuten)
-DTSTART;VALUE=DATE:20200623
-DTEND;VALUE=DATE:20200623
+DTSTART;VALUE=DATE:20200624
+DTEND;VALUE=DATE:20200624
 DESCRIPTION:27. TAG: CANDY WORKOUT (circa 20 Minuten)\n\nBald ist Bergfest
   – die Hälfte ist fast geschafft. Ich würde mich freuen\, wenn so viel
  e Leser wie möglich die Inhalte dieses Konzepts auch nach Tag 60 weitestg
@@ -646,8 +646,8 @@ DESCRIPTION:27. TAG: CANDY WORKOUT (circa 20 Minuten)\n\nBald ist Bergfest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:28. TAG: 60-SECONDS CHALLENGE (circa 16 Minuten)
-DTSTART;VALUE=DATE:20200624
-DTEND;VALUE=DATE:20200624
+DTSTART;VALUE=DATE:20200625
+DTEND;VALUE=DATE:20200625
 DESCRIPTION:28. TAG: 60-SECONDS CHALLENGE (circa 16 Minuten)\n\nHeute steh
  t wieder eine meiner Lieblingsübungen auf dem Programm: der Jumping Jab. 
  Übungen aus dem Bereich Boxfitness lassen mich immer an einen der größt
@@ -665,8 +665,8 @@ DESCRIPTION:28. TAG: 60-SECONDS CHALLENGE (circa 16 Minuten)\n\nHeute steh
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:29. TAG: 30-SECONDS CHALLENGE (circa 16 Minuten)
-DTSTART;VALUE=DATE:20200625
-DTEND;VALUE=DATE:20200625
+DTSTART;VALUE=DATE:20200626
+DTEND;VALUE=DATE:20200626
 DESCRIPTION:29. TAG: 30-SECONDS CHALLENGE (circa 16 Minuten)\n\nWahrschein
  lich bemerkst du zunehmend\, wie sich dein Körper zum Guten verändert. W
  er regelmäßig leichte Rückenbeschwerden hatte\, dürfte eine deutliche 
@@ -683,8 +683,8 @@ DESCRIPTION:29. TAG: 30-SECONDS CHALLENGE (circa 16 Minuten)\n\nWahrschein
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:30. TAG: DEEP POWER (circa 15 Minuten)
-DTSTART;VALUE=DATE:20200626
-DTEND;VALUE=DATE:20200626
+DTSTART;VALUE=DATE:20200627
+DTEND;VALUE=DATE:20200627
 DESCRIPTION:30. TAG: DEEP POWER (circa 15 Minuten)\n\nHerzlichen Glückwun
  sch! Du hast das Basiscamp auf halber Strecke zum Gipfel erreicht. Was fü
  r ein wundervoller Ausblick\, wenn du an deinem Körper hinunterschaust\, 
@@ -704,8 +704,8 @@ DESCRIPTION:30. TAG: DEEP POWER (circa 15 Minuten)\n\nHerzlichen Glückwun
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:31. TAG: TWIN TRAINING (circa 18 Minuten)
-DTSTART;VALUE=DATE:20200627
-DTEND;VALUE=DATE:20200627
+DTSTART;VALUE=DATE:20200628
+DTEND;VALUE=DATE:20200628
 DESCRIPTION:31. TAG: TWIN TRAINING (circa 18 Minuten)\n\nBevor du dich ans
   Training machst\, noch eine Sache: Ich werde oft gefragt\, wie wichtig ei
  ne zusätzliche Portion Vitamin C ist. Auch hier gilt: Viel hilft nicht vi
@@ -723,8 +723,8 @@ DESCRIPTION:31. TAG: TWIN TRAINING (circa 18 Minuten)\n\nBevor du dich ans
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:32. TAG: BASIC RUN II (circa 35 Minuten)
-DTSTART;VALUE=DATE:20200628
-DTEND;VALUE=DATE:20200628
+DTSTART;VALUE=DATE:20200629
+DTEND;VALUE=DATE:20200629
 DESCRIPTION:32. TAG: BASIC RUN II (circa 35 Minuten)\n\nEin großes Lob an
   dich. Sport gehört zu deinem Alltag. Du hast es bis hierhin geschafft. A
  ber mein Training ist umfassender und betrifft nicht nur den Körper\, son
@@ -755,8 +755,8 @@ DESCRIPTION:32. TAG: BASIC RUN II (circa 35 Minuten)\n\nEin großes Lob an
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:33. TAG: MY OWN TRAINING (circa 15 Minuten)
-DTSTART;VALUE=DATE:20200629
-DTEND;VALUE=DATE:20200629
+DTSTART;VALUE=DATE:20200630
+DTEND;VALUE=DATE:20200630
 DESCRIPTION:33. TAG: MY OWN TRAINING (circa 15 Minuten)\n\nUm deinem Ziel 
  näherzukommen\, ist es wichtig\, Ehrgeiz\, Durchhaltevermögen und Kampfg
  eist zu zeigen. Du erinnerst dich? WILLE! Du hast nun sehr viele Übungen 
@@ -781,8 +781,8 @@ DESCRIPTION:33. TAG: MY OWN TRAINING (circa 15 Minuten)\n\nUm deinem Ziel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:34. TAG: PAUSENTAG
-DTSTART;VALUE=DATE:20200630
-DTEND;VALUE=DATE:20200630
+DTSTART;VALUE=DATE:20200701
+DTEND;VALUE=DATE:20200701
 DESCRIPTION:34. TAG: PAUSENTAG\n\nEs ist mal wieder so weit: ein Tag Pause
  . Ich will nicht sagen wohlverdient\, sondern selbstverständlich. Der Kö
  rper braucht wie gesagt Zeit\, um zu regenerieren – und auch die Gedanke
@@ -798,8 +798,8 @@ DESCRIPTION:34. TAG: PAUSENTAG\n\nEs ist mal wieder so weit: ein Tag Pause
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:35. TAG: REACH THE STARS (circa 17 Minuten)
-DTSTART;VALUE=DATE:20200701
-DTEND;VALUE=DATE:20200701
+DTSTART;VALUE=DATE:20200702
+DTEND;VALUE=DATE:20200702
 DESCRIPTION:35. TAG: REACH THE STARS (circa 17 Minuten)\n\nDie Pause wird 
  dir gutgetan haben\, doch jetzt geht es weiter: Schauen wir in Richtung Zi
  el und greifen nach den Sternen – zumindest in der zweiten Phase\, die n
@@ -825,8 +825,8 @@ DESCRIPTION:35. TAG: REACH THE STARS (circa 17 Minuten)\n\nDie Pause wird
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:36. TAG: ROCKY’S GOOD MORNING WORKOUT (circa 21 Minuten)
-DTSTART;VALUE=DATE:20200702
-DTEND;VALUE=DATE:20200702
+DTSTART;VALUE=DATE:20200703
+DTEND;VALUE=DATE:20200703
 DESCRIPTION:36. TAG: ROCKY’S GOOD MORNING WORKOUT (circa 21 Minuten)\n\n
  Effektives Training ist immer zeitintensiv. Also muss es täglich oder\, w
  enn nicht täglich\, in größeren Zeitblöcken an weniger Tagen absolvier
@@ -852,8 +852,8 @@ DESCRIPTION:36. TAG: ROCKY’S GOOD MORNING WORKOUT (circa 21 Minuten)\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:37. TAG: DO IT AGAIN I (circa 21 Minuten)
-DTSTART;VALUE=DATE:20200703
-DTEND;VALUE=DATE:20200703
+DTSTART;VALUE=DATE:20200704
+DTEND;VALUE=DATE:20200704
 DESCRIPTION:37. TAG: DO IT AGAIN I (circa 21 Minuten)\n\nDas Gleiche wie g
  estern PLUS Sprints. Der Hintergrund von „Do it again" – also der Wied
  erholung des Trainings vom Vortag – ist der\, dass du die Übungsabfolge
@@ -879,8 +879,8 @@ DESCRIPTION:37. TAG: DO IT AGAIN I (circa 21 Minuten)\n\nDas Gleiche wie g
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:38. TAG: SEXY ARMS (circa 20 Minuten)
-DTSTART;VALUE=DATE:20200704
-DTEND;VALUE=DATE:20200704
+DTSTART;VALUE=DATE:20200705
+DTEND;VALUE=DATE:20200705
 DESCRIPTION:38. TAG: SEXY ARMS (circa 20 Minuten)\n\nEine meiner Kundinnen
   berichtete mir\, als sie zum ersten Mal eine Einheit Personal Training be
  i mir buchte\, wie unglücklich sie über ihre „Wackelarme“ sei. Eines
@@ -899,8 +899,8 @@ DESCRIPTION:38. TAG: SEXY ARMS (circa 20 Minuten)\n\nEine meiner Kundinnen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:39. TAG: BASIC RUN III (circa 40 Minuten)
-DTSTART;VALUE=DATE:20200705
-DTEND;VALUE=DATE:20200705
+DTSTART;VALUE=DATE:20200706
+DTEND;VALUE=DATE:20200706
 DESCRIPTION:39. TAG: BASIC RUN III (circa 40 Minuten)\n\nNoch knapp 20 Tag
  e – Zähne zusammenbeißen. Heute wird wieder gelaufen. Grundsätzlich t
  eilt sich die Riege der Läufer in zwei Lager: Morgenläufer und Abendläu
@@ -923,8 +923,8 @@ DESCRIPTION:39. TAG: BASIC RUN III (circa 40 Minuten)\n\nNoch knapp 20 Tag
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:40. TAG: PAUSENTAG
-DTSTART;VALUE=DATE:20200706
-DTEND;VALUE=DATE:20200706
+DTSTART;VALUE=DATE:20200707
+DTEND;VALUE=DATE:20200707
 DESCRIPTION:40. TAG: PAUSENTAG\n\nHerzlich willkommen auf der Seite der Er
  folgreichen! Es liegen zwei harte Trainingsphasen hinter dir\, in denen du
   deinen Körper intensiv auf mehr Leistung vorbereitet hast. Deine Muskeln
@@ -975,8 +975,8 @@ DESCRIPTION:40. TAG: PAUSENTAG\n\nHerzlich willkommen auf der Seite der Er
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:41. TAG: DO YOUR BEST (circa 19 Minuten)
-DTSTART;VALUE=DATE:20200707
-DTEND;VALUE=DATE:20200707
+DTSTART;VALUE=DATE:20200708
+DTEND;VALUE=DATE:20200708
 DESCRIPTION:41. TAG: DO YOUR BEST (circa 19 Minuten)\n\nJetzt heißt es 
  „so schnell du kannst“. Die Muskulatur wird über einen Zeitraum von b
  eispielsweise einer Minute natürlich an Tempo verlieren. Das macht aber n
@@ -998,8 +998,8 @@ DESCRIPTION:41. TAG: DO YOUR BEST (circa 19 Minuten)\n\nJetzt heißt es
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:42. TAG: DO IT AGAIN II (circa 19 Minuten)
-DTSTART;VALUE=DATE:20200708
-DTEND;VALUE=DATE:20200708
+DTSTART;VALUE=DATE:20200709
+DTEND;VALUE=DATE:20200709
 DESCRIPTION:42. TAG: DO IT AGAIN II (circa 19 Minuten)\n\nJede der Übunge
  n von gestern endete mit einem absoluten Muskel-K.-o. War das der Fall? We
  nn du am Ende noch Reserven hattest\, kannst du unmöglich im richtigen Mo
@@ -1028,8 +1028,8 @@ DESCRIPTION:42. TAG: DO IT AGAIN II (circa 19 Minuten)\n\nJede der Übunge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:43. TAG: BE STRONG (circa 23 Minuten)
-DTSTART;VALUE=DATE:20200709
-DTEND;VALUE=DATE:20200709
+DTSTART;VALUE=DATE:20200710
+DTEND;VALUE=DATE:20200710
 DESCRIPTION:43. TAG: BE STRONG (circa 23 Minuten)\n\nHeute ist Mentaltag. 
  Erlaube dir keine destruktiven Gedanken. Alles\, was du erlebst und fühls
  t – nimm es bewusst wahr und versuche\, es positiv zu sehen\, zu ändern
@@ -1046,8 +1046,8 @@ DESCRIPTION:43. TAG: BE STRONG (circa 23 Minuten)\n\nHeute ist Mentaltag.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:44. TAG: AS YOU LIKE IT (circa 30 Minuten)
-DTSTART;VALUE=DATE:20200710
-DTEND;VALUE=DATE:20200710
+DTSTART;VALUE=DATE:20200711
+DTEND;VALUE=DATE:20200711
 DESCRIPTION:44. TAG: AS YOU LIKE IT (circa 30 Minuten)\n\nDu hast ein hart
  es Training absolviert. Möglicherweise hast du dich zwischendurch gefragt
  \, warum du dir das antust\, und überlegt aufzuhören. Sei dir bewusst\, 
@@ -1071,8 +1071,8 @@ DESCRIPTION:44. TAG: AS YOU LIKE IT (circa 30 Minuten)\n\nDu hast ein hart
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:45. TAG: PAUSENTAG
-DTSTART;VALUE=DATE:20200711
-DTEND;VALUE=DATE:20200711
+DTSTART;VALUE=DATE:20200712
+DTEND;VALUE=DATE:20200712
 DESCRIPTION:45. TAG: PAUSENTAG\n\nDer gestrige Tag war wichtig für deine 
  Selbstständigkeit. Das Zusammenstellen eigener Workouts ist eine Vorausse
  tzung für das Weitermachen nach dem Buch. Ruhe dich einen Tag aus. Entspa
@@ -1099,8 +1099,8 @@ DESCRIPTION:45. TAG: PAUSENTAG\n\nDer gestrige Tag war wichtig für deine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:46. TAG: RUN AND PUMP (circa 38 Minuten)
-DTSTART;VALUE=DATE:20200712
-DTEND;VALUE=DATE:20200712
+DTSTART;VALUE=DATE:20200713
+DTEND;VALUE=DATE:20200713
 DESCRIPTION:46. TAG: RUN AND PUMP (circa 38 Minuten)\n\nMittlerweile hast 
  du deinen inneren Schweinehund bestimmt ganz gut im Griff. Wie sieht es mi
  t Heißhungerattacken aus? Hungern soll hier zwar niemand\, aber wir fahre
@@ -1124,8 +1124,8 @@ DESCRIPTION:46. TAG: RUN AND PUMP (circa 38 Minuten)\n\nMittlerweile hast
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:47. TAG: JUMP AND FLY (circa 18 Minuten)
-DTSTART;VALUE=DATE:20200713
-DTEND;VALUE=DATE:20200713
+DTSTART;VALUE=DATE:20200714
+DTEND;VALUE=DATE:20200714
 DESCRIPTION:47. TAG: JUMP AND FLY (circa 18 Minuten)\n\nDu machst das gro
  ßartig. Du hast so lange so gut durchgehalten. Noch zwei Wochen Vollgas\,
   und du bist am Ziel. Es lohnt sich. Der Körper ist nun gut vorbereitet. 
@@ -1142,8 +1142,8 @@ DESCRIPTION:47. TAG: JUMP AND FLY (circa 18 Minuten)\n\nDu machst das gro
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:48. TAG: PUSH AND JUMP (circa 25 Minuten)
-DTSTART;VALUE=DATE:20200714
-DTEND;VALUE=DATE:20200714
+DTSTART;VALUE=DATE:20200715
+DTEND;VALUE=DATE:20200715
 DESCRIPTION:48. TAG: PUSH AND JUMP (circa 25 Minuten)\n\nWeiter so! Wer t
  äglich trainiert\, sollte übrigens mindestens zwei paar Trainingsschuhe 
  zum Wechseln haben\, denn Schuhe brauchen etwa 24 Stunden\, um ganz auszut
@@ -1161,8 +1161,8 @@ DESCRIPTION:48. TAG: PUSH AND JUMP (circa 25 Minuten)\n\nWeiter so! Wer t
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:49. TAG: PAUSENTAG
-DTSTART;VALUE=DATE:20200715
-DTEND;VALUE=DATE:20200715
+DTSTART;VALUE=DATE:20200716
+DTEND;VALUE=DATE:20200716
 DESCRIPTION:49. TAG: PAUSENTAG\n\nNutze den Pausentag\, um dir etwas Gutes
   zu tun. Wahrscheinlich hast du mittlerweile herausgefunden\, wie du dir d
  iese Trainingspause am liebsten gestaltest. Vielleicht hast du sogar Zeit\
@@ -1193,8 +1193,8 @@ DESCRIPTION:49. TAG: PAUSENTAG\n\nNutze den Pausentag\, um dir etwas Gutes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:50. TAG: 100-PERCENT TRAINING (circa 25 Minuten)
-DTSTART;VALUE=DATE:20200716
-DTEND;VALUE=DATE:20200716
+DTSTART;VALUE=DATE:20200717
+DTEND;VALUE=DATE:20200717
 DESCRIPTION:50. TAG: 100-PERCENT TRAINING (circa 25 Minuten)\n\nNoch zehn 
  Tage. Du bist fast am Ziel. Optimiere immer wieder deine Ernährung. Sie m
  acht meiner Meinung nach etwa 70 Prozent des Trainingserfolgs aus. Denn wa
@@ -1212,8 +1212,8 @@ DESCRIPTION:50. TAG: 100-PERCENT TRAINING (circa 25 Minuten)\n\nNoch zehn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:51. TAG: RESPONSIBILITY WORKOUT (circa 17 Minuten)
-DTSTART;VALUE=DATE:20200717
-DTEND;VALUE=DATE:20200717
+DTSTART;VALUE=DATE:20200718
+DTEND;VALUE=DATE:20200718
 DESCRIPTION:51. TAG: RESPONSIBILITY WORKOUT (circa 17 Minuten)\n\nDu bist 
  auf der Zielgeraden. Die letzten Tage dieses Trainingsprogramms sind angeb
  rochen. Falls du dich zwischendurch fragst\, warum du das tust\, helfe ich
@@ -1236,8 +1236,8 @@ DESCRIPTION:51. TAG: RESPONSIBILITY WORKOUT (circa 17 Minuten)\n\nDu bist
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:52. TAG: RUN AND PUSH (circa 60 Minuten)
-DTSTART;VALUE=DATE:20200718
-DTEND;VALUE=DATE:20200718
+DTSTART;VALUE=DATE:20200719
+DTEND;VALUE=DATE:20200719
 DESCRIPTION:52. TAG: RUN AND PUSH (circa 60 Minuten)\n\n2012 habe ich mir 
  den Fuß gebrochen. Das schmerzvollste Erlebnis war nicht der Bruch selbst
  . Der tat nicht mehr weh als eine Prellung. Nein\, es war das Erlebnis\, w
@@ -1267,8 +1267,8 @@ DESCRIPTION:52. TAG: RUN AND PUSH (circa 60 Minuten)\n\n2012 habe ich mir
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:53. TAG: GO AND GET IT! (circa 30 Minuten)
-DTSTART;VALUE=DATE:20200719
-DTEND;VALUE=DATE:20200719
+DTSTART;VALUE=DATE:20200720
+DTEND;VALUE=DATE:20200720
 DESCRIPTION:53. TAG: GO AND GET IT! (circa 30 Minuten)\n\nBald bist du am 
  Ziel – und gleichzeitig am Start in ein Leben\, das du zukünftig selbst
  ständig so gestalten kannst\, dass du fit bleibst. Ich möchte dich noch 
@@ -1284,8 +1284,8 @@ DESCRIPTION:53. TAG: GO AND GET IT! (circa 30 Minuten)\n\nBald bist du am
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:54. TAG: PAUSENTAG
-DTSTART;VALUE=DATE:20200720
-DTEND;VALUE=DATE:20200720
+DTSTART;VALUE=DATE:20200721
+DTEND;VALUE=DATE:20200721
 DESCRIPTION:54. TAG: PAUSENTAG\n\nDenke in den letzten Tagen noch einmal d
  aran\, nur dann zu essen\, wenn du wirklich Hunger hast. Vor allem abends 
  essen wir oft aus Langeweile. Eine Empfehlung\, die ich meinen Kunden imme
@@ -1306,8 +1306,8 @@ DESCRIPTION:54. TAG: PAUSENTAG\n\nDenke in den letzten Tagen noch einmal d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:55. TAG: BODYFIGHT WORKOUT (circa 25 Minuten)
-DTSTART;VALUE=DATE:20200721
-DTEND;VALUE=DATE:20200721
+DTSTART;VALUE=DATE:20200722
+DTEND;VALUE=DATE:20200722
 DESCRIPTION:55. TAG: BODYFIGHT WORKOUT (circa 25 Minuten)\n\nWie geht es d
  einen Füßen? Ich weiß\, in meinen Workouts kommen Rope Skippings\, Jump
  ing Jabs oder Sprints häufig vor – das fordert deine Füße enorm. Aber
@@ -1329,8 +1329,8 @@ DESCRIPTION:55. TAG: BODYFIGHT WORKOUT (circa 25 Minuten)\n\nWie geht es d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:56. TAG: CLOSE TO FINAL SESSION (circa 25 Minuten)
-DTSTART;VALUE=DATE:20200722
-DTEND;VALUE=DATE:20200722
+DTSTART;VALUE=DATE:20200723
+DTEND;VALUE=DATE:20200723
 DESCRIPTION:56. TAG: CLOSE TO FINAL SESSION (circa 25 Minuten)\n\nDu bist 
  auf der Zielgeraden. Jetzt\, auf den letzten 100 Metern\, muss ich dich ni
  cht mehr motivieren. Dein innerer Schweinehund ist zum Meerschweinchen ges
@@ -1351,8 +1351,8 @@ DESCRIPTION:56. TAG: CLOSE TO FINAL SESSION (circa 25 Minuten)\n\nDu bist
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:57. TAG: FLY LIKE AN EAGLE WORKOUT (circa 47 Minuten)
-DTSTART;VALUE=DATE:20200723
-DTEND;VALUE=DATE:20200723
+DTSTART;VALUE=DATE:20200724
+DTEND;VALUE=DATE:20200724
 DESCRIPTION:57. TAG: FLY LIKE AN EAGLE WORKOUT (circa 47 Minuten)\n\nKenns
  t du die Geschichte von dem kleinen Vogel\, der aus dem Nest gefallen ist 
  und von Hühnern großgezogen wird? Eines Abends sitzen Mama und Papa Huhn
@@ -1373,8 +1373,8 @@ DESCRIPTION:57. TAG: FLY LIKE AN EAGLE WORKOUT (circa 47 Minuten)\n\nKenns
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:58. TAG: HAPPINESS TRAINING (circa 30 Minuten)
-DTSTART;VALUE=DATE:20200724
-DTEND;VALUE=DATE:20200724
+DTSTART;VALUE=DATE:20200725
+DTEND;VALUE=DATE:20200725
 DESCRIPTION:58. TAG: HAPPINESS TRAINING (circa 30 Minuten)\n\nBald bist du
   ein Winner\, ein Sieger. Natürlich machst du jetzt nicht mehr schlapp\, 
  sondern ziehst das Programm durch. Du schaffst das wahrscheinlich mittlerw
@@ -1397,8 +1397,8 @@ DESCRIPTION:58. TAG: HAPPINESS TRAINING (circa 30 Minuten)\n\nBald bist du
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:59. TAG: ENJOY THE NEW SPIRIT (circa 25 Minuten)
-DTSTART;VALUE=DATE:20200725
-DTEND;VALUE=DATE:20200725
+DTSTART;VALUE=DATE:20200726
+DTEND;VALUE=DATE:20200726
 DESCRIPTION:59. TAG: ENJOY THE NEW SPIRIT (circa 25 Minuten)\n\n„Vorfreu
  de ist die schönste Freude“\, heißt es so oft. Wie ich darauf komme? W
  eil morgen der letzte Tag ist? Falsch! Weil es nach dem morgigen Tag erst 
@@ -1416,8 +1416,8 @@ DESCRIPTION:59. TAG: ENJOY THE NEW SPIRIT (circa 25 Minuten)\n\n„Vorfreu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:60. TAG: HAPPY END WORKOUT (circa 56 Minuten)
-DTSTART;VALUE=DATE:20200726
-DTEND;VALUE=DATE:20200726
+DTSTART;VALUE=DATE:20200727
+DTEND;VALUE=DATE:20200727
 DESCRIPTION:60. TAG: HAPPY END WORKOUT (circa 56 Minuten)\n\nSo\, liebe Le
  serin\, lieber Leser\, es ist so weit. Du bist so weit. Du hast es geschaf
  ft\, 60 Tage lang konsequent an dir zu arbeiten. Trotz innerem Schweinehun

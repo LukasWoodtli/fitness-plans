@@ -5,7 +5,7 @@ from datetime import date, timedelta
 import re
 import os
 
-from fitmacher_formel.calendar import CalendarEvent, add_to_calender
+from fitmacher_formel.workout_calendar import CalendarEvent, Calendar
 
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 INPUT_FILE = os.path.join(SCRIPT_DIR, '../dfmf.txt')
@@ -46,17 +46,20 @@ def split_workouts(data):
     return all_workouts
 
 
-def get_all_as_ical():
-    workouts = split_workouts(read_input_file())
-    workouts = [workout for workout in workouts if int(workout.summary.split(".")[0]) >= FIRST_WORKOUT]
-    cal = add_to_calender(workouts)
-    return cal.to_ical().decode('utf-8')
-
 
 def main():
     fout = open('fitness.ics', 'w')
-    fout.writelines(get_all_as_ical())
+    workouts_as_ical = create_workuts_from_text()
+    fout.writelines(workouts_as_ical)
     fout.close()
+
+
+def create_workuts_from_text():
+    workouts = split_workouts(read_input_file())
+    workouts = [workout for workout in workouts if int(workout.summary.split(".")[0]) >= FIRST_WORKOUT]
+    cal = Calendar(workouts)
+    workouts_as_ical = cal.get_all_as_ical()
+    return workouts_as_ical
 
 
 if __name__ == "__main__":
