@@ -1,0 +1,7 @@
+approvaltests==0.2.6
+coverage==5.1
+icalendar==4.0.6
+pyperclip==1.5.27
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
