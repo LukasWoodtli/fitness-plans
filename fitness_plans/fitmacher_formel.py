@@ -5,27 +5,25 @@ from datetime import date, timedelta
 import re
 import os
 
-from fitmacher_formel.workout_calendar import CalendarEvent, WorkoutCalendar
+from fitness_plans.workout_calendar import CalendarEvent, WorkoutCalendar
 
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 
 
-def main():
-    fout = open('fitness.ics', 'w')
-    dfmf = FitmacherFormel()
-    workouts_as_ical = dfmf.create_workouts_from_text()
-    fout.writelines(workouts_as_ical)
-    fout.close()
-
-
-class FitmacherFormel:
+class FitMacherFormel:
     INPUT_FILE = os.path.join(SCRIPT_DIR, '../dfmf.txt')
+    CALENDAR_NAME = "DieFitMacherFormel"
 
     def __init__(self, workout_start_date=date.today(), first_workout=1):
         self.workout_start = workout_start_date
         self.first_workout = first_workout
 
-    def create_workouts_from_text(self):
+    def create_workout_calendar(self):
+        with open(f'{self.CALENDAR_NAME}.ics', 'w') as f_out:
+            workouts_as_ical = self._create_workouts_from_text()
+            f_out.writelines(workouts_as_ical)
+
+    def _create_workouts_from_text(self):
         workouts = self._split_workouts(self._read_input_file())
         workouts = self._filter_skipped_workouts(workouts)
         cal = WorkoutCalendar(workouts)
@@ -39,8 +37,8 @@ class FitmacherFormel:
 
     @staticmethod
     def _strip_unneeded_text(data):
-        data = FitmacherFormel._strip_unneeded_begin_of_text(data)
-        data = FitmacherFormel._strip_unneeded_end_of_text(data)
+        data = FitMacherFormel._strip_unneeded_begin_of_text(data)
+        data = FitMacherFormel._strip_unneeded_end_of_text(data)
         return data
 
     @staticmethod
@@ -81,7 +79,8 @@ class FitmacherFormel:
         event = CalendarEvent(title, workout_date, description)
         return event
 
-    def _create_description(self, description, title):
+    @staticmethod
+    def _create_description(description, title):
         description = re.sub("\n\n+", "\n\n", description)
         description = title + description
         return description
@@ -91,4 +90,5 @@ class FitmacherFormel:
 
 
 if __name__ == "__main__":
-    main()
+    fitmacher_formel = FitMacherFormel()
+    fitmacher_formel.create_workout_calendar()
