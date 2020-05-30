@@ -1,26 +1,9 @@
 #!/usr/bin/env python3
 from datetime import timedelta, date, datetime
-from icalendar import Calendar, Event
 import requests
 from bs4 import BeautifulSoup
 
 from fitness_plans.workout_calendar import CalendarEvent, WorkoutCalendar
-
-r = requests.get('https://twentypullups.com/')
-soup = BeautifulSoup(r.text, 'html.parser')
-
-WEEK_NO = 1
-WEEK_NO_TEXT = f"Week {WEEK_NO}"
-
-# link to week
-weeks = [i.get('href') for i in soup.find_all('a') if WEEK_NO_TEXT in i.text]
-
-# parse table
-week_page_request = requests.get(weeks[0])
-week_page = BeautifulSoup(week_page_request.text, 'html.parser')
-
-table = week_page.find('table')
-table_body = table.find('tbody')
 
 class Workout:
     def __init__(self, week, title, subtitle):
@@ -62,7 +45,6 @@ class Workout:
         #text += self._get_workout_set_text("Hard")
         return text
 
-
     def __repr__(self):
         text = self.get_full_title() + "\n"
         text += self.get_description_text() + "\n"
@@ -75,46 +57,86 @@ class Workout:
         self.hard_set.append(hard_workout)
 
 
-rows = table_body.find_all('tr')
-all_workouts = []
-for row in rows:
-    cols = row.find_all('td')
-    if not cols:
-        text = row.text
-        text = text.splitlines()
-        text = [line.strip() for line in text if line.strip()]
-        assert len(text) == 2
-        title = text[0]
-        assert title.startswith("Day")
-        subtitle = text[1]
-        assert subtitle.startswith("Rest")
-        workout_day = Workout(WEEK_NO, title, subtitle)
-        all_workouts.append(workout_day)
+class PullUpChallenge:
 
-    else:
-        assert workout_day
-        cols = [ele.text.strip() for ele in cols]
-        assert len(cols) == 3
-        workout_day.append_workout_step(*cols)
+    def __init__(self, week_no=1, start_date=date.today(), workout_frequecy=timedelta(days=2)):
+        self._week_no = 1
+        self.workout_start = start_date
+        self.workout_frequency = workout_frequecy
+
+    def get_all_workouts(self):
+        table_body = self._fetch_page_and_parse_table()
+
+        rows = table_body.find_all('tr')
+        all_workouts = []
+        for row in rows:
+            cols = row.find_all('td')
+            if not cols:
+                text = row.text
+                text = text.splitlines()
+                text = [line.strip() for line in text if line.strip()]
+                assert len(text) == 2
+                title = text[0]
+                assert title.startswith("Day")
+                subtitle = text[1]
+                assert subtitle.startswith("Rest")
+                workout_day = Workout(challenge._week_no, title, subtitle)
+                all_workouts.append(workout_day)
+
+            else:
+                assert workout_day
+                cols = [ele.text.strip() for ele in cols]
+                assert len(cols) == 3
+                workout_day.append_workout_step(*cols)
+
+        return all_workouts
+
+    def _fetch_page_and_parse_table(self):
+        page = self._fetch_page()
+        return self._parse_table(page)
+
+    def _fetch_page(self):
+        request = requests.get('https://twentypullups.com/')
+        soup = BeautifulSoup(request.text, 'html.parser')
+        return soup
+
+    def _parse_table(self, html_soup):
+        week_no_text = f"Week {self._week_no}"
+        # link to week
+        weeks = [i.get('href') for i in html_soup.find_all('a') if week_no_text in i.text]
+
+        # parse table
+        week_page_request = requests.get(weeks[0])
+        week_page = BeautifulSoup(week_page_request.text, 'html.parser')
+
+        table = week_page.find('table')
+        table_body = table.find('tbody')
+
+        return table_body
+
+    def workouts_to_cal_events(self):
+        workouts = self.get_all_workouts()
+        cal_events = []
+        workout_date = self.workout_start
+        for workout in workouts:
+            title = workout.get_full_title()
+            description = workout.get_description_text()
+            event = CalendarEvent(title, workout_date, description)
+            workout_date = workout_date + self.workout_frequency
+            cal_events.append(event)
+        return cal_events
 
 
-WORKOUT_START = date.today()  #+ timedelta(days=2) #date(year=2019, month=10, day=1)
-WORKOUT_FREQUENCY = timedelta(days=2)
+challenge = PullUpChallenge()
 
 
-def workouts_to_cal_events(workouts):
-    cal_events = []
-    workout_date = WORKOUT_START
-    for workout in workouts:
-        title = workout.get_full_title()
-        description = workout.get_description_text()
-        event = CalendarEvent(title, workout_date, description)
-        workout_date = workout_date + WORKOUT_FREQUENCY
-        cal_events.append(event)
-    return cal_events
 
 
-all_workouts = workouts_to_cal_events(all_workouts)
+
+
+
+
+all_workouts = challenge.workouts_to_cal_events()
 
 
 def add_to_calender(workout_events):
