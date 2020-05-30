@@ -1,0 +1,4 @@
+[run]
+branch = True
+source = fitness_plans
+omit = */__init__.py

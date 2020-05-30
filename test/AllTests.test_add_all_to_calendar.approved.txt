@@ -1434,6 +1434,6 @@ DESCRIPTION:60. TAG: HAPPY END WORKOUT (circa 56 Minuten)\n\nSo\, liebe Le
  oor: 35 Minuten laufen\n\n5 Minuten normales Tempo ➜ 30 Sekunden schnell
  es Tempo ➜ 2\,5 Minuten normales Tempo (insgesamt 4-mal wiederholen)\n\n
  Cool-down: 3 Minuten lockeres Auslaufen\n\nUnd jetzt die letzte Aufgabe: e
- in Schlussfoto mit Siegerlächeln!\n\n
+ in Schlussfoto mit Siegerlächeln!
 END:VEVENT
 END:VCALENDAR

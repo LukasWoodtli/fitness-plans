@@ -14,12 +14,16 @@ class FitMacherFormel:
     INPUT_FILE = os.path.join(SCRIPT_DIR, '../dfmf.txt')
     CALENDAR_NAME = "DieFitMacherFormel"
 
-    def __init__(self, workout_start_date=date.today(), first_workout=1):
+    def __init__(self, workout_start_date=date.today(), first_workout=1, output_dir=None):
         self.workout_start = workout_start_date
         self.first_workout = first_workout
+        self.output_dir = output_dir
 
     def create_workout_calendar(self):
-        with open(f'{self.CALENDAR_NAME}.ics', 'w') as f_out:
+        output_file_path = f'{self.CALENDAR_NAME}.ics'
+        if self.output_dir:
+            output_file_path = os.path.join(self.output_dir, output_file_path)
+        with open(output_file_path, 'w') as f_out:
             workouts_as_ical = self._create_workouts_from_text()
             f_out.writelines(workouts_as_ical)
 
@@ -39,6 +43,7 @@ class FitMacherFormel:
     def _strip_unneeded_text(data):
         data = FitMacherFormel._strip_unneeded_begin_of_text(data)
         data = FitMacherFormel._strip_unneeded_end_of_text(data)
+        data = data.strip()
         return data
 
     @staticmethod
