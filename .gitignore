@@ -3,4 +3,6 @@
 dfmf.txt
 __pycache__/
 *.pyc
-fitness.ics
+*.ics
+htmlcov/
+.coverage
