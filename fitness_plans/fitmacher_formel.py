@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+import base64
 from datetime import date, timedelta
 import re
 import os
@@ -11,7 +11,7 @@ SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 
 
 class FitMacherFormel:
-    INPUT_FILE = os.path.join(SCRIPT_DIR, '../dfmf.txt')
+    INPUT_FILE = os.path.join(SCRIPT_DIR, '../dfmf.encoded.txt')
     CALENDAR_NAME = "DieFitMacherFormel"
 
     def __init__(self, workout_start_date=date.today(), first_workout=1, output_dir=None):
@@ -34,8 +34,10 @@ class FitMacherFormel:
         return cal.get_all_as_ical()
 
     def _read_input_file(self):
-        with open(self.INPUT_FILE, 'r', encoding='utf-8') as infile:
-            data = infile.read()
+        with open(self.INPUT_FILE, 'rb') as infile:
+            encoded_data = infile.read()
+            data = base64.decodebytes(encoded_data)
+            data = data.decode('UTF-8')
             data = self._strip_unneeded_text(data)
             return data
 
