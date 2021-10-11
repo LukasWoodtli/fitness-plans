@@ -11,11 +11,10 @@ jobs:
           pkg-manager: pip
       - run:
           name: Run unit tests
-          command: pytest test/uint
+          command: pytest test/unit
       - run:
           name: Run integration tests
           command: pytest test/integration
-
 workflows:
   sample:
     jobs:
