@@ -5,6 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Day 1 (Week 1)
 DTSTART;VALUE=DATE:20200530
 DTEND;VALUE=DATE:20200530
+[creation date]
 DESCRIPTION:Rest 120 seconds between each set (longer if required)\n\nEasy
  :\nPrerequisites: 3-5 pull-ups\n\n	Set 1: 2\n	Set 2: 1\n	Set 3: 1\n	Set 4:
   2\n	Set 5: 3\n\n\n
@@ -13,6 +14,7 @@ BEGIN:VEVENT
 SUMMARY:Day 2 (Week 1)
 DTSTART;VALUE=DATE:20200601
 DTEND;VALUE=DATE:20200601
+[creation date]
 DESCRIPTION:Rest 90 seconds between each set (longer if required)\n\nEasy:
  \nPrerequisites: 3-5 pull-ups\n\n	Set 1: 2\n	Set 2: 2\n	Set 3: 1\n	Set 4: 
  2\n	Set 5: 3\n\n\n
@@ -21,6 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Day 3 (Week 1)
 DTSTART;VALUE=DATE:20200603
 DTEND;VALUE=DATE:20200603
+[creation date]
 DESCRIPTION:Rest 120 seconds between each set (longer if required)\n\nEasy
  :\nPrerequisites: 3-5 pull-ups\n\n	Set 1: 2\n	Set 2: 2\n	Set 3: 2\n	Set 4:
   2\n	Set 5: max\n\n\n

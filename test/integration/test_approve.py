@@ -1,24 +1,24 @@
 from datetime import date
 from unittest.mock import patch
-from approvaltests.approvals import verify
+from approvaltests import Options, verify
+from approvaltests.scrubbers import create_regex_scrubber
 
 from fitness_plans.fitmacher_formel import FitMacherFormel
 from fitness_plans.pullup_challenge import PullUpChallenge
 
+OPTIONS_WITH_SCRUBBER = Options().with_scrubber(create_regex_scrubber("DTSTAMP;VALUE=DATE-TIME.*", "[creation date]"))
+
 
 def test_fitmacher_formel():
-    # filter out creation timestamp
     fmf = FitMacherFormel(date(2020, 5, 29))
-    filtered_ical = [l for l in fmf._create_workouts_from_text().split("\n") if not l.startswith("DTSTAMP;VALUE=DATE-TIME")]
-    verify("\n".join(filtered_ical))
+    cal = fmf._create_workouts_from_text()
+    verify(cal, options=OPTIONS_WITH_SCRUBBER)
 
 
 def test_pullup_challenge():
-    # filter out creation timestamp
     challenge = PullUpChallenge(start_date=date(2020, 5, 30))
     calendar = challenge._create_workouts_from_text()
-    filtered_ical = [l for l in calendar.split("\n") if not l.startswith("DTSTAMP;VALUE=DATE-TIME")]
-    verify("\n".join(filtered_ical))
+    verify(calendar, options=OPTIONS_WITH_SCRUBBER)
 
 
 @patch('fitness_plans.fitmacher_formel.FitMacherFormel._read_input_file')
@@ -32,5 +32,4 @@ def test_create_workout_calendar(mock_read_input_file):
         "Workout 3"
     fmf = FitMacherFormel()
     calendar = fmf._create_workouts_from_text()
-    filtered_ical = [l for l in calendar.split("\n") if not l.startswith("DTSTAMP;VALUE=DATE-TIME")]
-    verify("\n".join(filtered_ical))
+    verify(calendar, options=OPTIONS_WITH_SCRUBBER)

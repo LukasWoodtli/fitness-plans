@@ -1,4 +1,4 @@
-approvaltests==0.2.6
+approvaltests==2.2.0
 attrs==21.2.0
 beautifulsoup4==4.10.0
 bs4==0.0.1
