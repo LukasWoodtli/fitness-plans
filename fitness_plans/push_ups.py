@@ -75,8 +75,21 @@ Workout = collections.namedtuple('Workout', ['sets', 'reps', 'break_in_secs'])
 # Generated with the code above form
 # https://m.fitforfun.de/workout/krafttraining/liegestuetze-100-stueck-so-schaffen-sies_aid_9794.html
 WORKOUT_WEEKS = [
-    {'6_TO_10': [Workout(sets=4, reps=5, break_in_secs=60), Workout(sets=4, reps=6, break_in_secs=90), Workout(sets=4, reps=8, break_in_secs=120)], '11_TO_20': [Workout(sets=4, reps=9, break_in_secs=60), Workout(sets=4, reps=10, break_in_secs=90), Workout(sets=4, reps=12, break_in_secs=120)], '21_TO_25': [Workout(sets=4, reps=14, break_in_secs=60), Workout(sets=4, reps=15, break_in_secs=90), Workout(sets=4, reps=17, break_in_secs=120)], '26_TO_30': [Workout(sets=4, reps=16, break_in_secs=60), Workout(sets=4, reps=18, break_in_secs=45), Workout(sets=7, reps=15, break_in_secs=45)], '31_TO_40': [Workout(sets=4, reps=22, break_in_secs=60), Workout(sets=7, reps=16, break_in_secs=45), Workout(sets=7, reps=18, break_in_secs=45)], '40_AND_MORE': [Workout(sets=4, reps=30, break_in_secs=60), Workout(sets=7, reps=20, break_in_secs=45), Workout(sets=7, reps=25, break_in_secs=45)]},
-    {'6_TO_10': [Workout(sets=4, reps=8, break_in_secs=60), Workout(sets=4, reps=11, break_in_secs=90), Workout(sets=4, reps=11, break_in_secs=120)], '11_TO_20': [Workout(sets=4, reps=11, break_in_secs=60), Workout(sets=4, reps=13, break_in_secs=90), Workout(sets=4, reps=15, break_in_secs=120)], '21_TO_25': [Workout(sets=4, reps=16, break_in_secs=60), Workout(sets=4, reps=20, break_in_secs=90), Workout(sets=4, reps=23, break_in_secs=120)], '26_TO_30': [Workout(sets=4, reps=20, break_in_secs=60), Workout(sets=4, reps=25, break_in_secs=45), Workout(sets=8, reps=18, break_in_secs=45)], '31_TO_40': [Workout(sets=4, reps=25, break_in_secs=60), Workout(sets=8, reps=20, break_in_secs=45), Workout(sets=8, reps=22, break_in_secs=45)], '40_AND_MORE': [Workout(sets=4, reps=35, break_in_secs=60), Workout(sets=8, reps=28, break_in_secs=45), Workout(sets=8, reps=30, break_in_secs=45)]}
+    {
+        '6_TO_10': [Workout(sets=4, reps=5, break_in_secs=60), Workout(sets=4, reps=6, break_in_secs=90), Workout(sets=4, reps=8, break_in_secs=120)],
+        '11_TO_20': [Workout(sets=4, reps=9, break_in_secs=60), Workout(sets=4, reps=10, break_in_secs=90), Workout(sets=4, reps=12, break_in_secs=120)],
+        '21_TO_25': [Workout(sets=4, reps=14, break_in_secs=60), Workout(sets=4, reps=15, break_in_secs=90), Workout(sets=4, reps=17, break_in_secs=120)],
+        '26_TO_30': [Workout(sets=4, reps=16, break_in_secs=60), Workout(sets=4, reps=18, break_in_secs=45), Workout(sets=7, reps=15, break_in_secs=45)],
+        '31_TO_40': [Workout(sets=4, reps=22, break_in_secs=60), Workout(sets=7, reps=16, break_in_secs=45), Workout(sets=7, reps=18, break_in_secs=45)],
+        '40_AND_MORE': [Workout(sets=4, reps=30, break_in_secs=60), Workout(sets=7, reps=20, break_in_secs=45), Workout(sets=7, reps=25, break_in_secs=45)]},
+    {
+        '6_TO_10': [Workout(sets=4, reps=8, break_in_secs=60), Workout(sets=4, reps=11, break_in_secs=90), Workout(sets=4, reps=11, break_in_secs=120)],
+        '11_TO_20': [Workout(sets=4, reps=11, break_in_secs=60), Workout(sets=4, reps=13, break_in_secs=90), Workout(sets=4, reps=15, break_in_secs=120)],
+        '21_TO_25': [Workout(sets=4, reps=16, break_in_secs=60), Workout(sets=4, reps=20, break_in_secs=90), Workout(sets=4, reps=23, break_in_secs=120)],
+        '26_TO_30': [Workout(sets=4, reps=20, break_in_secs=60), Workout(sets=4, reps=25, break_in_secs=45), Workout(sets=8, reps=18, break_in_secs=45)],
+        '31_TO_40': [Workout(sets=4, reps=25, break_in_secs=60), Workout(sets=8, reps=20, break_in_secs=45), Workout(sets=8, reps=22, break_in_secs=45)],
+        '40_AND_MORE': [Workout(sets=4, reps=35, break_in_secs=60), Workout(sets=8, reps=28, break_in_secs=45), Workout(sets=8, reps=30, break_in_secs=45)]
+    }
 ]
 
 
@@ -93,7 +106,7 @@ class PushUps:
             f_out.writelines(workouts_as_ical)
 
     def _create_workouts(self):
-        CURRENT_FITNESS_LEVEL = '6_TO_10'
+        CURRENT_FITNESS_LEVEL = '11_TO_20'
 
         all_workouts = []
 
@@ -111,12 +124,14 @@ class PushUps:
 
         return cal.get_all_as_ical()
 
-    def _create_workouts_for_week(self, first_workout_date, workouts):
+    @staticmethod
+    def _create_workouts_for_week(first_workout_date, workouts):
         workout_date = first_workout_date
         ws = []
         for workout in workouts:
             text = f"Reps: {workout.reps}\n" \
                    f"Sets: {workout.sets}\n" \
+                   "1 set sub-maximal\n" \
                    f"Break: {workout.break_in_secs} s"
 
             w = CalendarEvent("Push Ups", workout_date, text)
