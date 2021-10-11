@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import base64
+import pathlib
 from datetime import date, timedelta
 import re
 import os
@@ -22,6 +23,7 @@ class FitMacherFormel:
     def create_workout_calendar(self):
         output_file_path = f'{self.CALENDAR_NAME}.ics'
         if self.output_dir:
+            pathlib.Path(self.output_dir).mkdir(parents=True, exist_ok=True)
             output_file_path = os.path.join(self.output_dir, output_file_path)
         with open(output_file_path, 'w') as f_out:
             workouts_as_ical = self._create_workouts_from_text()
