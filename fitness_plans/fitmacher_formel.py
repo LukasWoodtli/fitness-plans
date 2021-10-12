@@ -40,29 +40,7 @@ class FitMacherFormel:
             encoded_data = infile.read()
             data = base64.decodebytes(encoded_data)
             data = data.decode('UTF-8')
-            data = self._strip_unneeded_text(data)
             return data
-
-    @staticmethod
-    def _strip_unneeded_text(data):
-        data = FitMacherFormel._strip_unneeded_begin_of_text(data)
-        data = FitMacherFormel._strip_unneeded_end_of_text(data)
-        data = data.strip()
-        return data
-
-    @staticmethod
-    def _strip_unneeded_end_of_text(data):
-        end_text = "RIM TIM MUART NENIEM EBEL"  # just a bit obfuscated
-        end_text = end_text[::-1]
-        data = data.split(end_text)[0]  # remove end
-        return data
-
-    @staticmethod
-    def _strip_unneeded_begin_of_text(data):
-        begin_text = "GAT .1"  # just a bit obfuscated
-        begin_text = begin_text[::-1]
-        data = data[data.find(begin_text):]  # remove begin
-        return data
 
     def _filter_skipped_workouts(self, workouts):
         return [workout for workout in workouts if int(workout.summary.split(".")[0]) >= self.first_workout]

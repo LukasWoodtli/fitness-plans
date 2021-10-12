@@ -50,6 +50,6 @@ def test_create_workout_calendar(mock_read_input_file):
         "Workout 2\n" \
         "3. TAG: Hello 3\n" \
         "Workout 3"
-    fmf = FitMacherFormel()
+    fmf = FitMacherFormel(workout_start_date=date(2021, 10, 11))
     calendar = fmf._create_workouts_from_text()
     verify(calendar, options=OPTIONS_WITH_SCRUBBER)
