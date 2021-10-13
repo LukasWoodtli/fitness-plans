@@ -5,12 +5,6 @@ from fitness_plans.fitmacher_formel import FitMacherFormel
 from fitness_plans.workout_calendar import CalendarEvent
 
 
-def test_strip_unneeded_text():
-    text = "1. TAG\nHello\n\nLEBE MEINEN TRAUM MIT MIR"
-    stripped_text = FitMacherFormel._strip_unneeded_text(text)
-    assert stripped_text == "1. TAG\nHello"
-
-
 def test_filter_skipped_workouts():
     workout_list = [
         CalendarEvent("1. TAG", date(year=1980, month=7, day=7), "description 1"),
