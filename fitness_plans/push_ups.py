@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 import collections
-from datetime import date, timedelta
+import datetime
+from datetime import date, time, timedelta
 #from bs4 import BeautifulSoup
 #from itertools import chain
 from fitness_plans.workout_calendar import CalendarEvent, WorkoutCalendar
@@ -96,8 +97,9 @@ WORKOUT_WEEKS = [
 class PushUps:
     CALENDAR_NAME = "PushUps"
 
-    def __init__(self, start_date=date.today()):
+    def __init__(self, start_date=date.today(), workout_time_of_day=time(6, 0, 0)):
         self.workout_start = start_date
+        self.workout_time_of_day = workout_time_of_day
 
     def create_workout_calendar(self):
         output_file_path = f'{self.CALENDAR_NAME}.ics'
@@ -124,8 +126,7 @@ class PushUps:
 
         return cal.get_all_as_ical()
 
-    @staticmethod
-    def _create_workouts_for_week(first_workout_date, workouts):
+    def _create_workouts_for_week(self, first_workout_date, workouts):
         workout_date = first_workout_date
         ws = []
         for workout in workouts:
@@ -134,7 +135,8 @@ class PushUps:
                    "1 set sub-maximal\n" \
                    f"Break: {workout.break_in_secs} s"
 
-            w = CalendarEvent("Push Ups", workout_date, text)
+            calendar_workout_date = datetime.datetime.combine(date=workout_date, time=self.workout_time_of_day)
+            w = CalendarEvent("Push Ups", calendar_workout_date, text, alarm=True)
             ws.append(w)
             workout_date += timedelta(days=2)
 
@@ -146,6 +148,6 @@ class PushUps:
         return monday
 
 
-if __name__ == '__main__': # pragma: no cover
+if __name__ == '__main__':  # pragma: no cover
     p = PushUps()
     p.create_workout_calendar()

@@ -1,4 +1,3 @@
-import os
 from datetime import date
 
 from fitness_plans.fitmacher_formel import FitMacherFormel

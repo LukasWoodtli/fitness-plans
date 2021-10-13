@@ -1,14 +1,16 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from icalendar import Event
 from icalendar import Calendar
+from icalendar import Alarm
 
 
 class CalendarEvent:
-    def __init__(self, summary, date, description=""):
+    def __init__(self, summary, date, description="", alarm=False):
         self.summary = summary
         self.date = date
         self.description = description
+        self.alarm = alarm
 
     def get_event_as_ical(self):
         event = Event()
@@ -17,6 +19,14 @@ class CalendarEvent:
         event.add('dtend', self.date)
         event.add('dtstamp', datetime.now())
         event.add('description', self.description)
+
+        if self.alarm:
+            alarm = Alarm()
+            alarm.add('action', 'DISPLAY')
+            alert_time = timedelta(minutes=-15)
+            alarm.add('trigger', alert_time)
+            event.add_component(alarm)
+
         return event
 
 
