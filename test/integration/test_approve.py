@@ -7,6 +7,7 @@ from approvaltests.scrubbers import create_regex_scrubber
 
 from fitness_plans.fitmacher_formel import FitMacherFormel
 from fitness_plans.pullup_challenge import PullUpChallenge
+from fitness_plans.push_ups import PushUps
 
 OPTIONS_WITH_SCRUBBER = Options().with_scrubber(create_regex_scrubber("DTSTAMP;VALUE=DATE-TIME.*", "[creation date]"))
 
@@ -38,6 +39,12 @@ def test_fitmacher_formel_output_file():
 def test_pullup_challenge():
     challenge = PullUpChallenge(start_date=date(2020, 5, 30))
     calendar = challenge._create_workouts_from_text()
+    verify(calendar, options=OPTIONS_WITH_SCRUBBER)
+
+
+def test_pushups():
+    push_ups = PushUps(start_date=date(2020, 5, 30))
+    calendar = push_ups._create_workouts()
     verify(calendar, options=OPTIONS_WITH_SCRUBBER)
 
 

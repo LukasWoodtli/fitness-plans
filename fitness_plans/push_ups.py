@@ -96,8 +96,8 @@ WORKOUT_WEEKS = [
 class PushUps:
     CALENDAR_NAME = "PushUps"
 
-    def __init__(self, workout_start_week=date.today()):
-        self.workout_start = workout_start_week
+    def __init__(self, start_date=date.today()):
+        self.workout_start = start_date
 
     def create_workout_calendar(self):
         output_file_path = f'{self.CALENDAR_NAME}.ics'
