@@ -1,7 +1,7 @@
 from datetime import date
 
-from fitness_plans.fitmacher_formel import FitMacherFormel
-from fitness_plans.workout_calendar import CalendarEvent
+from fitness_plans.dfmf.fitmacher_formel import FitMacherFormel
+from fitness_plans.lib.workout_calendar import CalendarEvent
 
 
 def test_filter_skipped_workouts():

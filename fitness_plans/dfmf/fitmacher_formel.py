@@ -6,14 +6,14 @@ from datetime import date, timedelta
 import re
 import os
 
-from fitness_plans.abstract_fitness_plan import FitnessPlan
-from fitness_plans.workout_calendar import CalendarEvent, WorkoutCalendar
+from fitness_plans.lib.abstract_fitness_plan import FitnessPlan
+from fitness_plans.lib.workout_calendar import CalendarEvent, WorkoutCalendar
 
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 
 
 class FitMacherFormel(FitnessPlan):
-    INPUT_FILE = os.path.join(SCRIPT_DIR, '../dfmf.encoded.txt')
+    INPUT_FILE = os.path.join(SCRIPT_DIR, 'dfmf.encoded.txt')
     CALENDAR_NAME = "DieFitMacherFormel"
 
     def __init__(self, workout_start_date=date.today(), first_workout=1, output_dir=None):

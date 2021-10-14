@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-from datetime import timedelta, date, datetime
+from datetime import timedelta, date
 import requests
 from bs4 import BeautifulSoup
 
-from fitness_plans.workout_calendar import CalendarEvent, WorkoutCalendar
+from fitness_plans.lib.workout_calendar import CalendarEvent, WorkoutCalendar
 
 
 class Workout:

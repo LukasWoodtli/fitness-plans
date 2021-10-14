@@ -5,7 +5,7 @@ import datetime
 from datetime import date, time, timedelta
 #from bs4 import BeautifulSoup
 #from itertools import chain
-from fitness_plans.workout_calendar import CalendarEvent, WorkoutCalendar
+from fitness_plans.lib.workout_calendar import CalendarEvent, WorkoutCalendar
 
 Workout = collections.namedtuple('Workout', ['sets', 'reps', 'break_in_secs'])
 

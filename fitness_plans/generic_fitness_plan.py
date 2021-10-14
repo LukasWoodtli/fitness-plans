@@ -1,6 +1,6 @@
-from datetime import datetime, timedelta, date
+from datetime import timedelta, date
 
-from fitness_plans.workout_calendar import CalendarEvent, WorkoutCalendar
+from fitness_plans.lib.workout_calendar import CalendarEvent
 
 MON = 1
 TUE = 2

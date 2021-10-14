@@ -5,14 +5,14 @@ from unittest.mock import patch
 from approvaltests import Options, verify, verify_file
 from approvaltests.scrubbers import create_regex_scrubber
 
-from fitness_plans.fitmacher_formel import FitMacherFormel
+from fitness_plans.dfmf.fitmacher_formel import FitMacherFormel
 from fitness_plans.pullup_challenge import PullUpChallenge
 from fitness_plans.push_ups import PushUps
 
 OPTIONS_WITH_SCRUBBER = Options().with_scrubber(create_regex_scrubber("DTSTAMP;VALUE=DATE-TIME.*", "[creation date]"))
 
 
-@patch('fitness_plans.fitmacher_formel.FitMacherFormel.save_calendar')
+@patch('fitness_plans.dfmf.fitmacher_formel.FitMacherFormel.save_calendar')
 def test_fitmacher_formel(mock_save_calendar):
     fmf = FitMacherFormel(date(2020, 5, 29))
     fmf.build()
@@ -50,8 +50,8 @@ def test_pushups():
     verify(calendar, options=OPTIONS_WITH_SCRUBBER)
 
 
-@patch('fitness_plans.fitmacher_formel.FitMacherFormel.save_calendar')
-@patch('fitness_plans.fitmacher_formel.FitMacherFormel.read_input_file')
+@patch('fitness_plans.dfmf.fitmacher_formel.FitMacherFormel.save_calendar')
+@patch('fitness_plans.dfmf.fitmacher_formel.FitMacherFormel.read_input_file')
 def test_create_workout_calendar(mock_read_input_file, mock_save_calendar):
     mock_read_input_file.return_value = \
         "1. TAG: Hello 1\n" \
