@@ -11,7 +11,7 @@ def test_filter_skipped_workouts():
         CalendarEvent("3. TAG", date(year=1980, month=7, day=9), "description 3")
     ]
     fmf = FitMacherFormel(first_workout=2)
-    filtered_workout_list = fmf._filter_skipped_workouts(workout_list)
+    filtered_workout_list = fmf.filter_workouts(workout_list)
     assert 2 == len(filtered_workout_list)
     assert "2. TAG" == filtered_workout_list[0].summary
     assert "3. TAG" == filtered_workout_list[1].summary
