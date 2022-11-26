@@ -2,6 +2,7 @@ import os
 import shutil
 from datetime import date
 from unittest.mock import patch
+
 from approvaltests import Options, verify, verify_file
 from approvaltests.scrubbers import create_regex_scrubber
 
@@ -51,7 +52,7 @@ def test_pushups():
 
 
 @patch('fitness_plans.dfmf.fitmacher_formel.FitMacherFormel.save_calendar')
-@patch('fitness_plans.dfmf.fitmacher_formel.FitMacherFormel.read_input_file')
+@patch('fitness_plans.dfmf.fitmacher_formel.FitMacherFormel.get_input')
 def test_create_workout_calendar(mock_read_input_file, mock_save_calendar):
     mock_read_input_file.return_value = \
         "1. TAG: Hello 1\n" \
