@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Fitness
+BEGIN:VEVENT
+SUMMARY:Workout Day 1
+DTSTART;VALUE=DATE:20221212
+DTEND;VALUE=DATE:20221212
+[creation date]
+DESCRIPTION:EMOTM für 5 Minuten: 15 Air Squats\nAuf Zeit: 10...1 Push-Up 
+ und Sit-Up
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 4
+DTSTART;VALUE=DATE:20221215
+DTEND;VALUE=DATE:20221215
+[creation date]
+DESCRIPTION:EMOTM für 5 Minuten:\n15 Russian Swings\nAuf Zeit: 250 Rope J
+ umps
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 6
+DTSTART;VALUE=DATE:20221217
+DTEND;VALUE=DATE:20221217
+[creation date]
+DESCRIPTION:10...1 Goblet Squats & Push-Ups\nIntervalle FLR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 8
+DTSTART;VALUE=DATE:20221219
+DTEND;VALUE=DATE:20221219
+[creation date]
+DESCRIPTION:Pull-Ups\nAuf Zeit: 15 - 12 - 9 Push-Ups\,\nRussian Swings\,\n
+ Sit-Ups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 11
+DTSTART;VALUE=DATE:20221222
+DTEND;VALUE=DATE:20221222
+[creation date]
+DESCRIPTION:60 Sekunden AMRAP: Burpees\nAuf Zeit:\n400 Rope Jumps\nInterva
+ lle FLR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 13
+DTSTART;VALUE=DATE:20221224
+DTEND;VALUE=DATE:20221224
+[creation date]
+DESCRIPTION:EMOTM für 5 Minuten: 12 American Swings\n7 Minuten AMRAP:\n5 
+ Push-Ups\n10 Sit-Ups\n15 Air-Squats
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 15
+DTSTART;VALUE=DATE:20221226
+DTEND;VALUE=DATE:20221226
+[creation date]
+DESCRIPTION:4x max. Pull-Ups\nAuf Zeit: 1000 Rope Jumps und 100 Push-Ups\n
+ 2 Minuten Hollow Hold
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 18
+DTSTART;VALUE=DATE:20221229
+DTEND;VALUE=DATE:20221229
+[creation date]
+DESCRIPTION:EMOTM für 8 Minuten:\ngerade: 12 Russian Swings\nungerade: 10
+  American Swings\n\n8 Runden Tabata Air Squats
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 20
+DTSTART;VALUE=DATE:20221231
+DTEND;VALUE=DATE:20221231
+[creation date]
+DESCRIPTION:8 Runden Tabata Rope Jumps\n8 x 10 m One Arm Overhead Lunges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 22
+DTSTART;VALUE=DATE:20230102
+DTEND;VALUE=DATE:20230102
+[creation date]
+DESCRIPTION:4x max. Push-ups\nEMOTM für 12 Minuten:\ngerade: 12 Goblet Sq
+ uats\nungerade: 10 Russian Swings\n\n4 Runden FLR/Mountain Climber Finishe
+ r/FLR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 25
+DTSTART;VALUE=DATE:20230105
+DTEND;VALUE=DATE:20230105
+[creation date]
+DESCRIPTION:EMOTM für 5 Minuten: Pull-ups\n8 Runden Tabata Burpees\n120 S
+ ekunden L-Hold
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 27
+DTSTART;VALUE=DATE:20230107
+DTEND;VALUE=DATE:20230107
+[creation date]
+DESCRIPTION:4x max. Pull-ups\n\nEMOTM für 20 Minuten:\n5 Push-ups\,\n5 Ru
+ ssian Swings\,\n5 Sit-ups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 29
+DTSTART;VALUE=DATE:20230109
+DTEND;VALUE=DATE:20230109
+[creation date]
+DESCRIPTION:10 Minuten Rope Jumps\nEMOTM für 10 Minuten:\ngerade: 10 Gobl
+ et Squats\nungerade: Hollow Hold /FLR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 31
+DTSTART;VALUE=DATE:20230111
+DTEND;VALUE=DATE:20230111
+[creation date]
+DESCRIPTION:Cindy\n180 Sekunden L-Sit\, L-Hang und Hollow Hold
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 33
+DTSTART;VALUE=DATE:20230113
+DTEND;VALUE=DATE:20230113
+[creation date]
+DESCRIPTION:Lunges-Variationen\, dazwischen max Pull-ups\n2Death by Burpee
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 35
+DTSTART;VALUE=DATE:20230115
+DTEND;VALUE=DATE:20230115
+[creation date]
+DESCRIPTION:AMRAP für 5 Minuten:\n6 SDHP & 6 Box Jumps\nAuf Zeit: 21 - 15
+  - 9 American Swings & Push-ups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 37
+DTSTART;VALUE=DATE:20230117
+DTEND;VALUE=DATE:20230117
+[creation date]
+DESCRIPTION:6 x 10 Kettlebell Front Squats\,\ndazwischen Jumping Pull-ups\
+ n\n21 - 15 - 9: Double Unders & Burpees oder Singles\nund Burpees im Wechs
+ el\n\n4 Runden: FLR/Mountain Climbers/FLR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 39
+DTSTART;VALUE=DATE:20230119
+DTEND;VALUE=DATE:20230119
+[creation date]
+DESCRIPTION:4x max. Pull-ups\nAMRAP für 10 Minuten:\n5 Push-ups\n10 Ameri
+ can Swings\n15 Sit-ups\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 41
+DTSTART;VALUE=DATE:20230121
+DTEND;VALUE=DATE:20230121
+[creation date]
+DESCRIPTION:5000-m-Lauf\n3 x 10 Hollow Rock\,\ndazwischen 2 x 45 Sekunden 
+ Superman\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 43
+DTSTART;VALUE=DATE:20230123
+DTEND;VALUE=DATE:20230123
+[creation date]
+DESCRIPTION:2 Runden: Mountain Climbers/FLR/Mountain\nClimbers/FLR\nAuf Ze
+ it: 100 Burpees\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 45
+DTSTART;VALUE=DATE:20230125
+DTEND;VALUE=DATE:20230125
+[creation date]
+DESCRIPTION:10 Minuten Rope Jump\;\n3 x 12 Hollow Rock\n5 Runden:\nmax. Pu
+ sh-ups\n10 Box Jumps\n50 Singles unbroken\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 47
+DTSTART;VALUE=DATE:20230127
+DTEND;VALUE=DATE:20230127
+[creation date]
+DESCRIPTION:3 Durchgänge Pull-ups\nEMOTM für 8 Minuten: American Swings\
+ nEMOTM für 8 Minuten: Hollow Rock\nEMOTM für 8 Minuten: Goblet Lunges\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 49
+DTSTART;VALUE=DATE:20230129
+DTEND;VALUE=DATE:20230129
+[creation date]
+DESCRIPTION:10 Minuten Rope Jump\n7 Minuten AMRAP:\n5 Push-ups\n10 Sit-ups
+ \n15 Air Squats\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 51
+DTSTART;VALUE=DATE:20230131
+DTEND;VALUE=DATE:20230131
+[creation date]
+DESCRIPTION:4x max. Pull-ups\n5 Runden:\n60 Sekunden AMRAP:\n3 Burpees\n5 
+ American Swings\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 53
+DTSTART;VALUE=DATE:20230202
+DTEND;VALUE=DATE:20230202
+[creation date]
+DESCRIPTION:5 Minuten Rope Jumps\nEMOTM für 30 Minuten:\n5 Push-ups\n5 Ru
+ ssian Swings\n5 Sit-ups\nJede 5. Minute: 10 Burpees\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout Day 55
+DTSTART;VALUE=DATE:20230204
+DTEND;VALUE=DATE:20230204
+[creation date]
+DESCRIPTION:5 Minuten Rope Jumps\n2 Minuten AMRAP: Double Unders\n4x max. 
+ Hollow Hold\n8 Runden Tabata Burpees
+END:VEVENT
+END:VCALENDAR

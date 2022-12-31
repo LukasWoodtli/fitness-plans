@@ -6,6 +6,7 @@ from unittest.mock import patch
 from approvaltests import Options, verify, verify_file
 from approvaltests.scrubbers import create_regex_scrubber
 
+from fitness_plans.crossfit.crossfit import CrossFit
 from fitness_plans.dfmf.fitmacher_formel import FitMacherFormel
 from fitness_plans.pullup_challenge import PullUpChallenge
 from fitness_plans.push_ups import PushUps
@@ -25,10 +26,17 @@ def test_fitmacher_formel(mock_save_calendar):
 
 def test_fitmacher_formel_output_file():
     test_output_dir = os.path.join(os.path.dirname(__file__), 'test_out')
-    shutil.rmtree(test_output_dir, ignore_errors=True)
     fmf = FitMacherFormel(date(2021, 10, 11), output_dir=test_output_dir)
     fmf.build()
     out_file = os.path.join(test_output_dir, "DieFitMacherFormel.ics")
+
+    verify_file(out_file, options=OPTIONS_WITH_SCRUBBER)
+
+def test_cross_fit_output_file():
+    test_output_dir = os.path.join(os.path.dirname(__file__), 'test_out')
+    cross_fit = CrossFit(date(2022, 12, 11), output_dir=test_output_dir)
+    cross_fit.build()
+    out_file = os.path.join(test_output_dir, "Cross Fit.ics")
 
     verify_file(out_file, options=OPTIONS_WITH_SCRUBBER)
 
