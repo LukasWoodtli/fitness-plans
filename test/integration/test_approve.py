@@ -10,7 +10,9 @@ from fitness_plans.dfmf.fitmacher_formel import FitMacherFormel
 from fitness_plans.pullup_challenge import PullUpChallenge
 from fitness_plans.push_ups import PushUps
 
-OPTIONS_WITH_SCRUBBER = Options().with_scrubber(create_regex_scrubber("DTSTAMP;VALUE=DATE-TIME.*", "[creation date]"))
+OPTIONS_WITH_SCRUBBER = Options()\
+    .for_file.with_extension(".txt")\
+    .with_scrubber(create_regex_scrubber("DTSTAMP;VALUE=DATE-TIME.*", "[creation date]"))
 
 
 @patch('fitness_plans.dfmf.fitmacher_formel.FitMacherFormel.save_calendar')
@@ -27,17 +29,8 @@ def test_fitmacher_formel_output_file():
     fmf = FitMacherFormel(date(2021, 10, 11), output_dir=test_output_dir)
     fmf.build()
     out_file = os.path.join(test_output_dir, "DieFitMacherFormel.ics")
-    out_file_scrubbed = out_file + ".scrubbed.ics"
-    with open(out_file, "r") as o_file:
-        with open(out_file_scrubbed, "w") as o_file_scrubbed:
-            for line in o_file.readlines():
-                if not line.startswith("DTSTAMP;VALUE=DATE-TIME"):
-                    o_file_scrubbed.writelines(line)
-                else:
-                    o_file_scrubbed.writelines("[scrubbed creation date]\n")
 
-    verify_file(out_file_scrubbed)
-
+    verify_file(out_file, options=OPTIONS_WITH_SCRUBBER)
 
 def test_pullup_challenge():
     challenge = PullUpChallenge(start_date=date(2020, 5, 30))
