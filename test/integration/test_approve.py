@@ -13,7 +13,7 @@ from fitness_plans.push_ups import PushUps
 
 OPTIONS_WITH_SCRUBBER = Options()\
     .for_file.with_extension(".txt")\
-    .with_scrubber(create_regex_scrubber("DTSTAMP;VALUE=DATE-TIME.*", "[creation date]"))
+    .with_scrubber(create_regex_scrubber("DTSTAMP:.*", "[creation date]"))
 
 
 @patch('fitness_plans.dfmf.fitmacher_formel.FitMacherFormel.save_calendar')
